@@ -3,8 +3,6 @@ sidebar_position: 4
 title: 'Oraxen'
 ---
 
-import video from './assets/Oraxen.mp4';
-
 
 # How to merge Unlimited Adventures resource pack with Oraxen
 
