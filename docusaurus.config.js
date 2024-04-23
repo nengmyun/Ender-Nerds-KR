@@ -66,7 +66,7 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: '엔더너드',
+        title: '엔더 너드',
         logo: {
           alt: 'My Site Logo',
           src: 'img/logo.svg',
@@ -105,7 +105,7 @@ const config = {
                 href: 'https://builtbybit.com/resources/unlimited-adventures-survival-setup.27917/',
               },
               {
-                label: '(언리미티드 백팩) Unlimited Backpacks',
+                label: '(어드번처 백팩) Adventures Backpacks',
                 href: 'https://builtbybit.com/resources/adventure-backpacks.35950/',
               },
               {
