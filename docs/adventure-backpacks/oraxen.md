@@ -4,7 +4,6 @@ title: 'Oraxen'
 ---
 
 
-import ReactPlayer from 'react-player'
 import video from './assets/Oraxen.mp4';
 
 
