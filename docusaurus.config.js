@@ -115,7 +115,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Made for Ender Nerds. Not affiliated with Mojang Studios.`,
+        copyright: `Ender Nerds 제작. Mojang Studios 와는 관련 없습니다..`,
       },
       prism: {
         theme: prismThemes.github,
