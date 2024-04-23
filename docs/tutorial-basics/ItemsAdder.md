@@ -16,3 +16,4 @@ title: Items Adder
 > ``/iazip`` 명령을 실행합니다.
 
 완료! 이제 서버를 시작하고 ItemsAdder와 Adventure Backpacks를 함께 즐겨보세요 ❤️
+
