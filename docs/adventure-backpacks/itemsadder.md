@@ -4,7 +4,8 @@ title: 'Items Adder'
 ---
 
 
-import video from './ItemsAdder.mp4';
+import ReactPlayer from 'react-player'
+import video from './assets/itemsadder.mp4';
 
 
 # How to merge Adventure Backpacks resource pack with ItemsAdder
