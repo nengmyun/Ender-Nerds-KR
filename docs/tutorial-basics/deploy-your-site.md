@@ -1,5 +1,5 @@
 ---
-sidebar_position: 5
+sidebar_position: 2
 ---
 
 # Adventure Backpacks 리소스 팩을 Oraxen과 병합하는 방법
