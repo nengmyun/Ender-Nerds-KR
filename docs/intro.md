@@ -6,4 +6,5 @@ sidebar_position: 1
 
 해당 설명서는 Ender Nerds의 제품들을 구매하신 한국인분들을 위하여 제작되었습니다.
 Ender Nerds의 허락을 받은 후 제작될 예정이며, 상의 후 계속 추가할 예정입니다.
-(공식 설명서가 아닌, 번역본 입니다. 공식 설명서는 [여기](https://endernerds.netlify.app/)를 클릭해주세요.)
+
+(해당 설명서는 공식 설명서가 아닌 번역본 입니다. 공식 설명서는 [여기](https://endernerds.netlify.app/)를 클릭해주세요.)
