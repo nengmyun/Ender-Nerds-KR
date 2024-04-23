@@ -105,7 +105,7 @@ const config = {
                 href: 'https://builtbybit.com/resources/unlimited-adventures-survival-setup.27917/',
               },
               {
-                label: '(어드번처 백팩) Adventures Backpacks',
+                label: '어드번처 백팩 (Adventures Backpacks)',
                 href: 'https://builtbybit.com/resources/adventure-backpacks.35950/',
               },
               {
@@ -115,7 +115,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Ender Nerds 제작. Mojang Studios 와는 관련 없습니다..`,
+        copyright: `Ender Nerds가 제작한 제품입니다. Mojang Studios 와는 관련 없습니다.`,
       },
       prism: {
         theme: prismThemes.github,
