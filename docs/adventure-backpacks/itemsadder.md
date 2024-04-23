@@ -4,7 +4,6 @@ title: 'Items Adder'
 ---
 
 
-import ReactPlayer from 'react-player'
 import video from './assets/ItemsAdder.mp4';
 
 
