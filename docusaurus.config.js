@@ -66,7 +66,7 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'My Site',
+        title: '엔더너드',
         logo: {
           alt: 'My Site Logo',
           src: 'img/logo.svg',
@@ -76,12 +76,12 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'Tutorial',
+            label: '설명서',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
+          {to: '/blog', label: '디스코드', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
-            label: 'GitHub',
+            href: 'https://discord.gg/xZQtkE5uCG',
+            label: '디스코드',
             position: 'right',
           },
         ],
@@ -93,43 +93,30 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Tutorial',
+                label: '설명서',
                 to: '/docs/intro',
               },
             ],
           },
           {
-            title: 'Community',
+            title: '링크',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                label: '언리미티드 어드벤처 (Unlimited Adventures)',
+                href: 'https://builtbybit.com/resources/unlimited-adventures-survival-setup.27917/',
               },
               {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
+                label: '(언리미티드 백팩) Unlimited Backpacks',
+                href: 'https://builtbybit.com/resources/adventure-backpacks.35950/',
               },
               {
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
-              },
-            ],
-          },
-          {
-            title: 'More',
-            items: [
-              {
-                label: 'Blog',
-                to: '/blog',
-              },
-              {
-                label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                label: '디스코드',
+                href: 'https://discord.gg/xZQtkE5uCG',
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Made for Ender Nerds. Not affiliated with Mojang Studios.`,
       },
       prism: {
         theme: prismThemes.github,
