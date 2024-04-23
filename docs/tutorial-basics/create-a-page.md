@@ -6,7 +6,7 @@ sidebar_position: 1
 안녕하세요! Adventure Backpacks에 관심을 가져주셔서 감사합니다! 이 페이지에서는 여러분들이 가장 많이 주신 질문에 대한 답변을 적어두었습니다.
 **더 자세한 정보**를 원하시면 [Discord](https://discord.gg/wdBFC7Hc6X)에 가입해 주세요. 모든 질문에 성실히 답변해 드리겠습니다!
 
-## Adventure Backpacks이란?
+## Adventure Backpacks 이란?
 > Adventure Backpacks는 아름다운 3D 배낭을 제작하고 착용하여 플레이어가 새로운 모험을 경험할 수 있게 해주는 플러그인입니다! 플레이어는 배낭의 저장 공간을 업그레이드하고 몬스터의 힘을 가방에 적용할 수 있습니다!
 
 # ▶️ 기본 정보
