@@ -16,5 +16,4 @@ sidebar_position: 2
 
 완료! 이제 서버를 시작하고 Oraxen과 Adventure Backpacks를 함께 즐겨보세요 ❤️
 
-https://github.com/nengmyun/Ender-Nerds-KR/assets/44965898/6a687bb5-00f4-4e0a-950d-7b97fea7b1e6
-
+https://github.com/nengmyun/Ender-Nerds-KR/assets/44965898/8363b753-f7f6-4250-8de6-952662dff13d
