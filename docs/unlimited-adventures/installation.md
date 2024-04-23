@@ -3,9 +3,6 @@ sidebar_position: 1
 title: 'Setup Installation'
 ---
 
-import ReactPlayer from 'react-player'
-import video from './assets/setup_installation.mov';
-
 # :hatching_chick: Setup Installation
 
 So you've just purchased Unlimited Adventures? Yeehaw! I know that you can't wait to use it, so let's get straight to the point!
