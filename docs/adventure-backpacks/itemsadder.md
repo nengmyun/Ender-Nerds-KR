@@ -4,8 +4,6 @@ title: 'Items Adder'
 ---
 
 
-import video from './assets/ItemsAdder.mp4';
-
 
 # How to merge Adventure Backpacks resource pack with ItemsAdder
 
