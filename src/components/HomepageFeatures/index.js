@@ -4,32 +4,30 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
+    title: '전문적인 디자인',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        저희의 제품은 전문가가 디자인합니다.
+        해당 제품들은 저희의 열정과 사랑에 힘입어 만들어집니다.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: '빠른 도움',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        설치 및 사용 방법은 설명서를 확인해보세요.
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: '디스코',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        설명서로도 이해되지 않는 것들은 디스코드에서 물어보세요!
       </>
     ),
   },
