@@ -4,9 +4,6 @@ title: 'Oraxen'
 ---
 
 
-import video from './assets/Oraxen.mp4';
-
-
 # How to merge Adventure Backpacks resource pack with Oraxen
 
 This is actually a very simple process. You can follow the text guide, or watch the video!
