@@ -3,7 +3,6 @@ sidebar_position: 5
 title: 'Items Adder'
 ---
 
-import video from './assets/ItemsAdder.mp4';
 
 
 # How to merge Unlimited Adventures resource pack with ItemsAdder
