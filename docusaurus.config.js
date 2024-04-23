@@ -78,7 +78,6 @@ const config = {
             position: 'left',
             label: '설명서',
           },
-          {to: '/blog', label: '디스코드', position: 'left'},
           {
             href: 'https://discord.gg/xZQtkE5uCG',
             label: '디스코드',
