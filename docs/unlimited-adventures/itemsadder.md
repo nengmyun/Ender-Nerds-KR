@@ -3,7 +3,6 @@ sidebar_position: 5
 title: 'Items Adder'
 ---
 
-import ReactPlayer from 'react-player'
 import video from './assets/ItemsAdder.mp4';
 
 
