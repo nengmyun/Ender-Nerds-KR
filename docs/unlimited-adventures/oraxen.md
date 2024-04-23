@@ -4,7 +4,7 @@ title: 'Oraxen'
 ---
 
 import ReactPlayer from 'react-player'
-import video from './assets/oraxen.mp4';
+import video from './assets/Oraxen.mp4';
 
 
 # How to merge Unlimited Adventures resource pack with Oraxen
