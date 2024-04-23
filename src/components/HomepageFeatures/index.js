@@ -23,7 +23,7 @@ const FeatureList = [
     ),
   },
   {
-    title: '디스코',
+    title: '디스코드',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
