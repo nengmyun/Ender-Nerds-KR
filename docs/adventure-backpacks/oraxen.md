@@ -4,7 +4,8 @@ title: 'Oraxen'
 ---
 
 
-import video from './Oraxen.mp4';
+import ReactPlayer from 'react-player'
+import video from './assets/oraxen.mp4';
 
 
 # How to merge Adventure Backpacks resource pack with Oraxen
