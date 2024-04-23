@@ -3,7 +3,6 @@ sidebar_position: 4
 title: 'Oraxen'
 ---
 
-import ReactPlayer from 'react-player'
 import video from './assets/Oraxen.mp4';
 
 
