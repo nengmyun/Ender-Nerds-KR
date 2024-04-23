@@ -2,30 +2,19 @@
 sidebar_position: 5
 ---
 
-# Deploy your site
+# Adventure Backpacks 리소스 팩을 Oraxen과 병합하는 방법
+정말 매우 간단합니다. 글로된 설명을 따르거나 영상을 시청할 수 있습니다!
 
-Docusaurus is a **static-site-generator** (also called **[Jamstack](https://jamstack.org/)**).
+**Step 1**
+> /stop 으로 서버를 멈추세요
 
-It builds your site as simple **static HTML, JavaScript and CSS files**.
+**Step 2**
+> Adventure Backpacks의 리소스 팩 내용을 복사합니다(``Adventure Backpacks/assets/``에 있는 모든 항목이며, 작성일 기준으로 ``Minecraft`` 폴더 입니다.)
 
-## Build your site
+**Step 3**
+> 복사한 폴더를 ``plugins/Oraxen/pack/assets``에 붙여넣으세요.
 
-Build your site **for production**:
+완료! 이제 서버를 시작하고 Oraxen과 Adventure Backpacks를 함께 즐겨보세요 ❤️
 
-```bash
-npm run build
-```
+https://github.com/nengmyun/Ender-Nerds-KR/assets/44965898/6a687bb5-00f4-4e0a-950d-7b97fea7b1e6
 
-The static files are generated in the `build` folder.
-
-## Deploy your site
-
-Test your production build locally:
-
-```bash
-npm run serve
-```
-
-The `build` folder is now served at [http://localhost:3000/](http://localhost:3000/).
-
-You can now deploy the `build` folder **almost anywhere** easily, **for free** or very small cost (read the **[Deployment Guide](https://docusaurus.io/docs/deployment)**).
