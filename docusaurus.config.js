@@ -112,7 +112,7 @@ const config = {
             label: '디스코드',
             href: 'https://discord.gg/wdBFC7Hc6X'
           },
-          {href: 'https://builtbybit.com/creators/madpancake.171954/', label: 'Products', position: 'left'}
+          {href: 'https://builtbybit.com/creators/madpancake.171954/', label: '제품구매', position: 'left'}
         ],
       },
       footer: {
