@@ -58,7 +58,7 @@ With hundreds of hours designing and developing the setup, every feature is extr
 #### What if I don't like the setup?
 > We will refund you. Yeah, seriously! We are 100% confident with the quality of Unlimited Adventures!\
 > So if you don't like the setup, just message us and you'll get your money back!\
-> Read more about our [unique refund policy](/money-back-guarantee)!
+> Read more about our [unique refund policy](https://endernerds.netlify.app/money-back-guarantee/)!
 
 #### My question is not on the list!
 > If that's the case, please ask your question on [Our Discord](https://discord.gg/wdBFC7Hc6X)!
