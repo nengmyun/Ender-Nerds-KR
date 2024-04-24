@@ -1,35 +1,35 @@
 ---
 sidebar_position: 3
-title: 'Resource Pack'
+title: '리소스팩 적용'
 ---
 
 import resource_pack_zip from './assets/resource-pack-zip.jpg';
 
 
 
-# :file_folder:  How to access the resource pack?
+# :file_folder:  리소스팩에 어떻게 접근하나요?
 
-This guide will explain how to download the Unlimited Adventures resource pack.
+이 가이드에서는 Unlimited Adventures 리소스팩을 다운로드하는 방법을 설명합니다.
 
 #### Step 1
-Find `server.properties` file in the main server folder.
+`server.properties` 파일을 찾으세요.(`server.jar`과 같은 위치 입니다.)
 
 #### Step 2
-Open the file and look for `resource-pack=`
+파일을 열고 `Ctrl(컨트롤) + F`를 누른 뒤 `resource-pack=` 을 검색하여 찾으세요.
 
 #### Step 3
-Notice that there is a backwards slash added in the beginning. **You have to remove it!**\
+https 뒤에 `\`가 추가되어 있습니다. **이것만 제거하세요.**\
 `https\://download.mc-packs.net/pack/afdbe0108c6d2126eddb96c57013829bd00e4300.zip`
 
 
-Your link should look like that:\
+그러면 이렇게 될겁니다.:\
 `https://download.mc-packs.net/pack/afdbe0108c6d6126eddb96d57013839bd00e4300.zip`
 
 #### Step 4
-Copy the link and paste it in your browser.
+브라우저(Chrome, Edge 등등)에 붙여넣기하시면 다운로드가 완료됩니다!
 
 :::warning
-This above link is just an example, download the resource pack using a link from your `server.properties` file!
+위 링크는 예시용 링크 이므로, 꼭 `server.properties` 파일의 링크를 사용하여 리소스 팩을 다운로드하세요!
 :::
 
 
@@ -39,20 +39,20 @@ This above link is just an example, download the resource pack using a link from
 <br></br>
 <br></br>
 
-# How to update the server's resource pack?
+# 서버의 리소스 팩을 업데이트하는 방법
 
 **Step 1**
-> ZIP your resource pack, don't ZIP it inside of a folder. Files should be loose. Refer to the image below.
+> 리소스 팩을 압축하되, 폴더 안에 압축하지 마세요. 파일들을 압축해야합니다. (아래 이미지를 참조하세요.)
 <img src={resource_pack_zip} alt="Image Description" width="400" height="150"/>
 
 **Step 2**
-> Upload your ZIP to [MCPacks](https://mc-packs.net/).
+> 압축된 파일을 [MCPacks](https://mc-packs.net/)에 업로드합니다.
 
 **Step 3**
-> Copy resource pack link and the SHA1.
+> 리소스팩 링크와 SHA1 값을 복사하세요.
 
 **Step 4**
-> Locate the `resource-pack` in `server.properties`, paste the new link here.\
-> Locate `resource-pack-sha1=` and paste the new SHA1 here.
+> `server.properties`에서 `resource-pack=`을 찾아 여기에 리소스팩 링크를 붙여넣으세요.\
+> 그리고 `resource-pack-sha1=`을 찾아 여기에 SHA1 값을 붙여넣으세요.
 
 
