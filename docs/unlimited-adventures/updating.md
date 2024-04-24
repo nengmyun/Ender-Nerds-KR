@@ -6,7 +6,7 @@ title: '업데이트'
 
 # :bulb: **서버를 어떻게 업데이트 하나요?**
 
-이미 서버를 다운하였지만, but would like to install the update, you can easily do it!
+이미 서버를 다운했으나 새로운 버전으로 업데이트 하고 싶나요? 아래 단계를 잘 따라오시면 정말 쉬워요!
 
 :::warning[버전을 스킵하지 마세요!]
 서버팩의 버전을 건너뛰어선 안됩니다! 예시로, 2.0 버전 에서 2.4 버전으로 퀀텀 점프를 하면 안되는 것 입니다!\
@@ -21,14 +21,14 @@ title: '업데이트'
 > 업데이트 할 버전을 [다운로드](https://builtbybit.com/resources/unlimited-adventures.27917/) 합니다.
 
 **Step 2**
-> Make a back up of your server files in another place, just to be safe.
+> 만일을 위해 서버 파일을 다른 곳에 백업해 두세요.
 
 **Step 3**
-> Find the `Update Files` folder.\
-> Copy and paste the update files into your current server folder.
+> `Update Files` 폴더를 찾으세요.\
+> 업데이트 파일을 복사하여 현재 서버 폴더에 붙여넣습니다.
 
 **Step 4**
-> Select 'Replace the file' and voila!
-> New, updated files, should now replace the old files automatically.
+> '파일 바꾸기'를 선택하면... 짜잔!
+> 이제 업데이트된 새 파일이 이전 파일을 자동으로 대체습니다.
 
-:white_check_mark: You can enjoy the latest version of Unlimited Adventures!
+:white_check_mark: Unlimited Adventures의 최신 버전을 즐길 수 있습니다!
