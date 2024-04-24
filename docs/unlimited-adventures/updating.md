@@ -18,7 +18,7 @@ title: '업데이트'
 :::
 
 **Step 1**
-> 업데이트 할 버전을 [다운로드] 합니다.(https://builtbybit.com/resources/unlimited-adventures.27917/)
+> 업데이트 할 버전을 [다운로드](https://builtbybit.com/resources/unlimited-adventures.27917/) 합니다.
 
 **Step 2**
 > Make a back up of your server files in another place, just to be safe.
