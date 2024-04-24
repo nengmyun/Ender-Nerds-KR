@@ -122,7 +122,7 @@ const config = {
           { label: '서비스 약관', to: 'https://endernerds.netlify.app/terms-of-service/' },
           { label: '환불 보증', to: 'https://endernerds.netlify.app/money-back-guarantee/' }
         ],
-        copyright: `\Ender Nerds가 제작한 제품이며, Mojang Studios와는 관계가 없습니다..`,
+        copyright: `\nEnder Nerds가 제작한 제품이며, Mojang Studios와는 관계가 없습니다..`,
       },
       prism: {
         theme: prismThemes.github,
