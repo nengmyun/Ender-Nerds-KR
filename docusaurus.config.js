@@ -119,8 +119,8 @@ const config = {
         style: 'dark',
         links: [
           { label: '디스코드', to: 'https://discord.gg/wdBFC7Hc6X' },
-          { label: '서비스 약관', to: 'https://endernerds.netlify.app/terms-of-service/' },
-          { label: '환불 보증', to: 'https://endernerds.netlify.app/money-back-guarantee/' }
+          { label: '서비스 약관', to: 'terms-of-service/' },
+          { label: '환불 보증', to: 'money-back-guarantee/' }
         ],
         copyright: `\nEnder Nerds가 제작한 제품이며, Mojang Studios와는 관계가 없습니다..`,
       },
