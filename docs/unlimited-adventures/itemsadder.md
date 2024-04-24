@@ -3,9 +3,6 @@ sidebar_position: 5
 title: 'Items Adder'
 ---
 
-import ReactPlayer from 'react-player'
-import video from './assets/itemsadder_installation.mp4';
-
 
 # How to merge Unlimited Adventures resource pack with ItemsAdder
 
@@ -31,7 +28,7 @@ If you're installing ItemsAdder for the first time, please refer to its [guide](
 :::
 
 
-<ReactPlayer playing controls url={video} />
+
 
 
 ### Other sources:
