@@ -17,7 +17,4 @@ title: 'Items Adder'
 #### Step 3
 > 서버를 실행한 후 `/iazip` 커맨드를 입력합니다.
 
-끝났습니다! Now start your server and enjoy ItemsAdder and Adventure Backpacks working together :heart:
-
-
-<ReactPlayer playing controls url={video} />
+끝났습니다! 이제 ItemsAdder 와 Adventure Backpacks 을 같이 즐겨보세요 :heart:
