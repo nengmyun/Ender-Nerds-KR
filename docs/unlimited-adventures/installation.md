@@ -1,34 +1,34 @@
 ---
 sidebar_position: 1
-title: 'Setup Installation'
+title: '서버팩 설치'
 ---
 
 
-# :hatching_chick: Setup Installation
+# :hatching_chick: 서버팩 설치 가이드
 
-So you've just purchased Unlimited Adventures? Yeehaw! I know that you can't wait to use it, so let's get straight to the point!
+Unlimited Adventures를 구매하셨나요? 현명하시네요! I know that you can't wait to use it, so let's get straight to the point!
 :::warning
-If you're already using the setup, please refer to [Updating](updating)
+이미 서버팩을 설치하신 후 설정을 끝내셨다면 [업데이트](updating) 페이지로 이동해주세요.
 :::
 
 #### Step 1
 
-Download [Paper 1.20.4](https://api.papermc.io/v2/projects/paper/versions/1.20.4/builds/485/downloads/paper-1.20.4-485.jar)
+[Paper 1.20.4](https://api.papermc.io/v2/projects/paper/versions/1.20.4/builds/485/downloads/paper-1.20.4-485.jar)를 다운로드 합니다.
 
 #### Step 2
-Download & install required plugins: 
-- [TAB](https://github.com/NEZNAMY/TAB/releases/download/4.1.2/TAB.v4.1.2.jar)
-- [Citizens](https://ci.citizensnpcs.co/job/Citizens2/3277/artifact/dist/target/Citizens-2.0.33-b3277.jar)
-- [Model Engine](https://mythiccraft.io/index.php?pages/official-modelengine4-download/&download=free&f=4.0.5)
-- [Mythic Mobs](https://www.mythiccraft.io/downloads/mythicmobs/free/MythicMobs-5.6.1.jar)
+필수 플러그인들을 설치합니다: 
+- [탭(TAB)](https://github.com/NEZNAMY/TAB/releases/download/4.1.2/TAB.v4.1.2.jar)
+- [시티즌(Citizens)](https://ci.citizensnpcs.co/job/Citizens2/3277/artifact/dist/target/Citizens-2.0.33-b3277.jar)
+- [모델 엔진(Model Engine)](https://mythiccraft.io/index.php?pages/official-modelengine4-download/&download=free&f=4.0.5)
+- [미스틱 몹(Mythic Mobs)](https://www.mythiccraft.io/downloads/mythicmobs/free/MythicMobs-5.6.1.jar)
 
 #### Step 3
-Put the plugins into the `plugins` folder.
+설치하신 플러그인을 `plugins`에 넣습니다.
 
 
-Easy, right? Enjoy your server!
+다음 단계요? 끝났습니다!
 
-## Video Tutorial
+## 비디오 튜토리얼
 (준비중)
 
 
