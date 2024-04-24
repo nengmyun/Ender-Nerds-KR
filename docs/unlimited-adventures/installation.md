@@ -7,7 +7,7 @@ title: '서버팩 설치'
 # :hatching_chick: 서버팩 설치 가이드
 
 Unlimited Adventures를 구매하셨나요? 현명하시네요! 빨리 이 서버팩을 쓰고 싶으신거 압니다. 그러니, 빠르게 본론으로 가보자고요!
-:::warning
+:::warning[경고]
 이미 서버팩을 설치하신 후 설정을 끝내셨다면 [업데이트](updating) 페이지로 이동해주세요.
 :::
 
