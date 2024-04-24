@@ -59,13 +59,46 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+      colorMode: {
+        defaultMode: 'dark',
+        respectPrefersColorScheme: false
+      },
+      algolia: {
+        // The application ID provided by Algolia
+        appId: 'ETK2PWH2DV',
+  
+        // Public API key: it is safe to commit it
+        apiKey: 'f378b626f34e34dd72d5d44120fedb65',
+  
+        indexName: 'YOUR_INDEX_NAME',
+  
+        // Optional: see doc section below
+        contextualSearch: true,
+  
+        // Optional: Specify domains where the navigation should occur through window.location instead on history.push. Useful when our Algolia config crawls multiple documentation sites and we want to navigate with window.location.href to them.
+        externalUrlRegex: 'external\\.com|domain\\.com',
+  
+        // Optional: Replace parts of the item URLs from Algolia. Useful when using the same search index for multiple deployments using a different baseUrl. You can use regexp or string in the `from` param. For example: localhost:3000 vs myCompany.com/docs
+        replaceSearchResultPathname: {
+          from: '/docs/', // or as RegExp: /\/docs\//
+          to: '/',
+        },
+  
+        // Optional: Algolia search parameters
+        searchParameters: {},
+  
+        // Optional: path for search page that enabled by default (`false` to disable it)
+        searchPagePath: 'search',
+  
+        //... other Algolia params
+      },
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
         title: '엔더 너드',
         logo: {
-          alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          alt: 'Ender Nerds Logo',
+          src: 'img/logo.jpg',
         },
         items: [
           {
@@ -75,48 +108,29 @@ const config = {
             label: '설명서',
           },
           {
-            href: 'https://discord.gg/xZQtkE5uCG',
+            position: 'left',
             label: '디스코드',
-            position: 'right',
+            href: 'https://discord.gg/wdBFC7Hc6X'
           },
+          {href: 'https://builtbybit.com/creators/madpancake.171954/', label: 'Products', position: 'left'}
         ],
       },
       footer: {
         style: 'dark',
         links: [
-          {
-            title: 'Docs',
-            items: [
-              {
-                label: '설명서',
-                to: '/docs/intro',
-              },
-            ],
-          },
-          {
-            title: '링크',
-            items: [
-              {
-                label: '언리미티드 어드벤처 (Unlimited Adventures)',
-                href: 'https://builtbybit.com/resources/unlimited-adventures-survival-setup.27917/',
-              },
-              {
-                label: '어드번처 백팩 (Adventures Backpacks)',
-                href: 'https://builtbybit.com/resources/adventure-backpacks.35950/',
-              },
-              {
-                label: '디스코드',
-                href: 'https://discord.gg/xZQtkE5uCG',
-              },
-            ],
-          },
+          { label: '디스코드', to: 'https://discord.gg/wdBFC7Hc6X' },
+          { label: '서비스 약관', to: 'terms-of-service/' },
+          { label: '환불 보증', to: 'money-back-guarantee/' }
         ],
-        copyright: `Ender Nerds가 제작한 제품입니다. Mojang Studios 와는 관련 없습니다.`,
+        copyright: `Ender Nerds가 제작한 제품이며, Mojang Studios와는 관계가 없습니다..`,
       },
       prism: {
         theme: prismThemes.github,
         darkTheme: prismThemes.dracula,
       },
+      metadata: [
+        { name: 'description', content: '공식 Ender Nerds 설명서'}
+      ],
     }),
 };
 
