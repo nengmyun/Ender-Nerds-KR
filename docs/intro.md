@@ -2,10 +2,6 @@
 sidebar_position: 1
 ---
 
-import Tabs from '@theme/Tabs';
-
-import TabItem from '@theme/TabItem';
-
 # 설명서를 읽기 전
 
 :::note[공지사항 위치가 변경되었습니다.]
