@@ -1,3 +1,6 @@
+# 📢 한글 번역 공지사항
+## 해당 사이트에 대한 공지사항들 입니다.
+
 <Tabs>
   <TabItem value="note1" label="설명서가 부정확한 문제 관련">
 해당 설명서에 Unlimited Adventures 카테고리에서 부정확한 부분이 확인되었습니다.\
