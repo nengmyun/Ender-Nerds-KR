@@ -1,22 +1,22 @@
 ---
 sidebar_position: 7
-title: 'Administration'
+title: '서버 관리'
 ---
 
 
 
 
 
-### :label: How to give someone a rank?
+### :label: 랭크를 어떻게 지급하나요?
 
-In order to change someone's rank, you should use `/setrank` command.\
-```/setrank [player] [rank]```\
-For example:\
+누군가에게 랭크를 지급하고 싶을 때엔 `/setrank` 명령어를 사용합니다.\
+```/setrank [플레이어] [랭크]```\
+예시:\
 ```/setrank MadPanCakey helper```
 
 
-### :golf: How to get custom items?
+### :golf: 커스텀 아이템은 어떻게 볼 수 있나요?
 
-> Execute `/getitems` to open a menu with all custom items.
+> `/getitems` 커맨드로 커스텀 아이템 UI를 열 수 있습니다.
 
 
