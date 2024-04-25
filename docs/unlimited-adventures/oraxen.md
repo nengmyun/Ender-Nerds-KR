@@ -16,6 +16,7 @@ title: 'Oraxen'
 :::tip[리소스팩을 못 찾았나요?]
 리소스팩을 어떻게 찾는지 모르시겠나요? [리소스팩 적용](resource-pack) 페이지를 참고하세요!
 :::
+
 **Step 3**
 > 복사한 폴더를 `plugins/Oraxen/pack/assets` 에 붙여넣습니다.
 
