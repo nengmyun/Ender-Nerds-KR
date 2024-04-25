@@ -4,17 +4,17 @@ title: 'Oraxen'
 ---
 
 
-# How to merge Unlimited Adventures resource pack with Oraxen
+# Unlimited Adventures 리소스팩을 Oraxen 에 적용 시키는 방법
 
-This is actually a very simple process. You can follow the text guide, or watch the video!
+방법은 아주 쉬워요. 글로 된 가이드를 참고하거나 영상(준비중)을 시청하실 수 있어요!!
 
 **Step 1**
-> Stop your server.
+> 서버를 끕니다.
 
 **Step 2**
-> Copy contents of Unlimited Adventures' resource pack (everything in `Unlimited Adventures/assets/`)
-:::tip[Find your resource pack]
-Don't know how to find your resource pack? Refer to [Resource Pack](resource-pack)
+> Unlimited Adventures' 리소스팩의 컨텐츠를 복사합니다. (`Unlimited Adventures/assets/` 에 있습니다.)
+:::tip[리소스팩을 못 찾았나요?]
+리소스팩을 어떻게 찾는지 모르시겠나요? [리소스팩](resource-pack)을 참고하세요!
 :::
 **Step 3**
 > Paste the copied folder into `plugins/Oraxen/pack/assets`
