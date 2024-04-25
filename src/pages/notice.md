@@ -1,3 +1,7 @@
+import Tabs from '@theme/Tabs';
+
+import TabItem from '@theme/TabItem';
+
 # 📢 한글 번역 공지사항
 ## 해당 사이트에 대한 공지사항들 입니다.
 
