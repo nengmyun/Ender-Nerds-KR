@@ -109,15 +109,15 @@ const config = {
           },
           {
             position: 'left',
+            label: '공지사항',
+            to: 'notice/'
+          },
+          {
+            position: 'left',
             label: '디스코드',
             href: 'https://discord.gg/wdBFC7Hc6X'
           },
-          {href: 'https://builtbybit.com/creators/madpancake.171954/', label: '제품구매', position: 'left'},
-          {
-            position: 'left',
-            label: '공지사항',
-            to: 'notice/'
-          }
+          {href: 'https://builtbybit.com/creators/madpancake.171954/', label: '제품구매', position: 'left'}
         ],
       },
       footer: {
