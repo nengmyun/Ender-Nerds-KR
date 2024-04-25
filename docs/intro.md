@@ -9,7 +9,7 @@ import TabItem from '@theme/TabItem';
 # 설명서를 읽기 전
 
 :::note[공지]
-<Tabs>
+<Tabs className="unique-tabs">
   <TabItem value="note1" label="설명서가 부정확한 문제 관련">This is an apple 🍎</TabItem>
   <TabItem value="note2" label="공식 문서에 해당 문서 링크 추가">This is an orange 🍊</TabItem>
   <TabItem value="note3" label="TEST#1">This is a banana 🍌</TabItem>
