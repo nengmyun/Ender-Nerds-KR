@@ -1,37 +1,35 @@
 ---
 sidebar_position: 6
-title: 'Basic Configuration'
+title: '기본 설정법'
 ---
 
 
 
 
 
-We have put in a big effort in order to make our setup as easy to configure as possible. Here are a few example features that you can configure:
+설정을 가능한 한 쉽게 구성할 수 있도록 많은 노력을 기울였습니다. 구성할 수 있는 몇 가지 기능의 예사는 다음과 같습니다.
 
-### :cloud: Rules, Welcome Message, Tips, Chat Prefixes & Colors
-Features related to chat are controlled by ChatManager plugin. In order to configure them to your own liking, you should head to:
-```plugins/ChatManager/``` folder.
-- `AutoBroadcast.yml` - the tips that are sent on chat every 2 minutes.
-- `config.yml` - rules, chat prefixes, colors.
+### :cloud: 규칙, 환영 메시지, 팁, 채팅에서 보이는 칭호 및 색상
+채팅과 관련된 기능은 ChatManager 플러그인을 사용합니다. 원하는 대로 설정하려면 ```plugins/ChatManager/``` 폴더로 이동 해야합니다.
+- `AutoBroadcast.yml` - 2 분 마다 팁을 채팅으로 전송하는 파일입니다.
+- `config.yml` - 규칙, 채팅에서 보이는 칭호와 색상을 설정할 수 있습니다.
 
-### :bookmark_tabs: Scoreboard, Tablist
-Scoreboard & Tablist are managed by the TAB plugin. In order to configure these features, you should head to:
-```plugins/TAB/config.yml```
+### :bookmark_tabs: 스코어 보드, 탭 리스트
+스코어보드와 탭리스트는 TAB 플러그인을 사용합니다. 이 기능을 수정하고 싶으시면 ```plugins/TAB/config.yml``` 폴더로 이동 해야합니다.
 
-### :pen: GUI Menus
-You can edit all menus in `plugins/CommandPanels/panels/` folder.
+### :pen: GUI 메뉴
+모든 GUI 메뉴는`plugins/CommandPanels/panels/` 폴더에서 수정 가능합니다.
 
-### :earth_americas:  Pre-Generating the World
+### :earth_americas:  월드 사전 생성
 
-We suggest you to pre-generate your server's world.
-In order to do that, you can use a plugin like [Chunky](https://dev.bukkit.org/projects/chunky-pregenerator/files)\
-Pre-generating your world can improve the performance of your server.\
-We recommend a world size of 5,000 x 5,000 or 10,000 x 10,000.
+서버의 월드를 미리 생성하는 것을 추천합니다.
+미리 생성하기 위해 [Chunky](https://dev.bukkit.org/projects/chunky-pregenerator/files)와 같은 플러그인을 사용할 수 있습니다.\
+월드를 미리 생성하면 서버 성능이 향상될 수 있습니다.\
+저희가 추천하는 월드 사이즈는 5,000 x 5,000 또는 10,000 x 10,000 입니다.
 
 ### Homes
 
-`/sethome` and `/home` are disabled to increase immersion. Instead, players have to craft Home Teleportation Scrolls if they want to quickly get back to their bases.
+`/sethome` 과 `/home` 명령어는 몰입도를 높이기 위해 비활성화되었습니다. 대신, 플레이어가 홈으로 빠르게 돌아가려면 집 이동 스크롤(Home Teleportation Scrolls)을 제작해야 합니다.
 
 
 
