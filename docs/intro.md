@@ -8,12 +8,8 @@ import TabItem from '@theme/TabItem';
 
 # 설명서를 읽기 전
 
-:::note[공지]
-<Tabs className="unique-tabs">
-  <TabItem value="note1" label="설명서가 부정확한 문제 관련">This is an apple 🍎</TabItem>
-  <TabItem value="note2" label="공식 문서에 해당 문서 링크 추가">This is an orange 🍊</TabItem>
-  <TabItem value="note3" label="TEST#1">This is a banana 🍌</TabItem>
-</Tabs>
+:::note[공지사항 위치가 변경되었습니다.]
+공지는 이곳에서 업로드 됩니다.
 :::
 
 해당 설명서는 Ender Nerds의 제품들을 구매하신 한국인분들을 위하여 제작되었습니다.
