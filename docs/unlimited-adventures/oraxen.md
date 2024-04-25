@@ -14,12 +14,12 @@ title: 'Oraxen'
 **Step 2**
 > Unlimited Adventures' 리소스팩의 컨텐츠를 복사합니다. (`Unlimited Adventures/assets/` 에 있습니다.)
 :::tip[리소스팩을 못 찾았나요?]
-리소스팩을 어떻게 찾는지 모르시겠나요? [리소스팩](resource-pack)을 참고하세요!
+리소스팩을 어떻게 찾는지 모르시겠나요? [리소스팩 적용](resource-pack) 페이지를 참고하세요!
 :::
 **Step 3**
-> Paste the copied folder into `plugins/Oraxen/pack/assets`
+> 복사한 폴더를 `plugins/Oraxen/pack/assets` 에 붙여넣습니다.
 
-Done! Now start your server and enjoy Oraxen and Unlimited Adventures working together :heart:
+끝났습니다! 이제 Oraxen 으로 Unlimited Adventures 의 리소스팩을 관리할 수 있습니다 :heart:
 
 
 
