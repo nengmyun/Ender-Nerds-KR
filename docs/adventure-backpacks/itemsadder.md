@@ -3,10 +3,12 @@ sidebar_position: 2
 title: 'Items Adder'
 ---
 
+import ReactPlayer from 'react-player'
+import video from './assets/ItemsAdder.mp4';
 
 # 이번엔 Adventure Backpacks 의 리소스팩을 ItemsAdder 에 적용시키는 방법입니다!
 
-이 과정 또한 매우 쉬우며, 이번에도 글로된 설명이나 영상(준비중)을 시청하실 수 있습니다.
+이 과정 또한 매우 쉬우며, 이번에도 글로된 설명이나 영상을 시청하실 수 있습니다.
 
 #### Step 1
 > `/stop`으로 서버를 끕니다.
@@ -18,3 +20,5 @@ title: 'Items Adder'
 > 서버를 실행한 후 `/iazip` 커맨드를 입력합니다.
 
 끝났습니다! 이제 ItemsAdder 와 Adventure Backpacks 을 같이 즐겨보세요 :heart:
+
+<ReactPlayer playing controls url={video} />
