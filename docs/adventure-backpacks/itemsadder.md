@@ -18,5 +18,5 @@ title: 'Items Adder'
 
 끝났습니다! 이제 ItemsAdder 와 Adventure Backpacks 을 같이 즐겨보세요 :heart:
 
-<video src="https://www.youtube.com/watch?v=T21syRFnrpg" controls>
+<video src="assets/ItemsAdder.mp4" controls width="300" height="200">
 </video>
