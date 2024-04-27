@@ -3,10 +3,11 @@ sidebar_position: 4
 title: 'Oraxen'
 ---
 
+import guide from './assets/Oraxen.mp4';
 
 # Unlimited Adventures 리소스팩을 Oraxen 에 적용 시키는 방법
 
-방법은 아주 쉬워요. 글로 된 가이드를 참고하거나 영상(준비중)을 시청하실 수 있어요!!
+방법은 아주 쉬워요. 글로 된 가이드를 참고하거나 영상을 시청하실 수 있어요!!
 
 **Step 1**
 > 서버를 끕니다.
@@ -22,5 +23,5 @@ title: 'Oraxen'
 
 끝났습니다! 이제 Oraxen 으로 Unlimited Adventures 의 리소스팩을 관리할 수 있습니다 :heart:
 
-
-
+<video src={guide} controls width="300" height="200">
+</video>
