@@ -20,5 +20,5 @@ import guide from './assets/Oraxen.mp4';
 
 끝! 이제 서버를 키고 Oraxen 과 함께 Adventure Backpacks 을 구동하실 수 있습니다 :heart:
 
-<video src={guide} controls width="500" height="300">
+<video src={guide} controls width="600" height="400">
 </video>
