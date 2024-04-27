@@ -23,9 +23,9 @@ import guide from './assets/ItemsAdder.mp4';
 > 서버를 실행하고 `/iazip` 명령어를 입력합니다.
 
 끝났습니다! 이제 ItemsAdder 로 Unlimited Adventures 의 리소스팩을 관리할 수 있습니다 :heart:
-
 <video src={guide} controls width="600" height="400">
 </video>
+
 
 :::warning[경고]
 ItemsAdder 를 처음 사용하신다면, [ItemsAdder 설치 가이드](https://itemsadder.devs.beer/first-install)를 참고하세요.
