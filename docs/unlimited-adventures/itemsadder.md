@@ -3,10 +3,11 @@ sidebar_position: 5
 title: 'Items Adder'
 ---
 
+import guide from './assets/ItemsAdder.mp4';
 
 # Unlimited Adventures 리소스팩을 ItemsAdder 에 적용시키는 법
 
-어려워 보아셔도 실제론 매우 쉽습니다. 글로 된 가이드를 참고 하시거나 영상(준비중)을 시청하실 수 있습니다,!
+어려워 보아셔도 실제론 매우 쉽습니다. 글로 된 가이드를 참고 하시거나 영상을 시청하실 수 있습니다,!
 
 #### Step 1
 > 서버를 끕니다.
@@ -27,7 +28,8 @@ title: 'Items Adder'
 ItemsAdder 를 처음 사용하신다면, [ItemsAdder 설치 가이드](https://itemsadder.devs.beer/first-install)를 참고하세요.
 :::
 
-
+<video src={guide} controls width="500" height="300">
+</video>
 
 
 
