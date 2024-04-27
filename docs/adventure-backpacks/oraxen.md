@@ -3,7 +3,7 @@ sidebar_position: 1
 title: 'Oraxen'
 ---
 
-
+import guide from './assets/Oraxen.mp4';
 
 # Adventure Backpacks 리소스팩을 Oraxen에 적용하는 방법
 
@@ -21,3 +21,6 @@ title: 'Oraxen'
 끝! 이제 서버를 키고 Oraxen 과 함께 Adventure Backpacks 을 구동하실 수 있습니다 :heart:
 
 영상은 추 후 한글화하여 업로드 하겠습니다!
+
+<video src={guide} controls width="300" height="200">
+</video>
