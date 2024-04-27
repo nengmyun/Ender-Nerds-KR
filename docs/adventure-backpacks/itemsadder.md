@@ -3,6 +3,8 @@ sidebar_position: 2
 title: 'Items Adder'
 ---
 
+import guide from './assets/ItemsAdder.mp4';
+
 # 이번엔 Adventure Backpacks 의 리소스팩을 ItemsAdder 에 적용시키는 방법입니다!
 
 이 과정 또한 매우 쉬우며, 이번에도 글로된 설명이나 영상을 시청하실 수 있습니다.
@@ -18,5 +20,5 @@ title: 'Items Adder'
 
 끝났습니다! 이제 ItemsAdder 와 Adventure Backpacks 을 같이 즐겨보세요 :heart:
 
-<video src="assets/ItemsAdder.mp4" controls width="300" height="200">
+<video src={guide} controls width="300" height="200">
 </video>
