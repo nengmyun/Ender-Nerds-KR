@@ -18,7 +18,5 @@ title: 'Items Adder'
 
 끝났습니다! 이제 ItemsAdder 와 Adventure Backpacks 을 같이 즐겨보세요 :heart:
 
-<video width="320" height="240" controls>
-  <source src="assets/ItemsAdder.mp4" type="video/mp4">
-Your browser does not support the video tag.
+<video src="https://www.youtube.com/watch?v=T21syRFnrpg" controls>
 </video>
