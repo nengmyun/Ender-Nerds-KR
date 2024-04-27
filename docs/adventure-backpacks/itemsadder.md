@@ -3,8 +3,6 @@ sidebar_position: 2
 title: 'Items Adder'
 ---
 
-import ReactPlayer from 'react-player'
-
 # 이번엔 Adventure Backpacks 의 리소스팩을 ItemsAdder 에 적용시키는 방법입니다!
 
 이 과정 또한 매우 쉬우며, 이번에도 글로된 설명이나 영상을 시청하실 수 있습니다.
@@ -20,4 +18,7 @@ import ReactPlayer from 'react-player'
 
 끝났습니다! 이제 ItemsAdder 와 Adventure Backpacks 을 같이 즐겨보세요 :heart:
 
-<ReactPlayer playing controls url="https://www.youtube.com/watch?v=T21syRFnrpg" />
+<video width="320" height="240" controls>
+  <source src="assets/ItemsAdder.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
