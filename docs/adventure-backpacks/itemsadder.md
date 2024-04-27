@@ -20,5 +20,5 @@ import guide from './assets/ItemsAdder.mp4';
 
 끝났습니다! 이제 ItemsAdder 와 Adventure Backpacks 을 같이 즐겨보세요 :heart:
 
-<video src={guide} controls width="600" height="400">
+<video src={guide} controls width="300" height="100">
 </video>
