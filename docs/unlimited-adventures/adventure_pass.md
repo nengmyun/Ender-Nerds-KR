@@ -82,8 +82,8 @@ title: '어드밴처 패스'
 | `%valiant_battlepass_wq_timeuntilreset%` | 이 Placeholder는 주간 퀘스트가 리셋될 때까지의 시간을 표시합니다. |
 | `%valiant_battlepass_dq_timeuntilexpiration%` | 이 Placeholder는 일일 퀘스트가 만료될 때까지의 시간을 표시합니다. |
 | `%valiant_battlepass_wq_timeuntilexpiration%` | 이 Placeholder는 주간 퀘스트가 만료될 때까지의 시간을 표시합니다. |
-| `%valiant_battlepass_dq_number%` | 이 Placeholder는 일일 퀘스트 ID 번호를 표시합니다. ([GUI 메뉴](/)에서 표시 목적으로 사용됨) |
-| `%valiant_battlepass_wq_number%` | 이 Placeholder는 주간 퀘스트 ID 번호를 표시합니다. ([GUI 메뉴](/)에서 표시 목적으로 사용됨) |
+| `%valiant_battlepass_dq_number%` | 이 Placeholder는 일일 퀘스트 ID 번호를 표시합니다. ([GUI 메뉴](/basic_configuration)에서 표시 목적으로 사용됨) |
+| `%valiant_battlepass_wq_number%` | 이 Placeholder는 주간 퀘스트 ID 번호를 표시합니다. ([GUI 메뉴](/basic_configuration)에서 표시 목적으로 사용됨) |
 | `%valiant_battlepass_level_progress_percent%` | This placeholder returns the progress towards the next Adventure Pass level in percentage. |
 | `%valiant_battlepass_level_progress_graphic%` | This placeholder returns the progress towards the next Adventure Pass level in the form of a colored progress bar. |
 | `%valiant_battlepass_level%` | This placeholder returns the player's Adventure Pass level. |
