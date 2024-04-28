@@ -84,8 +84,8 @@ title: '어드밴처 패스'
 | `%valiant_battlepass_wq_timeuntilexpiration%` | 이 Placeholder는 주간 퀘스트가 만료될 때까지의 시간을 표시합니다. |
 | `%valiant_battlepass_dq_number%` | 이 Placeholder는 일일 퀘스트 ID 번호를 표시합니다. ([GUI 메뉴](/docs/unlimited-adventures/basic_configuration)에서 표시 목적으로 사용됨) |
 | `%valiant_battlepass_wq_number%` | 이 Placeholder는 주간 퀘스트 ID 번호를 표시합니다. ([GUI 메뉴](/docs/unlimited-adventures/basic_configuration)에서 표시 목적으로 사용됨) |
-| `%valiant_battlepass_level_progress_percent%` | This placeholder returns the progress towards the next Adventure Pass level in percentage. |
-| `%valiant_battlepass_level_progress_graphic%` | This placeholder returns the progress towards the next Adventure Pass level in the form of a colored progress bar. |
-| `%valiant_battlepass_level%` | This placeholder returns the player's Adventure Pass level. |
-| `%valiant_battlepass_xp%` |- This placeholder returns the player's Adventure Pass experience amount. |
-| `%valiant_battlepass_xp_need%` | This placeholder returns the player's Adventure Pass experience amount needed to level up. |
+| `%valiant_battlepass_level_progress_percent%` | 이 Placeholder는 다음 어드벤처 패스 레벨에 대한 진행 상황을 백분율로 표시합니다. |
+| `%valiant_battlepass_level_progress_graphic%` | 이 Placeholder는 색상이 지정된 진행률 표시줄 형태로 다음 어드벤처 패스 레벨에 대한 진행 상황을 표시합니다. |
+| `%valiant_battlepass_level%` | 이 Placeholder는 플레이어의 어드벤처 패스 레벨을 표시합니다. |
+| `%valiant_battlepass_xp%` |- 이 Placeholder는 플레이어의 어드벤처 패스 경험량을 표시합니다. |
+| `%valiant_battlepass_xp_need%` | 이 Placeholder는 레벨 업에 필요한 플레이어의 어드벤처 패스 경험치를 표시합니다. |
