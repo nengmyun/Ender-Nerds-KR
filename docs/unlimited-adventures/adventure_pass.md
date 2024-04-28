@@ -87,5 +87,5 @@ title: '어드밴처 패스'
 | `%valiant_battlepass_level_progress_percent%` | 이 Placeholder는 다음 어드벤처 패스 레벨에 대한 진행 상황을 백분율로 표시합니다. |
 | `%valiant_battlepass_level_progress_graphic%` | 이 Placeholder는 색상이 지정된 진행률 표시줄 형태로 다음 어드벤처 패스 레벨에 대한 진행 상황을 표시합니다. |
 | `%valiant_battlepass_level%` | 이 Placeholder는 플레이어의 어드벤처 패스 레벨을 표시합니다. |
-| `%valiant_battlepass_xp%` |- 이 Placeholder는 플레이어의 어드벤처 패스 경험량을 표시합니다. |
+| `%valiant_battlepass_xp%` | 이 Placeholder는 플레이어의 어드벤처 패스 경험량을 표시합니다. |
 | `%valiant_battlepass_xp_need%` | 이 Placeholder는 레벨 업에 필요한 플레이어의 어드벤처 패스 경험치를 표시합니다. |
