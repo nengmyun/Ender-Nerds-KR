@@ -1,37 +1,37 @@
 ---
 sidebar_position: 9
-title: 'Custom Items'
+title: '커스텀 아이템'
 ---
 
 
 
-# :hammer:  The Forge & Custom Items
+# :hammer:  제작 & 커스텀 아이템
 
-The Forge is a very special feature that let's players craft new powerful items.
+제작은 플레이어가 강력한 신규 무기를 만들 수 있는 강력한 기능입니다.
 
-:::tip
-You can get all custom items by executing: `/getitems`\
-To get any item, execute: `/givecustomitem [item name] [player name]`
+:::tip[팁]
+모든 신규 아이템을 보려면 `/getitems` 명령어를 입력하세요.\
+누군가한테 주고 싶다면 `/givecustomitem [아이템 이름] [플레이어 이름] 을 입력하세요!`
 :::
 
-#### How to edit items?
-> You can edit the parameters of custom items by going to:
+#### 아이템을 어떻게 수정하나요?
+> 커스텀 아이템의 정보는 아래 경로에 있는 파일에서 수정 가능합니다:
 ```unlimited_adventures/CustomItems/items.yml```
 
-#### How to change recipes?
-> Edit recipes for custom items by going to:
+#### 어떻게 제작법을 바꾸나요?
+> 커스텀 아이템의 조합법은 아래 경로에 있는 파일에서 수정 가능합니다:
 ```unlimited_adventures/CustomItems/recipes.yml```
 
 
-#### How to unlock a recipe?
-> If you have it enabled in the config, players will be required to unlock a recipe first, before they can forge an item.\
-> In that case, you can unlock items for the players by executing `/forgeunlock [player name] [item name]`, for example: `/forgeunlock Steve1337 adventure_backpack`
+#### 조합법을 어떻게 잠금 해제하나요?
+> 콘피그에서 조합법 잠금을 활성화한 경우 플레이어는 아이템을 제작하기 전에 먼저 레시피를 잠금 해제해야 합니다.\
+> 이 경우 플레이어에게 조합법을 지급하는 명령어는 다음과 같습니다. `/forgeunlock [플레이어 이름] [아이템 이름]`, 예시: `/forgeunlock Steve1337 adventure_backpack`
 
-## 2 Placeholders available:
+## 2가지 Placeholders 를 제공합니다:
 
-| Placeholder | Description |
+| Placeholder | 설명 |
 | - | - |
-| `%valiant_craftingunlocked_ITEM%` | returns 'true', if crafting of the specified item is unlocked. |
-| `%valiant_cancraft_ITEM%` | returns 'true', if the player has required items to craft the item. |
+| `%valiant_craftingunlocked_ITEM%` | 플레이어가 조합법 잠금을 해제하면 True 를 표시합니다. |
+| `%valiant_cancraft_ITEM%` | 플레이어가 조합에 필요한 아이템을 가지고 있으면 True를 표시합니다. |
 
 
