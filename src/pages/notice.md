@@ -7,7 +7,7 @@ import TabItem from '@theme/TabItem';
 
 <Tabs>
   <TabItem value="note4" label="번역 근황">
-- 2024년 4월 30일(화요일) 오후 5시 40분 :\
+## - 2024년 4월 30일(화요일) 오후 5시 40분 :\
 Adventure Backpacks : 모든 번역이 완료되었습니다.
 Unlimited Adventures : `FAQ ~ 던전`까지 번역이 완료되었습니다.
 
