@@ -1,88 +1,87 @@
 ---
 sidebar_position: 10
-title: 'Dungeons'
+title: '던전'
 ---
 
 
 
-# :skull: **Dungeons**
+# :skull: **던전**
 
-Our very own, custom-developed Dungeons system. It features 3 themed dungeons with 3 floors each.\
-Dungeons are filled with monsters, ores and chests to loot. In order to progress to another floor, you have to find a Dungeon Key.\
-At the end of every dungeon there is a powerful boss that drops unique items.\
-Dungeon Key can be dropped from the Mini-Bosses found in the wilderness.
+자체 제작된 맞춤형 던전 시스템입니다. 던전은 각각 3층으로 구성된 3개의 테마가 있습니다.\
+던전은 전리품을 얻을 수 있는 몬스터, 광석, 상자로 가득 차 있습니다. 다음 층으로 이동하려면 던전 열쇠를 찾아야 합니다.\
+던전 속 3개의 테마에는 독특한 아이템을 떨어뜨리는 강력한 보스가 있습니다.\
+던전 열쇠는 야생에 있는 미니보스를 죽이면 랜덤으로 드랍됩니다.
 
 
-#### :computer: Commands
+#### :computer: 명령어
 
-To get all the Dungeons commands, please execute: `/dungeons help`
+모든 던전의 명령어를 알고 싶다면 `/dungeons help` 를 입력하세요.
 
-- `/dungeons unlock [player] [floor number]` - unlocks a floor for the player
-- `/dungeons resetkey` - resets your unlocked floors
+- `/dungeons unlock [플레이어] [층 수]` - 플레이어의 [층 수]층을 잠금 해제합니다.
+- `/dungeons resetkey` - 본인의 잠금 해제된 던전 목록을 초기화 합니다.
 
-#### :closed_book: Dungeons Menu
+#### :closed_book: 던전 메뉴
 
-Configure Dungeons menu in:\
+던전 메뉴는 아래 경로에서 수정 가능합니다:\
 ```plugins/CommandPanels/dungeons```
 
 
-#### :gear: How to configure Dungeons?
+#### :gear: 어떻게 던전을 커스터마이징 하나요?
 
-You can find Dungeon's configuration files in:
+던전의 시스템은 해당 경로에서 수정 가능합니다:
 ```plugins/Dungeons/```
 
 
 
-#### :crossed_swords: How to create a new Dungeon?
+#### :crossed_swords: 어떻게 새로운 던전을 추가하나요?
 
-In order to create a new Dungeon, first, you have to create a location and a portal leading to the location.
+새로운 던전을 추가하고 싶다면, 첫번쨰. 위치와 해당 위치로 연결되는 포털을 만들어야 합니다.
 
-> 1. To create the Dungeon's spawn location:\
-```/dungeons setlocation [floor number]```
+> 1. 추가할 던전의 스폰을 지정합니다.:\
+```/dungeons setlocation [층 수]```
 
-> 2. Next, you need a portal that will teleport a player inside of the Dungeon.\
-Portals are built with Black Concrete block. You should build a portal, aim at the Black Concrete block and insert this command:\
-```/dungeons setportal [floor number]```
+> 2. 다음으로, 던전 내부로 플레이어를 순간이동시킬 수 있는 포탈이 필요합니다.\
+포탈은 검은색 콘크리트 블록으로 제작됩니다. 포탈을 제작하고 검은색 콘크리트 블록을 바라본 후 다음 명령어를 입력하세요.\
+```/dungeons setportal [층 수]```
 
-:lock: If you'd like the portal to require a key to be unlocked (like the default Dungeons do), you need to add '1' at the end of the command, like this:\
-```/dungeons setportal [floor number] 1```\
-Example:
+:lock: 포탈에서 키를 사용하여 잠금 해제하도록(기본 던전과 같이) 설정하고 싶으면, 다음과 같이 명령어 끝에 '1'을 추가해야 합니다.\
+```/dungeons setportal [층 수] 1```\
+예시:
 ```/dungeons setportal 11 1```
 
 
 
 
-#### :boar: How to create a monster spawn in my Dungeon?
+#### :boar: 새로운 던전에서 몬스터를 소환하는 방법
 
-In order to create a new monster spawn, you need to insert this command:\
-```/dungeons setmonsterspawn [monster type]```\
-For example:\
+새로운 던전에서 몬스터를 스폰 시키고 싶은 경우, 아래 명령어를 입럭하세요:\
+```/dungeons setmonsterspawn [몬스터 종류]```\
+예시:\
 ```/dungeons setmonsterspawn zombie```
-> Available monster types are: `zombie`, `skeleton`, `spider`, `husk` & `ghost`.
+> 사용 가능한 몬스터 종류: `zombie`, `skeleton`, `spider`, `husk` & `ghost`.
 
 
 
-#### :dragon: How to create a BOSS spawn in my Dungeon?
+#### :dragon: 새로운 던전에서 보스를 소환하는 방법
 
-In order to create a new BOSS spawn, you need to insert this command:\
-```/dungeons setbossspawn [bosstype] ```\
-For example:\
+새로운 던전에서 보스를 스폰 시키고 싶은 경우, 아래 명령어를 입력하세요:\
+```/dungeons setbossspawn [보스 종류] ```\
+예시:\
 ```/dungeons setbossspawn dracula```
+> 사용 가능한 보스 종류: `miner_wrath`, `dracula`, `pharaoh`.
 
-Available BOSS types are: `miner_wrath`, `dracula`, `pharaoh`.
+#### :package: 새로운 던전에서 전리품 상자를 생성하는 방법
 
-#### :package: How to create a respawnable chest?
+랜덤 아이템을 주는 전리품 상자를 만들고 싶을 경우, 아래 단계를 따르세요:
+> 1. 상자를 설치합니다.
+> 2. 원하는 아이템으로 상자를 채웁니다.
+> 3. `/dungeons setchest` 를 입력합니다.
 
-In order to create a chest that will respawn, with random content, you need to:
-> 1. Place the chest
-> 2. Fill the chest with items
-> 3. Insert the `/dungeons setchest` command.
-
-By default, the chest will respawn with 3 random items from it's initial inventory.
-You can easily change that in the Dungeon's config.
+기본적으로 상자는 초기 인벤토리에 있는 랜덤 아이템 3개로 다시 생성됩니다.
+이는 던전 콘피그에서 쉽게 변경할 수 있습니다.
 
 
-#### Respawnable ores in the dungeons
+#### 새로운 던전에서 리젠 광석을 설치하는 방법
 
-All ores in dungeons will respawn after a while when being mined.
+던전의 모든 광석은 채굴되면 일정 시간이 지나면 다시 생성됩니다.
 
