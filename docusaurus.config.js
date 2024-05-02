@@ -8,7 +8,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Ender Nerds',
+  title: '엔더 너드',
   tagline: '공식 문서 페이지',
   favicon: 'img/favicon.ico',
 
@@ -127,7 +127,7 @@ const config = {
           { label: '서비스 약관', to: 'terms-of-service/' },
           { label: '환불 보증', to: 'money-back-guarantee/' }
         ],
-        copyright: `\n\nEnder Nerds가 제작한 제품이며, Mojang Studios와는 관계가 없습니다.`,
+        copyright: `Ender Nerds가 제작한 제품이며, Mojang Studios와는 관계가 없습니다.`,
       },
       prism: {
         theme: prismThemes.github,
