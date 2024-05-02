@@ -5,16 +5,14 @@ import TabItem from '@theme/TabItem';
 # 📢 한글 번역 공지사항
 ## 해당 사이트에 대한 공지사항들 입니다.
 
-:::warning
-최근 영문판에 추가된 "💎 Branding" 페이지에 경우 아직 Ender Nerds로 부터 파일을 제공받지 못해 추가가 지연되고 있습니다.
-Ender Nerds에게 문의 하여 파일을 제공 받을 예정이며, 빠르게 추가할 준비를 하고 있으니 잠시만 기다려주세요.
-:::
-
 <Tabs>
   <TabItem value="note4" label="번역 근황">
 - **2024년 4월 30일(화요일) 오후 5시 40분 :**\
 Adventure Backpacks : 모든 번역이 완료되었습니다.\
-Unlimited Adventures : `FAQ ~ 던전`(브랜딩 제외)까지 번역이 완료되었습니다.
+Unlimited Adventures : `FAQ ~ 던전`까지 번역이 완료되었습니다.
+- **2024년 5월 2일(목요일) 오후 11시 26분 :**\
+Adventure Backpacks : 모든 번역이 완료되었습니다.\
+Unlimited Adventures : 누락됬던 `브랜딩`페이지의 까지 번역이 완료되었습니다.
 
 </TabItem>
 
