@@ -9,7 +9,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Ender Nerds',
-  tagline: '언리미티드 어드벤처, 어드벤처 백팩 등 Ender Nerds의 창의적인 상품들을 한국어로 더욱 편하게 입문하세요!',
+  tagline: '공식 문서 페이지',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -105,7 +105,7 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: '설명서',
+            label: '문서',
           },
           {
             position: 'left',
@@ -127,7 +127,7 @@ const config = {
           { label: '서비스 약관', to: 'terms-of-service/' },
           { label: '환불 보증', to: 'money-back-guarantee/' }
         ],
-        copyright: `\nEnder Nerds가 제작한 제품이며, Mojang Studios와는 관계가 없습니다..`,
+        copyright: `\nEnder Nerds가 제작한 제품이며, Mojang Studios와는 관계가 없습니다.`,
       },
       prism: {
         theme: prismThemes.github,
