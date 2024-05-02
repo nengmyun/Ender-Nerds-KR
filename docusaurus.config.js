@@ -134,7 +134,7 @@ const config = {
         darkTheme: prismThemes.dracula,
       },
       metadata: [
-        { name: 'description', content: '공식 Ender Nerds 설명서'}
+        { name: 'description', content: '공식 Ender Nerds 문서'}
       ],
     }),
 };
