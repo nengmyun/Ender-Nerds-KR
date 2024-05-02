@@ -127,7 +127,7 @@ const config = {
           { label: '서비스 약관', to: 'terms-of-service/' },
           { label: '환불 보증', to: 'money-back-guarantee/' }
         ],
-        copyright: `\nEnder Nerds가 제작한 제품이며, Mojang Studios와는 관계가 없습니다.`,
+        copyright: `\n\nEnder Nerds가 제작한 제품이며, Mojang Studios와는 관계가 없습니다.`,
       },
       prism: {
         theme: prismThemes.github,
