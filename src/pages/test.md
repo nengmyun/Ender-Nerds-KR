@@ -43,7 +43,7 @@ motd_line:
     '2': "   §x&f&f&c&8&0&0⭐ Ambient Sounds §x&9&0&e&3&4&e🪣 3D Backpacks §x&f&7&4&1&5&4☠ §x&f&7&4&1&5&4Dungeons"
 ```
 
-### 탭 리스트트
+### 탭 리스트
 Tablist는 `plugins/TAB/config.yml`에서 편집할 수 있습니다.
 ```
 header-footer:
