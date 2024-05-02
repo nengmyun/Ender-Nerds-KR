@@ -32,7 +32,7 @@ motd_line:
     '2': "   §x&f&f&c&8&0&0⭐ Ambient Sounds §x&9&0&e&3&4&e🪣 3D Backpacks §x&f&7&4&1&5&4☠ §x&f&7&4&1&5&4Dungeons"
 ```
 
-### 테이블 목록
+### 탭 리스트트
 Tablist는 `plugins/TAB/config.yml`에서 편집할 수 있습니다.
 ```
 header-footer:
@@ -47,7 +47,7 @@ header-footer:
   - '%valiant_active_boosters%'
   - '%valiant_active_boosters_2%'
 ```
-### 점수판
+### 스코어보드
 스코어보드(사이드바)는 `plugins/TAB/config.yml`에서 편집할 수 있습니다.
 ```
 scoreboard:
@@ -71,4 +71,3 @@ scoreboard:
       - ''
       - '  {%color_server_name_accent%}play.unlimitedadventures.com'
 ```
-
