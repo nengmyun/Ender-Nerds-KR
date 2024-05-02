@@ -6,7 +6,7 @@ import TabItem from '@theme/TabItem';
 ## 해당 사이트에 대한 공지사항들 입니다.
 
 :::warning
-최근 영문판에 추가된 "💎 Branding" 페이지에 경우 아직 Ender Nerds로 부터 파일을 제공받지 못해 추가가 지연되고 있습니다.\
+최근 영문판에 추가된 "💎 Branding" 페이지에 경우 아직 Ender Nerds로 부터 파일을 제공받지 못해 추가가 지연되고 있습니다.
 Ender Nerds에게 문의 하여 파일을 제공 받을 예정이며, 빠르게 추가할 준비를 하고 있으니 잠시만 기다려주세요.
 :::
 
