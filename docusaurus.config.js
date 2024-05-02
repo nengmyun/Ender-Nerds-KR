@@ -117,7 +117,7 @@ const config = {
             label: '디스코드',
             href: 'https://discord.gg/wdBFC7Hc6X'
           },
-          {href: 'https://builtbybit.com/creators/madpancake.171954/', label: '제품구매', position: 'left'}
+          {href: 'https://endernerds.netlify.app/docs/category/unlimited-adventures', label: 'English', position: 'right'}
         ],
       },
       footer: {
