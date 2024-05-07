@@ -13,10 +13,10 @@ title: '모험 악세서리 3D'
 > 모험 악세서리 시스템은 아래 경로에서 수정 가능합니다:
 ```unlimited_adventures/AdventureApparel/config.yml```
 
-#### Players cannot teleport or use a command
-Due to Spigot limitations, Adventure Apparel might sometimes block teleportation.
-This is impossible to fix. However, we have created a workaround, that should allow you to use teleportation commands as usual.
+#### 플레이어가 순간이동하거나 명령을 사용할 수 없습니다.
+Spigot 제한으로 인해 모험 악세서리는 때때로 순간 이동을 차단할 수 있습니다.
+이것은 고칠 수 없습니다. 그러나 우리는 평소처럼 순간이동 명령을 사용할 수 있는 해결 방법을 만들었습니다.
 
-Please go to the AdventureApparel config.yml and locate 'teleport-commands:'. It's at the bottom of the file.\
-Now add all commands that don't work on your server to this list.\
-This should fix your issue, if it doesn't, please make a report on our [Discord](https://discord.gg/wdBFC7Hc6X).
+AdventureApparel/config.yml로 이동하여 'teleport-commands:'를 찾으세요. 파일 맨 아래에 있습니다.\
+이제 서버에서 작동하지 않는 모든 명령을 이 목록에 추가하세요.\
+이렇게 하면 문제가 해결될 것입니다. 문제가 해결되지 않으면 [디스코드](https://discord.gg/wdBFC7Hc6X)에 문의 해주시면 도와드리겠습니다.
