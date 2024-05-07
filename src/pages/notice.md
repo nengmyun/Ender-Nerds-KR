@@ -16,7 +16,10 @@ Adventure Backpacks : 모든 번역이 완료되었습니다.\
 Unlimited Adventures : `FAQ ~ 던전`까지 번역이 완료되었습니다.
 - **2024년 5월 2일(목요일) 오후 11시 26분 :**\
 Adventure Backpacks : 모든 번역이 완료되었습니다.\
-Unlimited Adventures : 누락됬던 `브랜딩`페이지의 까지 번역이 완료되었습니다.
+Unlimited Adventures : 누락됬던 `브랜딩`페이지의 번역이 완료되었습니다.
+- **2024년 5월 7일(화요일) 오전 10시 42분 :**\
+Adventure Backpacks : 모든 번역이 완료되었습니다.\
+Unlimited Adventures : `FAQ ~ 모험 악세서리`까지 번역이 완료되었습니다.
 
 </TabItem>
 
