@@ -1,15 +1,15 @@
 ---
 sidebar_position: 12
-title: 'Adventure Apparel 3D'
+title: '모험 악세서리 3D'
 ---
 
 
 
-# :hammer:  **Adventure Apparel**
+# :hammer:  **모험 악세서리**
 
-Adventure Apparel is an **exclusive**, **custom-coded** system that allows your players to wear visible, fully 3D backpacks and tools on their body!
+모험 악세서리는 플레이어의 가방 혹은 도구를 풀 3D로 표현해주는 **자체 제작된** **독특한** 시스템 입니다.
 
-#### How to edit Adventure Apparel config?
+#### 모험 악세서리를 어떻게 수정하나요?
 > You can edit the parameters of Adventure Apparel system by going to:
 ```unlimited_adventures/AdventureApparel/config.yml```
 
