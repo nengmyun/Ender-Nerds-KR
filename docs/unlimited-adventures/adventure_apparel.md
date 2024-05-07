@@ -10,7 +10,7 @@ title: '모험 악세서리 3D'
 모험 악세서리는 플레이어의 가방 혹은 도구를 풀 3D로 표현해주는 **자체 제작된** **독특한** 시스템 입니다.
 
 #### 모험 악세서리를 어떻게 수정하나요?
-> You can edit the parameters of Adventure Apparel system by going to:
+> 모험 악세서리 시스템은 아래 경로에서 수정 가능합니다:
 ```unlimited_adventures/AdventureApparel/config.yml```
 
 #### Players cannot teleport or use a command
