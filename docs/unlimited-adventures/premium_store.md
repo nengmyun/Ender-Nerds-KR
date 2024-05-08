@@ -1,59 +1,60 @@
 ---
 sidebar_position: 13
-title: 'Premium Store'
+title: '후원상점'
 ---
 
 import tebex1 from './assets/tebex_premium_currency_1.png';
 import tebex2 from './assets/tebex_premium_currency_2.png';
 
 
-# :moneybag: Premium Store Setup
+# :moneybag: 후원 상점 설정
 
-Premium Store is one of our flagship features, and certainly one of the most original ones. That's why you might not be very familiar with how to use it.
-Don't worry though, it's actually super simple!
+후원 상점은 Unlimited Adventures의 주요 기능 중 하나이며 가장 독창적인 기능 중 하나입니다. 그렇기에 많이 낯설 수 있습니다.
+하지만 걱정하지 마세요. 실제로는 매우 간단합니다!
 
-### How to get started with Premium Store?
+### 후원 상점을 어떻게 시작하나요?
 
-Our Premium Store comes pre-configured, with items ready to sell.
-The only thing you have to do is to add the premium currency to your server's webstore.
+후원 상점은 저희가 미리 지정해 둔 아이템을 제공합니다.(물론 수정도 가능합니다!)
+당신이 해야 할 유일한 일은 후원 제화(젬)를 서버의 웹 스토어에 추가하는 것입니다.
 
-#### How to add the Premium Currency Package to your webstore?
+#### 어떻게 웹 스토어에 후원 제화 패키지를 추가하나요?
 
-1. First, you have to add a new package to your webstore (I'm using Tebex as example).
-2. Next, you should configure a command to execute, when the package is purchased.
+1. 먼저 웹 스토어에 새 패키지를 추가해야 합니다(예로 Tebex를 사용하고 있습니다).
+2. 다음으로 패키지 구매 시 실행할 명령을 구성해야 합니다.
 
 <img src={tebex1} alt="Image Description" width="824" height="204"/>
 
-3. Insert the command: `/premiumcurrency {username} add 1000`
+3. 다음 명령어를 입력합니다: `/premiumcurrency {username} add 1000`
 
 <img src={tebex2} alt="Image Description" width="984" height="191"/>
 
-4. Click 'Create' and voila. It's done!
+4. 'Create' 를 클릭하세요. 짜잔, 다 끝났습니다!
 
 
 
 
-### BONUS: Recommended Premium Currency packages
+### 보너스: 후원 제화 패키지 가격대 추천
 
-We recommend you to use the following Premium Currency packages:
-| Amount of gems | Price |
+저희가 추천하는 후원 제화 패키지 가격입니다.
+:::tip[팁]한국버전 문서에선 한국 통화(KRW)로 표시됩니다. 원화(USD)로 확인하고 싶으시면 원본 문서를 참고하세요.:::
+| 젬 수량 | 가격 |
 | - | - |
-| 1000 Gems | $9.99 |
-| 2500 Gems | $19.99 |
-| 6000 Gems | $44.99 |
+| 1000 젬 | 10,000 ₩ |
+| 2500 젬 | 20,000 ₩ |
+| 6000 젬 | 45,000 ₩ |
 
-You can adjust the prices to prices to your audience, but keep these same proportions to ensure high conversion rates.
+가격은 사용자의 상황에 맞게 조정할 수 있지만 KRW와 USD의 환율이 높으므로 최대한 동일한 비율을 유지 해야합니다.
 
 
 
-### :money_with_wings: How to add Premium Currency to someone's account?
+### :money_with_wings: 다른 사람에게 후원 제화를 추가하는 방법은 무엇인가요?
 
-It's super simple! You just have to type in this command:\
-```/premiumcurrency [player] add [amount]```\
-or, you can also use a shorter form:\
-```/gems [player] add [amount]```
+매ㅐㅐㅐ우 쉽습니다! 다음 명령어를 입력하면 됩니다:\
+```/premiumcurrency [플레이어] add [수량]```\
+아니면 이렇게 간결하게 적어도 됩니다:\
+```/gems [플레이어] add [수량]```
 
-### :gem: Premium Currency Placeholder
+### :gem: 후원 제화 Placeholder
 
-A placeholder for Gems is available: `%valiant_premium_currency%`\
-It returns the amount of gems a player has.
+사용 가능한 젬 Placeholder: `%valiant_premium_currency%`\
+플레이어가 보유한 젬의 양을 표시합니다.
