@@ -39,16 +39,16 @@ title: '어드밴처 패스'
 
 ### 4가지 타입의 보상을 설정 할 수 있습니다:
 
-#### :moneybag: 골드 보상
+#### :moneybag: 골드로 지급:
 골드 보상을 추가하고 싶다면 아래 예시 처럼 입력하세요:\
 `gold [갯수]`, 예시: `gold 500`
 
-#### :gem: 젬 보상:
+#### :gem: 젬으로 지급:
 젬 보상을 추가하고 싶다면 아래 예시 처럼 입력하세요:\
 `gems [갯수]`, 예시: `gems 500`
 
 
-#### :hammer: 아이템 보상:
+#### :hammer: 아이템으로 지급:
 아이템 보상을 추가하고 싶다면 아래 예시 처럼 입력하세요:\
 `[갯수] of [아이템]`, 예시: `5 of iron sword`.
 
@@ -62,7 +62,7 @@ title: '어드밴처 패스'
 `unbreakable iron sword named "&6&l무한으로 짱쌔짱쌔 검" of sharpness 5 and fire aspect 2 and unbreaking 3`
 
 
-#### :computer: 명령어로 지급하는 보상:
+#### :computer: 명령어로 지급:
 명령어로 보상을 지급하고 싶다면 아래 예시 처럼 입력하세요:\
 `command [명령어]`\
 예시: `command premiumcurrency YUNE4979 add 100`\
