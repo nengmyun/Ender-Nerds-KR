@@ -66,7 +66,6 @@ title: '어드밴처 패스'
 명령어로 보상을 지급하고 싶다면 아래 예시 처럼 입력하세요:\
 `command [명령어]`\
 예시: `command premiumcurrency YUNE4979 add 100`\
-예시 2: `command ban YUNE4979`(보상으로 밴을 줄 수 도 있답니다.)
 
 
 
