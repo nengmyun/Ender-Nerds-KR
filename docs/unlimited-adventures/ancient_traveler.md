@@ -5,10 +5,10 @@ title: 'Ancient Traveler'
 
 
 
-# :briefcase: Ancient Traveler
+# :briefcase: 고대 여행자
 
-Ancient Traveler is our custom-made, limited-time offer shop system.
-Every day, the Ancient Traveler offers a set of 3 different, unique items that he sells for a hefty price.
+고대 여행자는 Unlimited Adventures을 위해 자체 제작된 기간 한정 상점 시스템 입니다.
+매일 3가지 독특한 아이템을 제공하며 이를 가성비 높은 가격에 판매합니다.
 His items stock is unique, you cannot purchase them through the regular Buy Shop.
 
 
