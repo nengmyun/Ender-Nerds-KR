@@ -1,11 +1,11 @@
 ---
 sidebar_position: 16
-title: 'Daily Rewards'
+title: '일일 보상'
 ---
 
 
 
-# :gift: Daily Rewards Config
+# :gift: 일일 보상 콘피그
 
 Valiant Survival utilizes our own, powerful, custom-developed Daily Rewards system.
 Thanks to this, you can use: up to 4 different reward types, 4 placeholders and 2 variables!
