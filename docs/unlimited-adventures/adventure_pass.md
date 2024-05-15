@@ -65,7 +65,7 @@ title: '어드밴처 패스'
 #### :computer: 명령어로 지급:
 명령어로 보상을 지급하고 싶다면 아래 예시 처럼 입력하세요:\
 `command [명령어]`\
-예시: `command premiumcurrency YUNE4979 add 100`\
+예시: `command premiumcurrency YUNE4979 add 100`
 
 
 
