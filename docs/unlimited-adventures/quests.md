@@ -1,24 +1,24 @@
 ---
 sidebar_position: 18
-title: 'Quests'
+title: '퀘스트'
 ---
 
 
 
-# :compass: Quests
+# :compass: 퀘스트
 
-Quests in our setup are handled by the powerful **BetonQuest** plugin.
+Unlimited Adventures의 퀘스트 시스템은 강력한 **BetonQuest** 플러그인을 사용합니다.
 
-All quests are contained in the `plugins/betonquest/quests`
+모든 퀘스트는 `plugins/betonquest/quests` 경로에서 찾을 수 있습니다.
 
-:white_small_square:`objectives.yml` file contains the objectives of the quests,\
-:white_small_square:`events.yml` contains events that we're using to handle quests, like giving the objectives, rewards, finishing the quests, etc.\
-:white_small_square:`items.yml` contains items that are used by quests, both rewards and objective items.
+:white_small_square:`objectives.yml` 파일에는 퀘스트 목표가 포함되어 있습니다.\
+:white_small_square:`events.yml` 목표 재시, 보상 지급, 퀘스트 완료 등과 같은 퀘스트를 처리하는 데 사용하는 이벤트가 포함되어 있습니다.\
+:white_small_square:`items.yml` 퀘스트에 사용되는 아이템이 포함되어 있습니다. (보상 및 목표 아이템 둘 다)
 
 
 
-#### How to do X in BetonQuest?
+#### BetonQuest에서 무엇을 설정할 수 있나요?
 
-I'm not really able to teach you how to use BetonQuest here, since it's a really complex plugin.\
-However, if you want to learn it yourself, please visit [BetonQuest's Wiki](https://docs.betonquest.org/1.12/Learn-Beton/Welcome/).\
-BetonQuest has it's own, dedicated [Discord server](https://discord.com/invite/betonquest-organisation-407221862980911105) at which you will be able to get more help if you're stuck on a problem.
+BetonQuest는 정말 복잡한 플러그인이기 때문에 여기서는 사용법을 가르쳐드릴 수 없습니다.\
+하지만 직접 배워보고 싶다면 [BetonQuest 위키](https://docs.betonquest.org/1.12/Learn-Beton/Welcome/)를 방문해 보세요.\
+BetonQuest에는 문제가 발생한 경우 더 많은 도움을 받을 수 있는 전용 [디스코드 커뮤니티](https://discord.com/invite/betonquest-organisation-407221862980911105)가 있습니다.
