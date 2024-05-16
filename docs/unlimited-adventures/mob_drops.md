@@ -1,40 +1,40 @@
 ---
 sidebar_position: 22
-title: 'Mob Drops'
+title: '몬스터 전리품'
 ---
 
-# :crossed_swords: List of Mob Drops
+# :crossed_swords: 몬스터 전리품 목록입니다.
 
-Some of the naturally spawning mobs have a chance to drop accessory items on death.
+자연적으로 생성되는 일부 몹은 사망 시 액세서리 아이템을 떨어뜨릴 수도 있습니다.
 
-### Drops list:
-| Mob | Drops |
+### 진리품 목록:
+| 몬스터 | 전리품 |
 | - | - |
-| Zombie | Flashlight (only in Dungeons), Shackle, Zombie Brain |
-| Skeleton | Miner Helmet (only in Dungeons), Bone Necklace, Skeleton Skull |
-| Spider | Spider Venom, Ninja Cloak |
-| Creeper | Rocket Boots |
-| Enderman | Hermes Boots |
-| Stray | Shiver Bracelet |
-| Husk | Magic Bracelet |
-| Witch | Vitality Ring, Speed Ring |
-| Piglin| Gold Tooth, Gold Pouch |
-| Piglin Brute | Gold Tooth, Gold Pouch |
-| Wither Skeleton | Dark Magic Necklace |
-| Blaze | Philosopher's Stone |
-| Ghast | Silver Chain |
-| Strider | Magma Boots |
-| Magma Cube | Molten Dice |
-| Drowned | Diving Mask |
-| Guardian | Diving Mask |
-| Elder Guardian | Diving Mask |
-| Ravager | Horseshoe |
-| Wither | Wither Crown |
-| Ender Dragon | 5x Dragonscales, Ender Gauntlet |
-| Mini-Boss: Skeleton Chieftain  | Bone Necklace, Cloak of Wrath (tier 3 only), Skeleton Key |
-| Mini-Boss: Nosferatu | Gold Tooth, Blood Vial (tier 3 only), Dracula Key |
-| Mini-Boss: Desert Outcast | Sunstone Ring, Zephyr Veil (tier 3 only), Desert Key |
+| 좀비 | Flashlight (던전에서만 드랍됨), Shackle, Zombie Brain |
+| 스켈레톤 | Miner Helmet (던전에서만 드랍됨), Bone Necklace, Skeleton Skull |
+| 거미 | Spider Venom, Ninja Cloak |
+| 크리퍼 | Rocket Boots |
+| 엔더맨 | Hermes Boots |
+| 스트레이 | Shiver Bracelet |
+| 허스크 | Magic Bracelet |
+| 마녀 | Vitality Ring, Speed Ring |
+| 피글린 | Gold Tooth, Gold Pouch |
+| 피글린 야수 | Gold Tooth, Gold Pouch |
+| 위더 스켈레톤 | Dark Magic Necklace |
+| 블레이즈 | Philosopher's Stone |
+| 가스트 | Silver Chain |
+| 스트라이더 | Magma Boots |
+| 마그마 큐브 | Molten Dice |
+| 드라운드 | Diving Mask |
+| 가디언 | Diving Mask |
+| 엘더 가디언 | Diving Mask |
+| 파괴수 | Horseshoe |
+| 위더 | Wither Crown |
+| 엔더 드래곤 | 5x Dragonscales, Ender Gauntlet |
+| 미니 보스: Skeleton Chieftain  | Bone Necklace, Cloak of Wrath (tier 3만 드랍됨), Skeleton Key |
+| 미니 보스: Nosferatu | Gold Tooth, Blood Vial (tier 3만 드랍됨), Dracula Key |
+| 미니 보스: Desert Outcast | Sunstone Ring, Zephyr Veil (tier 3만 드랍됨), Desert Key |
 
-### How to edit item drop rates?
+### 아이템 드랍률은 어떻게 수정하나요?
 
-Custom item drop rates can be modified in `unlimited_adventures/TheForge/drops.yml`
+커스텀 아이템의 드랍률은 `unlimited_adventures/TheForge/drops.yml` 해당 경로에서 수정 가능합니다.
