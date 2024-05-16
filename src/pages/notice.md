@@ -10,7 +10,7 @@ import TabItem from '@theme/TabItem';
 :::
 
 <Tabs>
-  <TabItem value="note4" label="번역 근황">
+  <TabItem value="note3" label="번역 근황">
 - **2024년 4월 30일(화요일) 오후 5시 40분 :**\
 Adventure Backpacks : 모든 번역이 완료되었습니다.\
 Unlimited Adventures : `FAQ ~ 던전`까지 번역이 완료되었습니다.
@@ -30,13 +30,6 @@ Unlimited Adventures : `FAQ ~ 일일보상`, `색 구성표`까지 번역이 완
 - **2024년 5월 16일(목요일) 오후 1시 00분 :**\
 Adventure Backpacks : 모든 번역이 완료되었습니다.\
 Unlimited Adventures : 모든 번역이 완료되었습니다. (마참내!)
-
-</TabItem>
-
-  <TabItem value="note3" label="설명서가 부정확한 문제 관련">
-해당 설명서에 Unlimited Adventures 카테고리에서 부정확한 부분이 확인되었습니다.\
-한글 설명서는 Ender Nerds 팀에게서 원본 파일을 받아 해석한 것 이기에 Ender Nerds 팀에게 문의 하였고, 이는 다음 업데이트에 반영될 내용이였음이 확인되었습니다.\
-Ender Nerds 측에서는 곧 출시될 업데이트의 내용이니 바꿀 필요는 없다라고 답변하여 변경 없이 그대로 유지될 예정입니다.
 
 </TabItem>
 
