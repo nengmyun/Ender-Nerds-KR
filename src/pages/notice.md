@@ -27,6 +27,9 @@ Unlimited Adventures : `FAQ ~ 배지`까지 번역이 완료되었습니다.\
 - **2024년 5월 15일(수요일) 오후 9시 18분 :**\
 Adventure Backpacks : 모든 번역이 완료되었습니다.\
 Unlimited Adventures : `FAQ ~ 일일보상`, `색 구성표`까지 번역이 완료되었습니다.
+- **2024년 5월 16일(목요일) 오후 1시 00분 :**\
+Adventure Backpacks : 모든 번역이 완료되었습니다.\
+Unlimited Adventures : 모든 번역이 완료되었습니다. (마참내!)
 
 </TabItem>
 
