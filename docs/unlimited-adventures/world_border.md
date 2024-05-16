@@ -1,17 +1,17 @@
 ---
 sidebar_position: 21
-title: 'World Border'
+title: '월드 보더'
 ---
 
-# :o: How to add the World Border?
+# :o: 월드 보더를 어떻게 추가하나요?
 
-You can easily add a world border, in order to restrain the gameplay area, to prevent players from travelling too far or creating new chunks.
-Another reason to do it is to reduce the lags or make the gameplay more competitive.
+게임 플레이 영역을 제한하고 플레이어가 너무 멀리 이동하거나 새로운 청크를 생성하는 것을 방지하기 위해 월드 보더를 쉽게 추가할 수 있습니다.
+그렇게 하는 또 다른 이유는 서버 자원 사용을 줄이거나 게임플레이를 더욱 쾌적하게 만들기 위해서입니다.
 
 #### Step 1
-> Specify the world center with: `/worldborder center 0 0`
+> 다음을 사용하여 야생 월드의 중심을 지정합니다.: `/worldborder center 0 0`
 
 #### Step 2
-> Specify the world border size with: `/worldborder set 5000`
+> 다음을 사용하여 월드 보더의 크기를 지정합니다: `/worldborder set 5000`
 
-That's it! You have a 5000x5000 border ready!
+이게 끝 입니다! 5000x5000의 월드 보더가 생성되었습니다!
