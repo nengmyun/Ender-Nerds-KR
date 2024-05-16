@@ -1,6 +1,6 @@
 ---
 sidebar_position: 19
-title: 'Rank Textures'
+title: '랭크 텍스쳐'
 ---
 
 import img1 from './assets/rank_textures_1.png';
