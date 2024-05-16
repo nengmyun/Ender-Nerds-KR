@@ -1,13 +1,13 @@
 ---
 sidebar_position: 17
-title: 'Sell & Buy Menus'
+title: '구매 및 판매 메뉴'
 ---
 
 
 
-# :moneybag: Sell & Buy Menus
+# :moneybag: 구매 및 판매 메뉴
 
-Both Sell and Buy Menus are created with Command Panels.
+구매 및 판매 메뉴 모두 Command Panels로 제작되었습니다.
 
-#### You can find menus in:
+#### 메뉴는 해당 경로에서 찾을 수 있습니다:
 `plugins/CommandPanels/panels/shops/`
