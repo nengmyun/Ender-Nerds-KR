@@ -13,7 +13,7 @@ import guide from './assets/ItemsAdder.mp4';
 > 서버를 끕니다.
 
 #### Step 2
-> Unlimited Adventures' 리소스팩을 `plugins/ItemsAdder/contents` 에 넣습니다.
+> Unlimited Adventures 리소스팩을 `plugins/ItemsAdder/contents` 에 넣습니다.
 
 :::tip[리소스팩 찾는 법]
 리소스팩을 어떻게 찾는지 모르시겠나요? [리소스팩 적용](resource-pack) 을 참고하세요!
