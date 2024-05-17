@@ -13,7 +13,7 @@ import guide from './assets/Oraxen.mp4';
 > 서버를 끕니다.
 
 **Step 2**
-> Unlimited Adventures' 리소스팩의 컨텐츠를 복사합니다. (`Unlimited Adventures/assets/` 에 있습니다.)
+> Unlimited Adventures 리소스팩의 컨텐츠를 복사합니다. (`Unlimited Adventures/assets/` 에 있습니다.)
 :::tip[리소스팩을 못 찾았나요?]
 리소스팩을 어떻게 찾는지 모르시겠나요? [리소스팩 적용](resource-pack) 페이지를 참고하세요!
 :::
