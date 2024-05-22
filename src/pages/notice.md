@@ -7,15 +7,7 @@ import TabItem from '@theme/TabItem';
 
 <Tabs>
   <TabItem value="note4" label="추가적인 한국 현지화">
-Ender Nerds 공식 문서의 성공적인 한국 현지화를 기념하여 추가적인 한국 현지화를 준비중 입니다.\
-이번 한국 현지화는 Unlimited Adventures로 예정 되어있으며, 이를 위해 개발팀 Ender Nerds에서 기술적 지원을 받고 있습니다.\
-Unlimited Adventures의 한국 현지화는 일종의 `업데이트 파일` 처럼 파일을 교체하는 방식이며, 이 또한 쉽게 가능하도록 출시와 동시에 문서에 방법을 추가할 예정입니다.\
-하지만 기존 한글 문서와의 통일을 위해 몇몇 부분은 한글화가 진행되지 않을 수도 있습니다.(예시: GUI 리소스팩)\
-아직은 극 초기 단계 이므로 위 발표 내용은 언제든지 수정될 수 있습니다. 자세한 내용은 추 후 공지로 알려드리겠습니다!
-
-Unlimited Adventures는 방대한 텍스트량을 가지고 있습니다.(공식 문서보다 2배 이상 더 많습니다.)\
-그러므로 Unlimited Adventures를 함께 번역하실 분을 찾고있습니다.\
-신청은 [이곳](/join-us)을 확인해주세요!
+자세한 내용은 [이곳](/korean)을 참고해주세요!
 
 </TabItem>
 
