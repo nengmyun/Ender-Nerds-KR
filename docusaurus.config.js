@@ -115,7 +115,7 @@ const config = {
           {
             position: 'left',
             label: '추가적인 한글화',
-            href: 'korean/'
+            to: 'korean/'
           },
           {
             position: 'left',
