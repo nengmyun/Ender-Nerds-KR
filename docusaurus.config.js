@@ -114,6 +114,11 @@ const config = {
           },
           {
             position: 'left',
+            label: '추가적인 한글화',
+            href: 'korean/'
+          },
+          {
+            position: 'left',
             label: '디스코드',
             href: 'https://discord.gg/wdBFC7Hc6X'
           },
