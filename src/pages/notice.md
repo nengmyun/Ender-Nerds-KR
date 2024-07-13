@@ -6,6 +6,12 @@ import TabItem from '@theme/TabItem';
 ## 해당 사이트에 대한 공지사항들 입니다.
 
 <Tabs>
+  <TabItem value="note4" label="한글화 근황">
+지금은 2.7 버전에 맞춰 빠른 작업을 할 수 있도록 준비중에 있습니다.
+추가로 리소스팩 관련으로도 한글화가 진행될 예정입니다.
+
+</TabItem>
+
   <TabItem value="note4" label="추가적인 한국 현지화">
 자세한 내용은 [이곳](/korean)을 참고해주세요!
 
