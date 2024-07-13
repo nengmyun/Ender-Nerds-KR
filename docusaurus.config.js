@@ -6,6 +6,15 @@
 
 import {themes as prismThemes} from 'prism-react-renderer';
 
+export default {
+  themes: ['@docusaurus/theme-mermaid'],
+  // In order for Mermaid code blocks in Markdown to work,
+  // you also need to enable the Remark plugin with this option
+  markdown: {
+    mermaid: true,
+  },
+};
+
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: '엔더 너드',
