@@ -1,14 +1,14 @@
+---
+sidebar_position: 1
+title: 상점 페이지
+---
+
 import page1 from './assets/Frame 1.png';
 import page2 from './assets/Frame 3.png';
 import page3 from './assets/Frame 4.png';
 import page4 from './assets/Frame 2.png';
 import page5 from './assets/Frame 5.png';
 import page6 from './assets/Frame 6.png';
-
----
-sidebar_position: 1
-title: 상점 페이지
----
 
 # 상점 페이지
 Built By Bit 에 업로드 되어있는 Unlimited Adventures의 상점 페이지를 번역하였습니다!
