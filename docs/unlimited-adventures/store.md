@@ -15,6 +15,8 @@ import icon from './assets/icon.png';
 Built By Bit 에 업로드 되어있는 Unlimited Adventures의 상점 페이지를 번역하였습니다!
 (아직 번역이 진행중이며 계속 업데이트 됩니다.)
 
+
+
 <img src={icon} alt="Image Description"/>
 <img src={page1} alt="Image Description"/>
 <img src={page2} alt="Image Description"/>
