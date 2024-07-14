@@ -9,6 +9,7 @@ import page3 from './assets/Frame 4.png';
 import page4 from './assets/Frame 2.png';
 import page5 from './assets/Frame 5.png';
 import page6 from './assets/Frame 6.png';
+import icon from './assets/icon.png';
 
 # 상점 페이지
 Built By Bit 에 업로드 되어있는 Unlimited Adventures의 상점 페이지를 번역하였습니다!
