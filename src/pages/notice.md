@@ -6,12 +6,7 @@ import TabItem from '@theme/TabItem';
 ## 해당 사이트 및 Unlimited Adventures 및 Adventure Backpacks에 대한 공지사항들 입니다.
 
 <Tabs>
-  <TabItem value="note3" label="어드벤처 백팩 공지사항">
-아직 공지사항이 없습니다.
-
-</TabItem>
-
-  <TabItem value="note2" label="언리미티드 어드벤처 공지사항">
+  <TabItem value="ua" label="언리미티드 어드벤처 공지사항">
 ## 언리미티드 어드벤처의 2.7.1 버전이 업데이트 되었습니다!
 업데이트 사항 :
 - /test 커멘드 버그 수정
@@ -28,8 +23,15 @@ import TabItem from '@theme/TabItem';
 
 </TabItem>
 
-  <TabItem value="note1" label="웹 사이트 공지사항">
+  <TabItem value="ab" label="어드벤처 백팩 공지사항">
 아직 공지사항이 없습니다.
+
+</TabItem>
+
+  <TabItem value="web" label="웹 사이트 공지사항">
+## 공지사항이 개편됩니다!
+- 이제 공지에서 Unlimited Adventures 및 Adventure Backpack의 공지사항을 다룹니다.
+- 또한 이제 공지사항을 카테고리 별로 확인 가능합니다.
 
 </TabItem>
 
