@@ -114,7 +114,7 @@ const config = {
           },
           {
             position: 'left',
-            label: '문제해결',
+            label: '해결된 문제',
             to: 'troubleshooting/'
           },
           {
