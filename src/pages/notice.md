@@ -3,7 +3,7 @@ import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
 # 📢 공지사항
-## 해당 사이트 및 Unlimited Adventures 및 Adventure Backpacks에 대한 공지사항들 입니다.
+## Ender Nerds의 대한 소식을 다룹니다.
 
 <Tabs>
   <TabItem value="ua" label="언리미티드 어드벤처 공지사항">
@@ -35,6 +35,11 @@ import TabItem from '@theme/TabItem';
 - 이제 공지에서 Unlimited Adventures 및 Adventure Backpack의 공지사항을 다룹니다.
 - 또한 이제 공지사항을 카테고리 별로 확인 가능합니다.
 :::
+
+</TabItem>
+
+  <TabItem value="etc" label="커뮤니티 공지사항">
+아직 공지사항이 없습니다.
 
 </TabItem>
 
