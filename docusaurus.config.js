@@ -114,8 +114,8 @@ const config = {
           },
           {
             position: 'left',
-            label: '추가적인 한글화',
-            to: 'korean/'
+            label: '문제해결',
+            to: 'troubleshooting/'
           },
           {
             position: 'left',
