@@ -12,6 +12,10 @@ import TabItem from '@theme/TabItem';
 - /test 커멘드 버그 수정
 - 대장장이(The Forge) 관련 버그 수정
 
+:::info[업데이트 버전 호환]
+해당 업데이트는 2.7 버전에서 업데이트 패치 가능합니다.
+:::
+
 :::tip[구매 / 다운로드 하기]
 [BuiltByBit](https://builtbybit.com/resources/unlimited-adventures-survival-setup.27917/)
 :::
