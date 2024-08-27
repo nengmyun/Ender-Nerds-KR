@@ -48,6 +48,9 @@ Ender Nerds 팀 올림.
 </TabItem>
 
   <TabItem value="web" label="웹 사이트 공지사항">
+:::note[상점 번역 페이지 삭제]
+- Unlimited Adventures 문서 속 "상점 페이지" 페이지가 삭제되었습니다.
+:::
 :::note[공지사항이 개편됩니다!]
 - 이제 공지에서 Unlimited Adventures 및 Adventure Backpack의 공지사항을 다룹니다.
 - 또한 이제 공지사항을 카테고리 별로 확인 가능합니다.
