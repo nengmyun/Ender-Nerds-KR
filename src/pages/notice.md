@@ -3,7 +3,7 @@ import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
 # 📢 공지사항
-##Ender Nerds의 대한 소식을 다룹니다.
+## Ender Nerds의 대한 소식을 다룹니다.
 
 <Tabs>
   <TabItem value="ua" label="언리미티드 어드벤처 공지사항">
