@@ -23,7 +23,7 @@ import TabItem from '@theme/TabItem';
 
 </TabItem>
 
-  <TabItem value="ab" label="어드벤처 백팩 공지사항">
+  <TabItem value="ab" label="어드벤처 백팩 공지사항">
 아직 공지사항이 없습니다.
 
 </TabItem>
