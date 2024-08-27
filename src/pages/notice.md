@@ -7,7 +7,7 @@ import TabItem from '@theme/TabItem';
 
 <Tabs>
   <TabItem value="ua" label="언리미티드 어드벤처 공지사항">
-::::danger[언리미티드 어드벤처 / 업데이트 2.7.1 (최신)]
+::::danger[[ 가장 최신 ] 언리미티드 어드벤처 / 업데이트 2.7.1]
 업데이트 사항 :
 - /test 커멘드 버그 수정
 - 대장장이(The Forge) 관련 버그 수정
