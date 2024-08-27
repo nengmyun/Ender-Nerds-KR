@@ -3,7 +3,7 @@ import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
 # 📢 공지사항
-## Ender Nerds의 대한 소식을 다룹니다.
+##Ender Nerds의 대한 소식을 다룹니다.
 
 <Tabs>
   <TabItem value="ua" label="언리미티드 어드벤처 공지사항">
@@ -49,7 +49,7 @@ Ender Nerds 팀 올림.
 
   <TabItem value="web" label="웹 사이트 공지사항">
 :::note[상점 번역 페이지 삭제]
-- Unlimited Adventures 문서 속 "상점 페이지" 페이지가 삭제되었습니다.
+- Unlimited Adventures 문서 속 "상점 페이지" 페이지가 삭제되었습니다.
 :::
 :::note[공지사항이 개편됩니다!]
 - 이제 공지에서 Unlimited Adventures 및 Adventure Backpack의 공지사항을 다룹니다.
