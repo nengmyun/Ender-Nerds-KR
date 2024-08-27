@@ -7,12 +7,13 @@ import TabItem from '@theme/TabItem';
 
 <Tabs>
   <TabItem value="ua" label="언리미티드 어드벤처 공지사항">
-## 언리미티드 어드벤처의 2.7.1 버전이 업데이트 되었습니다!
+:::note[언리미티드 어드벤처 2.7.1 버전 업데이트]
 업데이트 사항 :
 - /test 커멘드 버그 수정
 - 대장장이(The Forge) 관련 버그 수정
+:::
 
-## 언리미티드 어드벤처의 2.7 버전이 업데이트 되었습니다!
+:::note[언리미티드 어드벤처 2.7 버전 업데이트]
 업데이트 사항 :
 - 악어 추가 (늪에서 스폰)
 - 버팔로 추가 (사바나에서 스폰)
@@ -20,6 +21,7 @@ import TabItem from '@theme/TabItem';
 - 계단에 앉기 추가
 - 몇 가지 새로운 아이템 추가
 - 몇 가지 버그 수정
+:::
 
 </TabItem>
 
@@ -29,9 +31,10 @@ import TabItem from '@theme/TabItem';
 </TabItem>
 
   <TabItem value="web" label="웹 사이트 공지사항">
-## 공지사항이 개편됩니다!
+:::note[공지사항이 개편됩니다!]
 - 이제 공지에서 Unlimited Adventures 및 Adventure Backpack의 공지사항을 다룹니다.
 - 또한 이제 공지사항을 카테고리 별로 확인 가능합니다.
+:::
 
 </TabItem>
 
