@@ -7,7 +7,7 @@ import TabItem from '@theme/TabItem';
 
 <Tabs>
   <TabItem value="ua" label="언리미티드 어드벤처 공지사항">
-::::info[언리미티드 어드벤처 / 업데이트 2.7.1 (최신)]
+::::danger[언리미티드 어드벤처 / 업데이트 2.7.1 (최신)]
 업데이트 사항 :
 - /test 커멘드 버그 수정
 - 대장장이(The Forge) 관련 버그 수정
@@ -36,7 +36,7 @@ import TabItem from '@theme/TabItem';
 해당 업데이트는 2.6.6 버전에서 업데이트 패치 가능합니다.
 :::
 
-:::danger[발견된 문제]
+:::warning[발견된 문제]
 /test를 실행하여 플레이어가 던전 키를 획득할 수 있는 버그가 있습니다.
 plugins/Skript/scripts/ 폴더에서 test_server.sk 파일을 제거하면 지금 바로 직접 수정할 수 있습니다. 이 파일을 제거해도 일반적인 게임 플레이에는 영향을 미치지 않습니다.
 
