@@ -1,5 +1,6 @@
 ---
 title: '테스트 페이지'
+sidebar_position: 1
 ---
 
 
