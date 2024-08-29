@@ -65,12 +65,12 @@ const config = {
       },
       algolia: {
         // The application ID provided by Algolia
-        appId: 'BX44LKSLEL',
+        appId: 'SIAGXCGZ7Z',
   
         // Public API key: it is safe to commit it
-        apiKey: '544d8152fe9c320af1fd2ea40cecd4de',
+        apiKey: '98edf6da5242c09ef3225482dcafea43',
   
-        indexName: 'YOUR_INDEX_NAME',
+        indexName: 'SEARCH',
   
         // Optional: see doc section below
         contextualSearch: true,
@@ -80,7 +80,7 @@ const config = {
   
         // Optional: Replace parts of the item URLs from Algolia. Useful when using the same search index for multiple deployments using a different baseUrl. You can use regexp or string in the `from` param. For example: localhost:3000 vs myCompany.com/docs
         replaceSearchResultPathname: {
-          from: '/docs/', // or as RegExp: /\/docs\//
+          from: 'docs/', // or as RegExp: /\/docs\//
           to: '/',
         },
   
@@ -95,7 +95,7 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: '엔더 너드',
+        title: 'Ender Nerds',
         logo: {
           alt: 'Ender Nerds Logo',
           src: 'img/logo.jpg',
