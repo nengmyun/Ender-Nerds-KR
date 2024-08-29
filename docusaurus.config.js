@@ -8,7 +8,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: '엔더 너드',
+  title: 'Ender Nerds',
   tagline: '공식 문서 페이지',
   favicon: 'img/logo.jpg',
 
