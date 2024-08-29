@@ -61,7 +61,11 @@ Ender Nerds 팀 올림.
 </TabItem>
 
   <TabItem value="web" label="웹 사이트 공지사항">
-:::danger[[ 가장 최신 ] 상점 번역 페이지 삭제]
+:::danger[[ 가장 최신 ] 한글화 모집 관련 페이지 삭제]
+- 한글화 인원 모집 관련 페이지들을 전부 삭제중에 있습니다.
+:::
+
+:::note[상점 번역 페이지 삭제]
 - Unlimited Adventures 문서 속 "상점 페이지" 페이지가 삭제되었습니다.
 :::
 
