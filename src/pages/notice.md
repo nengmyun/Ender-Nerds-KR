@@ -86,7 +86,7 @@ Ender Nerds 팀 올림.
 </TabItem>
 
   <TabItem value="etc" label="커뮤니티 공지사항">
-:::danger[[ 가장 최신 ] Unlimited Adventures 한글화 중단]
+:::danger[[ 가장 최신 ] Unlimited Adventures 한글화 중단]
 - 한글화에 있어 지금 인력만으로는 어려움이 크다고 판단, Unlimited Adventures 의 한글화를 중단하고 외부적인 서비스(문서 페이지 등)에 집중할 예정입니다.
 - 중단된 한글화는 인력이 보충된다면, 1순위로 진행하겠습니다.
 :::
