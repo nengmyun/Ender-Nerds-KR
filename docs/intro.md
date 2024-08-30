@@ -3,6 +3,8 @@ sidebar_position: 1
 title: 📄 환영합니다!
 ---
 
+import guide from 'docs/assets/Oraxen.mp4';
+
 # 환영합니다!
 
 해당 문서는 Ender Nerds의 제품들을 구매하신 한국인분들을 위하여 제작되었습니다.
