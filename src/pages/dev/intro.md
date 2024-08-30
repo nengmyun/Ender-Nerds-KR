@@ -1,7 +1,6 @@
 ---
 sidebar_position: 1
 title: 개발자 페이지
-displayed_sidebar: devSidebar
 ---
 
 # 필독사항
