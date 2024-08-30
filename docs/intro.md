@@ -7,7 +7,7 @@ import banner from './assets/banner.png';
 
 # 환영합니다!
 
-<img src={banner} alt="Image Description" width="1920" height="868"/>
+<img src={banner} alt="Image Description"/>
 해당 문서는 Ender Nerds의 제품들을 구매하신 한국인분들을 위하여 제작되었습니다.
 Ender Nerds의 허락을 받은 후 원본 파일을 제공받아 제작되고 있으며, 상의 후 계속 추가할 예정입니다.
 하지만 혼자서 작업하는 것이기에 반영되는것에 다소 시간이 필요합니다.
