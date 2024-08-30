@@ -1,6 +1,6 @@
 ---
 sidebar_position: 1
-title: 필독사항
+title: 📄 필독사항
 ---
 
 # 먼저 읽어주세요!
