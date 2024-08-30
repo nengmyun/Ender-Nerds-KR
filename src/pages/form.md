@@ -1,6 +1,5 @@
 ---
 title: '페이지 이동됨'
-sidebar_position: 1
 ---
 
 
