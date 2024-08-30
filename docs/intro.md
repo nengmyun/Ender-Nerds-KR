@@ -3,7 +3,7 @@ sidebar_position: 1
 title: 📄 환영합니다!
 ---
 
-import guide from 'docs/assets/Oraxen.mp4';
+import banner from './assets/banner.png';
 
 # 환영합니다!
 
