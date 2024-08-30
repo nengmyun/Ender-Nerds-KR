@@ -15,4 +15,4 @@ title: 개발자 페이지
 :::
 
 ## 열람 가능한 개발자 페이지 주소 :
-/dev/form/notice - 공지 양식 확인
+/dev/form/noticeform - 공지 양식 확인
