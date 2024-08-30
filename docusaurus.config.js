@@ -70,7 +70,7 @@ const config = {
         // Public API key: it is safe to commit it
         apiKey: '98edf6da5242c09ef3225482dcafea43',
   
-        indexName: 'SEARCH',
+        indexName: 'searchengine',
   
         // Optional: see doc section below
         contextualSearch: true,
