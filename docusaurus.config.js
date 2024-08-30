@@ -13,7 +13,7 @@ const config = {
   tagline: '공식 문서 페이지',
   favicon: 'img/logo.jpg',
   markdown: {
-    mermaid: true
+    mermaid: true,
   },
 
   // Set the production url of your site here
