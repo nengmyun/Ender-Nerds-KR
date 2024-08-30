@@ -5,7 +5,7 @@ import TabItem from '@theme/TabItem';
 # 📢 공지사항
 ## Ender Nerds의 대한 소식을 다룹니다.
 
-<Tabs>
+<Tabs className="unique-tabs">
   <TabItem value="ua" label="언리미티드 어드벤처 공지사항">
 ::::danger[[ 최신버전 ] v. 2.7.1 - 핫픽스]
 # # 언리미티드 어드벤처 / 2.7.1 핫픽스
