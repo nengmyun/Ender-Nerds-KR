@@ -31,7 +31,15 @@ const config = {
   // may want to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: 'ko',
-    locales: ['ko'],
+    locales: ['ko', 'en'],
+    localeConfigs: {
+      ko: {
+        htmlLang: 'ko',
+      },
+      en: {
+        htmlLang: 'en',
+      },
+    },
   },
 
   presets: [
@@ -101,6 +109,10 @@ const config = {
           src: 'img/logo.jpg',
         },
         items: [
+          {
+            type: 'localeDropdown',
+            position: 'left',
+          },
           {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
