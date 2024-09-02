@@ -1,5 +1,5 @@
 ---
-title: White Drop Team 에 대해서
+title: White Drop Team 에 대해서
 ---
 
 # White Drop Team 정보
