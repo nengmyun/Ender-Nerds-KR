@@ -35,5 +35,5 @@ ItemsAdder 를 처음 사용하신다면, [ItemsAdder 설치 가이드](https://
 
 ### 다른 자료를 찾으시나요?:
 
-- [Items Adder 설치 가이드](https://itemsadder.devs.beer/first-install) - Items Adder 를 처음 설치하실 경우 꼭 읽어주세요.
+- [Items Adder 설치 가이드](https://itemsadder.devs.beer/first-install) - Items Adder 를 처음 설치하실 경우 꼭 읽어주세요.
 - [Items Adder 리소스팩 적용 가이드](https://itemsadder.devs.beer/plugin-usage/merge-resourcepacks) - 기본적으로 이 페이지에서 설명하는 것과 동일한 내용을 설명합니다.
