@@ -9,6 +9,12 @@ import TabItem from '@theme/TabItem';
 <Tabs className="unique-tabs">
   <TabItem value="ua" label="언리미티드 어드벤처 공지사항">
 ::::danger[[ 최신버전 ] v. 2.7.2 - 마이너 업데이트]
+:::warning[긴급 공지]
+## The Forge 관련 버그 해결 방법
+- `unlimited_adventures/CustomItems` 폴더를 삭제합니다.
+- `/skript reload custom_items` 명령어를 실행하여 폴더를 다시 생성하면 끝 입니다.
+:::
+
 # # 언리미티드 어드벤처 / 2.7.2 - 분석 업데이트
 ## 분석
 매일 새로 가입하는 플레이어에 대한 데이터 덕분에 서버의 성과를 측정할 수 있습니다! 이것은 업계 표준이며, 귀하의 서버를 위해 고안한 귀하의 서버 진행 상황을 추적하기 위한 실행 가능한 지표입니다!
