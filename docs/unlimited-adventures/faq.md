@@ -6,7 +6,7 @@ title: 'FAQ'
 
 # :thinking: 자주 듣는 질문
 
-안녕하세요! Unlimited Adventures에 관심을 가져주셔서 감사합니다! 여러분들이 자주하시는 질문들에 대한 답들이 해당 페이지에 있습니다.\
+안녕하세요! Unlimited Adventures에 관심을 가져주셔서 감사합니다! 여러분들이 자주 해주시는 질문들에 대한 답들이 해당 페이지에 있습니다.\
 **저희에게 직접** 물어보고 싶으신 것들은, 저희의 [디스코드 커뮤니티](https://discord.gg/wdBFC7Hc6X) 에 접속하신 후 질문해주세요! 성실하게 답변해드리겠습니다!
 
 ### 잔말 말고 제가 왜 Unlimited Adventures를 사야하죠?
