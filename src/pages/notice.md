@@ -4,6 +4,7 @@ import TabItem from '@theme/TabItem';
 
 # 📢 공지사항
 ## Ender Nerds의 대한 소식을 다룹니다.
+(한 탭당 최대 5개의 개시글이 업로드 됩니다.)
 
 <Tabs className="unique-tabs">
   <TabItem value="ua" label="언리미티드 어드벤처 공지사항">
