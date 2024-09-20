@@ -47,7 +47,7 @@ import TabItem from '@theme/TabItem';
 [Citizens](https://ci.citizensnpcs.co/job/citizens2/3373/artifact/dist/target/Citizens-2.0.33-b3373.jar)를 업데이트하세요.
 
 #### Step 6
-`Update Files`의 모든 내용을 서버의 메인 폴더에 복사하세요.(대상 폴더에서 "대상 파일을 변경"을 클릭하세요)
+`Update Files`의 모든 내용을 서버의 메인 폴더에 복사하세요.("대상 폴더의 파일 덮어쓰기"을 클릭합니다)
 
   </TabItem>
     <TabItem value="Other versions" label="다른 버전">
