@@ -88,7 +88,11 @@ Ender Nerds 팀 올림.
 </TabItem>
 
   <TabItem value="web" label="웹 사이트 공지사항">
-:::danger[[ 가장 최신 ] 사이트 디자인 변경]
+:::danger[[ 가장 최신 ] Blog 변역 준비중]
+- Ender Nerds 원본 사이트의 Blog 페이지의 번역을 준비중에 있습니다.
+:::
+
+:::note[사이트 디자인 변경]
 - 사이트 디자인을 좀 더 이쁘게 보여지기 위해 작업중에 있습니다.
 :::
 
