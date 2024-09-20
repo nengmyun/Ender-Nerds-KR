@@ -2,6 +2,7 @@
 sidebar_position: 1
 title: '서버팩 설치'
 ---
+import ReactPlayer from 'react-player'
 import video from './assets/installguide.mp4';
 
 # :hatching_chick: 서버팩 설치 가이드
