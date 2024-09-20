@@ -89,11 +89,6 @@ const config = {
           },
           {
             position: 'left',
-            label: '해결된 문제',
-            to: 'troubleshooting/'
-          },
-          {
-            position: 'left',
             label: '디스코드',
             href: 'https://discord.gg/wdBFC7Hc6X'
           },
