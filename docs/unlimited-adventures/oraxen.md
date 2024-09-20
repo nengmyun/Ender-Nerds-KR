@@ -3,7 +3,6 @@ sidebar_position: 4
 title: 'Oraxen'
 ---
 
-import ReactPlayer from 'react-player'
 import video from './assets/Oraxen.mp4';
 
 # Unlimited Adventures 리소스팩을 Oraxen 에 적용 시키는 방법
@@ -34,4 +33,5 @@ Oraxen을 설치하려면 리소스 팩을 Oraxen과 병합해야 합니다.\
 
 끝났습니다! 이제 Oraxen 으로 Unlimited Adventures 의 리소스팩을 관리할 수 있습니다 :heart:
 
-<ReactPlayer playing controls url={video} />
+<video src={video} controls width="384" height="216">
+</video>
