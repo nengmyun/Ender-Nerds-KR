@@ -1,5 +1,5 @@
 ---
-sidebar_position: 11
+sidebar_position: 12
 title: '던전'
 ---
 
@@ -23,13 +23,13 @@ title: '던전'
 #### :closed_book: 던전 메뉴
 
 던전 메뉴는 아래 경로에서 수정 가능합니다:\
-```plugins/CommandPanels/dungeons```
+```plugins/CommandPanels/panels/utility/dungeons```
 
 
 #### :gear: 어떻게 던전을 커스터마이징 하나요?
 
 던전의 시스템은 해당 경로에서 수정 가능합니다:
-```plugins/Dungeons/```
+```unlimited_adventures/Dungeons/```
 
 
 
