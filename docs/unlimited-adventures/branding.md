@@ -1,21 +1,30 @@
 ---
-sidebar_position: 7
+sidebar_position: 9
 title: '브랜딩'
 ---
 
-
-
+import img1 from './assets/title_bar.png';
 
 # **💎 브랜딩**
 
 Unlimited Adventures에는 저희의 브랜드 패키지가 함께 제공됩니다.\
 기본 텍스처와 로고를 계속 사용하셔도 상관 없지만, 자신만의 브랜드로 수정하는 것을 추천합니다.\
 이 페이지에서는 설정의 가장 중요한 브랜딩 기능을 변경하는 방법을 설명합니다.
+
+
 ### 'ESC' 메뉴 로고
+
+
+<img src={img1} alt="Image Description" width="732" height="250"/>
+
 #### 로고를 수정하는 방법
 'ESC' 메뉴 로고는 리소스팩을 이용하여 수정할 수 있습니다.\
 `Assets/minecraft/textures/custom/icons/title.png`에서 로고 텍스쳐를 찾을 수 있습니다.\
 로고 텍스쳐를 변경하려면 해당 텍스처를 편집해야합니다.
+
+:::tip[로고를 제작할 수 없습니다.]
+로고를 직접 만드는 방법을 모른다면, 로고를 만드는 데 도움이 되는 도구가 있습니다. [클릭하여 확인하기](https://www.google.com/search?q=minecraft+logo+generator&oq=minecraft+logo+generator&gs_lcrp=EgZjaHJvbWUqBwgAEAAYgAQyBwgAEAAYgAQyCAgBEAAYFhgeMggIAhAAGBYYHjIICAMQABgWGB4yCAgEEAAYFhgeMggIBRAAGBYYHjIICAYQABgWGB4yCAgHEAAYFhgeMggICBAAGBYYHjIICAkQABgWGB7SAQgzNTA1ajBqMagCALACAA&sourceid=chrome&ie=UTF-8)
+:::
 
 :::tip[로고 크기]
 로고 사이즈는 최대 256x256px 크기여야 합니다. 이는 Minecraft에서 제한해 놓은 사항이기에 어쩔 수 없습니다.
