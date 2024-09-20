@@ -88,7 +88,12 @@ Ender Nerds 팀 올림.
 </TabItem>
 
   <TabItem value="web" label="웹 사이트 공지사항">
-:::danger[[ 가장 최신 ] Blog 변역 준비중, 검색 기능 삭제]
+:::danger[[ 가장 최신 ] Blog 변역 완료, 문서 내용 업데이트]
+- Blog의 번역을 전부 완료하였습니다!
+- Unlimited Adventures의 문서 속 몇몇 내용을 최신 내용으로 업데이트 하였습니다.
+:::
+
+:::note[Blog 변역 준비중, 검색 기능 삭제]
 - Ender Nerds 원본 사이트의 Blog 페이지의 번역을 준비중에 있습니다.
 - 해당 페이지의 검색 기능을 삭제하였습니다.(사유: 원본 사이트에서 삭제됨.)
 :::
