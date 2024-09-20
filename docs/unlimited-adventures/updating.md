@@ -3,6 +3,12 @@ sidebar_position: 2
 title: '업데이트'
 ---
 
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
+
+
+
+
 
 # :bulb: **서버팩을 어떻게 업데이트 하나요?**
 
@@ -17,18 +23,43 @@ title: '업데이트'
 우리는 업데이트 하기 전 **항상** 백업을 우선시 해야합니다. 그래야 업데이트 설정을 망쳐도 다시 시작 할 수 있으니까요!
 :::
 
-**Step 1**
-> 업데이트 할 버전을 [다운로드](https://builtbybit.com/resources/unlimited-adventures.27917/) 합니다.
+<Tabs>
+  <TabItem value="2.6.1" label="2.6.1 업데이트">
 
-**Step 2**
-> 만일을 위해 서버 파일을 다른 곳에 백업해 두세요.
+#### Step 1
+:red_circle: 서버를 끕니다.
 
-**Step 3**
-> `Update Files` 폴더를 찾으세요.\
-> 업데이트 파일을 복사하여 현재 서버 폴더에 붙여넣습니다.
+#### Step 2
+다음 폴더를 제거하세요:
+- `spawn`
+- `plugins/CommandPanels/panels`
 
-**Step 4**
-> '파일 바꾸기'를 선택하면... 짜잔!
-> 이제 업데이트된 새 파일이 이전 파일을 자동으로 대체습니다.
+#### Step 3
+다음 파일을 제거하세요:
+- `plugins/worldedit.jar`
+- `plugins/AureliumSkills.jar` 
+- `plugins/Skript/scripts/rtp.sk`
 
-:white_check_mark: Unlimited Adventures의 최신 버전을 즐길 수 있습니다!
+#### Step 4
+[Paper 1.20.4](https://api.papermc.io/v2/projects/paper/versions/1.20.4/builds/485/downloads/paper-1.20.4-485.jar)를 다운로드하세요.
+
+#### Step 5
+[Citizens](https://ci.citizensnpcs.co/job/citizens2/3373/artifact/dist/target/Citizens-2.0.33-b3373.jar)를 업데이트하세요.
+
+#### Step 6
+`Update Files`의 모든 내용을 서버의 메인 폴더에 복사하세요.(대상 폴더에서 "대상 파일을 변경"을 클릭하세요)
+
+  </TabItem>
+    <TabItem value="Other versions" label="다른 버전">
+
+#### Step 1
+:red_circle: 서버를 끕니다.
+
+#### Step 2
+`Update Files/` 폴더의 모든 내용을 주 서버 폴더로 복사합니다.\
+("대상 폴더의 파일 덮어쓰기"을 클릭합니다)
+
+  </TabItem>
+</Tabs>
+
+:white_check_mark: 끝! Unlimited Adventures의 최신 버전을 즐길 수 있습니다!
