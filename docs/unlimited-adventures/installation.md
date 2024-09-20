@@ -1,5 +1,5 @@
 ---
-sidebar_position: 1
+sidebar_position: 2
 title: '서버팩 설치'
 ---
 import video from './assets/installguide.mp4';
