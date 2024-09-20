@@ -75,7 +75,7 @@ const config = {
           src: 'img/logo.jpg',
         },
         items: [
-          {to: 'blog', label: '블로그', position: 'left'},
+          {to: 'blog', label: 'Blog', position: 'left'},
           {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
