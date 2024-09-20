@@ -1,5 +1,5 @@
 ---
-sidebar_position: 6
+sidebar_position: 8
 title: '기본 설정법'
 ---
 
@@ -26,11 +26,5 @@ title: '기본 설정법'
 미리 생성하기 위해 [Chunky](https://dev.bukkit.org/projects/chunky-pregenerator/files)와 같은 플러그인을 사용할 수 있습니다.\
 월드를 미리 생성하면 서버 성능이 향상될 수 있습니다.\
 저희가 추천하는 월드 사이즈는 5,000 x 5,000 또는 10,000 x 10,000 입니다.
-
-### Homes
-
-`/sethome` 과 `/home` 명령어는 몰입도를 높이기 위해 비활성화되었습니다. 대신, 플레이어가 홈으로 빠르게 돌아가려면 집 이동 스크롤(Home Teleportation Scrolls)을 제작해야 합니다.
-
-
 
 
