@@ -4,7 +4,7 @@ title: 'Oraxen'
 ---
 
 import ReactPlayer from 'react-player'
-import guide from './assets/Oraxen.mp4';
+import video from './assets/Oraxen.mp4';
 
 # Unlimited Adventures 리소스팩을 Oraxen 에 적용 시키는 방법
 
