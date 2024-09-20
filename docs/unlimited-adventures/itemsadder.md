@@ -3,7 +3,6 @@ sidebar_position: 5
 title: 'Items Adder'
 ---
 
-import ReactPlayer from 'react-player'
 import video from './assets/ItemsAdder.mp4';
 
 # Unlimited Adventures 리소스팩을 ItemsAdder 에 적용시키는 법
@@ -40,7 +39,8 @@ ItemsAdder 를 처음 사용하신다면, [ItemsAdder 설치 가이드](https://
 :::
 
 
-<ReactPlayer playing controls url={video} />
+<video src={video} controls width="384" height="216">
+</video>
 
 
 
