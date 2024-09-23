@@ -10,3 +10,6 @@ gman:
   name: 지맨(번역)
   title: White Drop 소속, Ender Nerds 한국어 번역팀
   image_url: https://cdn.discordapp.com/attachments/1287089333077020695/1287556771417952276/Group_6.png?ex=66f1fa2f&is=66f0a8af&hm=efb166bc42ecfe986223de3047cb0a4234986ec97fd95ee5f460460a3d2c0dc9&
+ai:
+  name: AI로 임시 번역됨
+  title: 해당 개시글은 AI로 임시 번역된 상태이며, 곧 완성된 번역이 제공됩니다.
