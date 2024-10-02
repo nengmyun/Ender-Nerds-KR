@@ -88,7 +88,7 @@ const config = {
             label: '디스코드',
             href: 'https://discord.gg/wdBFC7Hc6X'
           },
-          {href: 'https://endernerds.netlify.app/docs/category/unlimited-adventures', label: 'English', position: 'right'}
+          {href: 'https://www.endernerds.com/docs/category/unlimited-adventures', label: 'English', position: 'right'}
         ],
       },
       footer: {
