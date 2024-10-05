@@ -55,7 +55,7 @@ import TabItem from '@theme/TabItem';
 #### Step 5
 ⬇️ 다음 플러그인들을 업데이트 하세요:
 - [TAB](https://github.com/NEZNAMY/TAB/releases/download/4.1.8/TAB.v4.1.8.jar) 업데이트.
-- [Citizens](https://ci.citizensnpcs.co/job/citizens2/lastSuccessfulBuild/artifact/dist/target/Citizens-2.0.35-b3580.jar) 업데이트.
+- [Citizens](https://ci.citizensnpcs.co/job/Citizens2/3580/artifact/dist/target/Citizens-2.0.35-b3580.jar) 업데이트.
 - [Model Engine](https://mythiccraft.io/index.php?pages/official-modelengine4-download/&download=free&f=4.0.7) 업데이트.
 - [Mythic Mobs](https://www.mythiccraft.io/downloads/mythicmobs/free/MythicMobs-5.7.2.jar) 업데이트.
 
