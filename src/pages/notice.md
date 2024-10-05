@@ -8,7 +8,7 @@ import TabItem from '@theme/TabItem';
 
 <Tabs className="unique-tabs">
   <TabItem value="ua" label="언리미티드 어드벤처 공지사항">
-::::danger[[ 최신버전 ] v. 2.8 - 주요 업데이트]
+::::tip[[ 최신버전 ] v. 2.8 - 주요 업데이트]
 :::warning[긴급 공지]
 서버팩을 설치 하신 후 `plugins/AuraSkills/config.yml`에 들어가신 후 `try_detect_client_language:` 의 값을 false로 바꿔주세요.
 :::
@@ -138,7 +138,7 @@ Ender Nerds 팀 올림.
 </TabItem>
 
   <TabItem value="web" label="웹 사이트 공지사항">
-:::danger[[ 가장 최신 ] Blog 변역 완료, 문서 내용 업데이트]
+:::tip[[ 가장 최신 ] Blog 변역 완료, 문서 내용 업데이트]
 - Blog의 번역을 전부 완료하였습니다!
 - Unlimited Adventures의 문서 속 몇몇 내용을 최신 내용으로 업데이트 하였습니다.
 :::
@@ -173,7 +173,7 @@ Ender Nerds 팀 올림.
 </TabItem>
 
   <TabItem value="etc" label="커뮤니티 공지사항">
-:::danger[[ 가장 최신 ] Unlimited Adventures 한글화 중단]
+:::tip[[ 가장 최신 ] Unlimited Adventures 한글화 중단]
 - 한글화에 있어 지금 인력만으로는 어려움이 크다고 판단, Unlimited Adventures 의 한글화를 중단하고 외부적인 서비스(문서 페이지 등)에 집중할 예정입니다.
 - 중단된 한글화는 인력이 보충된다면, 1순위로 진행하겠습니다.
 :::
