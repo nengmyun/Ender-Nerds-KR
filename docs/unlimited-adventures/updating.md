@@ -24,18 +24,61 @@ import TabItem from '@theme/TabItem';
 :::
 
 <Tabs>
+  <TabItem value="2.8" label="2.8 업데이트">
+
+#### Step 1
+:red_circle: 서버를 끕니다.
+
+#### Step 2
+❌ 다음 폴더를 제거하세요:
+- `unlimited_adventures/CustomItems/`
+- `unlimited_adventures/Ambients/`
+
+#### Step 3
+❌ 다음 플러그인을 제거하세요:
+- `ChatManager`
+- `NexEngine`
+- `ExcellentEnchants` 
+- `Chunky`
+- `World Edit`
+- `World Guard`
+- `FastAsyncWorldEdit`
+
+#### Step 4
+❌ 다음 스크립트를 제거하세요:
+- `plugins/Skript/scripts/chat_manager.sk`
+- `plugins/Skript/scripts/ambients.sk`
+
+#### Step 5
+⬇️ [Paper 1.21](https://api.papermc.io/v2/projects/paper/versions/1.21/builds/130/downloads/paper-1.21-130.jar)을 다운로드하세요.
+
+#### Step 5
+⬇️ 다음 플러그인들을 업데이트 하세요:
+- [TAB](https://github.com/NEZNAMY/TAB/releases/download/4.1.8/TAB.v4.1.8.jar) 업데이트.
+- [Citizens](https://ci.citizensnpcs.co/job/citizens2/lastSuccessfulBuild/artifact/dist/target/Citizens-2.0.35-b3580.jar) 업데이트.
+- [Model Engine](https://mythiccraft.io/index.php?pages/official-modelengine4-download/&download=free&f=4.0.7) 업데이트.
+- [Mythic Mobs](https://www.mythiccraft.io/downloads/mythicmobs/free/MythicMobs-5.7.2.jar) 업데이트.
+
+
+#### Step 6
+`Update Files` 폴더의 모든 내용을 주 서버 폴더로 복사합니다.\
+("대상 폴더의 파일 덮어쓰기"을 클릭합니다)
+
+
+
+  </TabItem>
   <TabItem value="2.6.1" label="2.6.1 업데이트">
 
 #### Step 1
 :red_circle: 서버를 끕니다.
 
 #### Step 2
-다음 폴더를 제거하세요:
+❌ 다음 폴더를 제거하세요:
 - `spawn`
 - `plugins/CommandPanels/panels`
 
 #### Step 3
-다음 파일을 제거하세요:
+❌ 다음 파일을 제거하세요:
 - `plugins/worldedit.jar`
 - `plugins/AureliumSkills.jar` 
 - `plugins/Skript/scripts/rtp.sk`
@@ -47,7 +90,8 @@ import TabItem from '@theme/TabItem';
 [Citizens](https://ci.citizensnpcs.co/job/citizens2/3373/artifact/dist/target/Citizens-2.0.33-b3373.jar)를 업데이트하세요.
 
 #### Step 6
-`Update Files`의 모든 내용을 서버의 메인 폴더에 복사하세요.("대상 폴더의 파일 덮어쓰기"을 클릭합니다)
+`Update Files` 폴더의 모든 내용을 주 서버 폴더로 복사합니다.\
+("대상 폴더의 파일 덮어쓰기"을 클릭합니다)
 
   </TabItem>
     <TabItem value="Other versions" label="다른 버전">
@@ -56,7 +100,7 @@ import TabItem from '@theme/TabItem';
 :red_circle: 서버를 끕니다.
 
 #### Step 2
-`Update Files/` 폴더의 모든 내용을 주 서버 폴더로 복사합니다.\
+`Update Files` 폴더의 모든 내용을 주 서버 폴더로 복사합니다.\
 ("대상 폴더의 파일 덮어쓰기"을 클릭합니다)
 
   </TabItem>
