@@ -16,7 +16,7 @@ Why does a well-made, polished server, clearly better than the unoriginal popula
 
 If that ever happened to you, if you have ever released a server and it turned out to have no players - congratulations. You have released a server. You've made the most important step. But we need to finish the job, shall we?
 
-## 💡 Before advertising, ensure your idea is origina
+## 💡 Before advertising, ensure your idea is original
 
 The biggest problem new minecraft servers encounter is the lack of an original idea. I'm sorry to say that, but no one cares about another survival or skyblock server that's basically time-warped 2014 server with modern plugins.
 
