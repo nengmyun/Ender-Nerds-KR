@@ -33,7 +33,7 @@ Creating a copy-cat, indistinguishable server idea and trying to advertise it is
 ## 📢 Effective marketing channels
 Okay, but where do I advertise my server, you ask. According to data, the cheapest and most effective marketing channel is social media. That means: YouTube, Instagram, TikTok, Facebook, Twitter, Discord or whatever you're using at the time of reading this post.
 
-## ⭐ Effective advertising on TikTok
+### ⭐ Effective advertising on TikTok
 TikTok allows you to reach hundreds of thousands of Minecraft players with the least effort possible. Follow trends, create relatable, fun and short videos to success. Focus on creating great content, be consistent, over time you will learn what's trending on TikTok.\
 [One of many TikTok guides you can find on the web](https://www.descript.com/blog/article/how-to-get-more-views-on-tiktok)
 
@@ -43,10 +43,10 @@ TikTok allows you to reach hundreds of thousands of Minecraft players with the l
 - **Make your videos interesting and relevant**. TikTok is not the place for mindless videos! Put the effort to make the video actually interesting and fun to watch.
 - **Make sure your videos end in a satisfying way**. Either give an answer to a question asked in the beginning of the video or give your viewers a satisfying conclusion to the story.
 
-## ⭐ YouTube Shorts
+### ⭐ YouTube Shorts
 YouTube Shorts work similar to TikTok. Create fun and engaging content and viewers will appreciate it!
 
-## ⭐ Press
+### ⭐ Press
 There is a lot of editors eager to write about an upcoming fresh Minecraft server. You just need to reach out to them. Extra points if your idea is actually original. Do you think someone would like to write about a yet another copy-cat survival server? No! Aim for press coverage, create original server!
 
 Ensure your idea is original and remember, to get press coverage, you only need to convince one person that your server is great and that is, the editor!
