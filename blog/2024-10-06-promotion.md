@@ -1,7 +1,7 @@
 ---
 slug: promotion
 title: 서버를 어떻게 홍보하나요?
-authors: [simon, mujin]
+authors: [simon, ai]
 ---
 
 :::tip[AI로 번역됨]
