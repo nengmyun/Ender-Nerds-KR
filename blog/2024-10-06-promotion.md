@@ -22,7 +22,7 @@ The biggest problem new minecraft servers encounter is the lack of an original i
 
 Creating a copy-cat, indistinguishable server idea and trying to advertise it is like putting crutches on your legs and trying to win a race. Painful and non-sense, yet so many creators are doing it to themselves.
 
-## How to make your server unique?
+### How to make your server unique?
 
 ✅ Absolutely ensure your server idea is original in it's very core. The best case scenario is when you come up with a completely new type of server. Non-existent or under-utilized server ideas are: racing sims, dungeon crawlers, RTS, board games, dungeons & dragons, music-based gameplay, roleplay based gameplay and many MANY more.
 
