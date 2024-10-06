@@ -1,76 +1,91 @@
 ---
 slug: promotion
-title: How to promote your server?
-authors: [simon]
+title: 서버를 어떻게 홍보하나요?
+authors: [simon, ai]
 ---
 
-Advertising your Minecraft server is easily the most mandatory thing server owners should learn, but at the same time it gets the least coverage in Minecraft guides and videos. Until now.
+:::note[참고]
+해당 기사는 AI로 임시 번역된 상태입니다.
+곧 직접 번역된 버전을 제공하겠습니다.
+
+담당 : 김시체 배정됨
+:::
+
+Minecraft 서버를 광고하는 것은 서버 운영자가 반드시 배워야 할 가장 필수적인 요소 중 하나이지만, 동시에 Minecraft 가이드와 영상에서 가장 적게 다뤄지는 부분이기도 합니다. 하지만 이제 그렇지 않습니다.
 
 <!-- truncate -->
 
-## ⛔ The big fail
 
-You create your own server, configure all plugins perfectly, prepare fun gameplay, you work hard to polish everything, finally you set a public release date and announce it on your Discord. The day comes and... no one joins. Wait. But why?
+## ⛔ 큰 실
 
-Why does a well-made, polished server, clearly better than the unoriginal popular servers, get so little players? It's very common to believe your server is way better than the competition, it might be true, it might be false. But that doesn't matter, because no matter how good your server is, it's meaningless until players are able to discover and experience it.
+서버를 직접 만들고, 모든 플러그인을 완벽하게 설정하고, 재미있는 게임플레이를 준비하고, 열심히 서버를 다듬습니다. 마침내 공개 출시 날짜를 정하고 디스코드에 발표합니다. 드디어 그날이 왔지만... 아무도 접속하지 않습니다. 잠깐, 왜 그럴까요?
 
-If that ever happened to you, if you have ever released a server and it turned out to have no players - congratulations. You have released a server. You've made the most important step. But we need to finish the job, shall we?
+잘 만들어진, 다듬어진 서버가, 명백히 평범한 인기 서버들보다 더 좋은데도 왜 이렇게 플레이어가 적은 걸까요? 대부분 자신의 서버가 경쟁 서버보다 더 낫다고 믿는 경우가 많습니다. 그게 사실일 수도, 아닐 수도 있죠. 하지만 그건 중요하지 않아요. 당신의 서버가 얼마나 훌륭하든, 플레이어들이 그 서버를 발견하고 경험할 수 없으면 무의미합니다.
 
-## 💡 Before advertising, ensure your idea is original
+만약 당신이 서버를 출시했는데 플레이어가 없었다면 - 축하합니다. 서버를 출시했으니 가장 중요한 첫 단계를 밟은 겁니다. 하지만 이제 일을 마무리해야겠죠?
 
-The biggest problem new minecraft servers encounter is the lack of an original idea. I'm sorry to say that, but no one cares about another survival or skyblock server that's basically time-warped 2014 server with modern plugins.
 
-Creating a copy-cat, indistinguishable server idea and trying to advertise it is like putting crutches on your legs and trying to win a race. Painful and non-sense, yet so many creators are doing it to themselves.
+## :bulb: 광고 전에, 당신의 아이디어가 독창적인지 확인하세요
 
-### How to make your server unique?
+새로운 마인크래프트 서버가 직면하는 가장 큰 문제는 독창적인 아이디어가 부족하다는 것입니다. 죄송하지만, 또 다른 생존 서버나 스카이블록 서버를 만드는 것에 아무도 신경 쓰지 않습니다. 그건 마치 2014년 서버를 현대적인 플러그인으로 되감기한 것과 다를 바 없죠.
 
-✅ Absolutely ensure your server idea is original in it's very core. The best case scenario is when you come up with a completely new type of server. Non-existent or under-utilized server ideas are: racing sims, dungeon crawlers, RTS, board games, dungeons & dragons, music-based gameplay, roleplay based gameplay and many MANY more.
+복사판처럼 보이는 서버를 만들어 광고하려는 것은 경주에서 목발을 착용하고 이기려는 것과 같습니다. 고통스럽고 무의미하지만, 여전히 많은 서버 제작자들이 그렇게 하고 있습니다.
 
-✅ If you can't do that, ensure everything around of your core idea is original. Okay, you can have a survival, but make sure it's accompanied with fresh mechanics, such as completely redesigned player progression (I'm not talking about battle pass here!), magic, new mobs, new dimensions, you name it!
+### 서버를 독창적으로 만드는 방법
+✅ 서버 아이디어 자체가 독창적인지 철저하게 확인하세요. 가장 이상적인 상황은 완전히 새로운 유형의 서버를 고안하는 것입니다. 존재하지 않거나 잘 사용되지 않는 서버 아이디어에는 레이싱 시뮬레이터, 던전 크롤러, RTS, 보드 게임, 던전 앤 드래곤, 음악 기반 게임플레이, 롤플레이 기반 게임플레이 등 여러 가지가 있습니다.
 
-❌ If you plan to ignore both tips, then good luck, you are now marketing against the largest, least original servers that already have the spotlight, have the budget and have the youtubers and loyal players. Good luck competing with that with no budget and no advantage at all. **BECOME ORIGINAL RIGHT NOW**.
+✅ 그렇지 못할 경우, 핵심 아이디어 외의 모든 것이 독창적인지 확인하세요. 생존 서버를 만들 수는 있지만, 완전히 새롭게 디자인된 플레이어 진행 시스템(배틀 패스가 아닌)을 포함하거나, 마법, 새로운 몹, 새로운 차원 등의 신선한 메커니즘을 추가해야 합니다.
 
-## 📢 Effective marketing channels
-Okay, but where do I advertise my server, you ask. According to data, the cheapest and most effective marketing channel is social media. That means: YouTube, Instagram, TikTok, Facebook, Twitter, Discord or whatever you're using at the time of reading this post.
+❌ 위 두 가지 팁을 무시할 계획이라면, 이제 막대한 예산과 충성스러운 플레이어를 보유한, 비슷한 서버와 경쟁해야 합니다. **지금 바로 독창적이 되세요**.
 
-### ⭐ Effective advertising on TikTok
-TikTok allows you to reach hundreds of thousands of Minecraft players with the least effort possible. Follow trends, create relatable, fun and short videos to success. Focus on creating great content, be consistent, over time you will learn what's trending on TikTok.\
-[One of many TikTok guides you can find on the web](https://www.descript.com/blog/article/how-to-get-more-views-on-tiktok)
+## 📢 효과적인 마케팅 채널
 
-#### What matters on TikTok?
-- **Make your videos short**. Long videos just won't work on TikTok.
-- **Make your videos easy to watch till the end**! The 'watch through rate' is the most important metric TikTok uses to tell if your video is interesting and worth promoting to other users!
-- **Make your videos interesting and relevant**. TikTok is not the place for mindless videos! Put the effort to make the video actually interesting and fun to watch.
-- **Make sure your videos end in a satisfying way**. Either give an answer to a question asked in the beginning of the video or give your viewers a satisfying conclusion to the story.
+그렇다면 어디에서 서버를 광고해야 할까요? 데이터에 따르면 가장 저렴하고 효과적인 마케팅 채널은 **소셜 미디어**입니다. 즉, 유튜브, 인스타그램, 틱톡, 페이스북, 트위터, 디스코드 등이 여기에 해당됩니다.
 
-### ⭐ YouTube Shorts
-YouTube Shorts work similar to TikTok. Create fun and engaging content and viewers will appreciate it!
+### ⭐ 틱톡에서의 효과적인 광고
 
-### ⭐ Press
-There is a lot of editors eager to write about an upcoming fresh Minecraft server. You just need to reach out to them. Extra points if your idea is actually original. Do you think someone would like to write about a yet another copy-cat survival server? No! Aim for press coverage, create original server!
+틱톡을 통해 최소한의 노력으로 수십만 명의 마인크래프트 플레이어에게 도달할 수 있습니다. 트렌드를 따라가고, 짧고 재미있는 영상을 만들어 성공을 이뤄보세요. 훌륭한 콘텐츠를 만들고 일관성을 유지하며, 틱톡에서 무엇이 유행하는지 시간이 지나면 배울 수 있습니다.\
+[틱톡 뷰 수를 늘리는 여러 가이드 중 하나](https://www.descript.com/blog/article/how-to-get-more-views-on-tiktok)
 
-Ensure your idea is original and remember, to get press coverage, you only need to convince one person that your server is great and that is, the editor!
+#### 틱톡에서 중요한 것
+- **영상을 짧게 만드세요**. 긴 영상은 틱톡에서 통하지 않습니다.
+- **끝까지 시청할 수 있게 만드세요**! '끝까지 시청률'은 틱톡이 영상을 다른 사용자에게 홍보할 가치가 있는지 판단하는 가장 중요한 지표입니다!
+- **영상을 재미있고 관련성 있게 만드세요**. 틱톡은 무의미한 영상을 올리는 곳이 아닙니다! 영상을 정말로 재미있고 시청할 만하게 만들기 위해 노력하세요.
+- **영상을 만족스럽게 마무리하세요**. 영상의 처음에 던진 질문에 대한 답을 제공하거나, 시청자에게 만족스러운 결말을 제공하세요.
 
-- Write a fantastic description of your idea and really sell it to the editor.
-- Give him a lot of details, interesting facts, screenshots and videos.
-- Promise exclusivity.
-- Offer an interview.
+### ⭐ 유튜브 쇼츠
 
-## 💵 Should you pay for advertising?
-It depends on your budget and on your goals. If your budget is too small, you simply won't find a professional who will be able to create an effective ad. If you have the budget, you have to be smart about it. In short, if you're asking this question, then you might not yet be experienced enough to purchase effective advertising.
+유튜브 쇼츠는 틱톡과 유사하게 작동합니다. 재미있고 흥미로운 콘텐츠를 만들어 시청자들에게 사랑받으세요!
 
-## 🕒 Practice matters
-Please don't expect results overnight. Learning to promote your server takes time, just like polishing it and making the gameplay perfect does. You have to invest first and only then you will be able to harvest the fruits.
+### ⭐ 언론
 
-✅ Make sure to consistently practice your skills.
-- Record TikToks regularly.
-- Post YouTube Shorts.
-- Experiment with Instagram, Discord and your favourite social media.
-- Be on a lookout for new gaming and Minecraft editors who could be interested with your server.
+새롭고 신선한 마인크래프트 서버에 대해 글을 쓰고 싶어하는 편집자들이 많이 있습니다. 그들에게 다가가기만 하면 됩니다. 특히 서버 아이디어가 독창적이라면 더더욱 유리하죠. 또 하나의 복사판 생존 서버에 대해 기사를 쓸까요? 절대 아닙니다! 언론 보도를 목표로, 독창적인 서버를 만드세요!
 
-## 📖 Additional sources
-Here's a few books that are worth reading if you are serious about improving your marketing knowledge and skills. Read them to get an advantage. I've personally read them all and I can recommend them. They're really great.
+아이디어가 독창적인지 확인하고, 언론 보도를 받으려면 편집자 한 명만 당신의 서버가 훌륭하다고 생각하게 만들면 됩니다.
+- 아이디어에 대한 환상적인 설명을 작성하고 편집자를 설득하세요.
+- 많은 세부 정보, 흥미로운 사실, 스크린샷 및 비디오를 제공하세요.
+- 독점성을 약속하세요.
+- 인터뷰를 제안하세요.
 
-- The 22 Immutable Laws Of Marketing - Al Ries
-- Jab, Jab, Jab, Right Hook - Gary Vaynerchuk
-- Blue Ocean Strategy - W. Chan Kim and Renée Mauborgne
+
+## 💵 광고에 돈을 써야 할까요?
+
+예산과 목표에 따라 다릅니다. 예산이 너무 적으면 효과적인 광고를 만들 수 있는 전문가를 찾기 어려울 것입니다. 예산이 충분하다면, 현명하게 사용하는 것이 중요합니다. 간단히 말해, 이 질문을 하고 있다면 아직 효과적인 광고를 구매할 경험이 충분하지 않을 수 있습니다.
+
+## 🕒 연습이 중요합니다
+
+즉각적인 결과를 기대하지 마세요. 서버를 홍보하는 법을 배우는 데에도 시간이 필요하며, 게임플레이를 다듬고 완벽하게 만드는 것과 마찬가지로 시간과 노력이 필요합니다. 먼저 투자해야 나중에 결실을 맺을 수 있습니다.
+
+✅ 꾸준히 실력을 연습하세요.
+- 정기적으로 틱톡 영상을 녹화하세요.
+- 유튜브 쇼츠에 영상을 게시하세요.
+- 인스타그램, 디스코드 등 좋아하는 소셜 미디어에서 실험해보세요.
+- 당신의 서버에 관심을 가질 만한 새로운 게임 및 마인크래프트 편집자를 계속 찾아보세요.
+
+## 📖 추가 자료
+
+마케팅 지식과 기술을 향상시키고 싶다면 읽어볼 만한 몇 권의 책을 소개합니다. 이 책들은 정말 도움이 되니, 읽어보시길 추천드립니다. 모두 읽었고, 정말 좋았습니다.
+
+- 《마케팅 불변의 법칙》 - 알 리스, 잭 트라우트 지음(이수정 옮김)
+- 《잽, 잽, 잽, 라이트훅》 - 게리 바이너척 지음(박선령 옮김)
+- 《블루 오션 전략》 - 김위찬, 르네 마보안 지음(김현정, 이수경 옮김)
