@@ -10,7 +10,8 @@ import TabItem from '@theme/TabItem';
   <TabItem value="ua" label="언리미티드 어드벤처 공지사항">
 ::::tip[[ 최신버전 ] v. 2.8 - 주요 업데이트]
 :::warning[긴급 공지]
-서버팩을 설치 하신 후 `plugins/AuraSkills/config.yml`에 들어가신 후 `try_detect_client_language:` 의 값을 false로 바꿔주세요.
+- 서버팩을 설치 하신 후 `plugins/AuraSkills/config.yml`에 들어가신 후 `try_detect_client_language:` 의 값을 false로 바꿔주세요.
+- 월드는 초기화 하지 않아도 되지만, 신규 청크가 생성되는 과정에서 지형에 버그가 날 수 있습니다.(파일이 깨지거나 서버에 이상이 가진 않습니다.)
 :::
 # # 언리미티드 어드벤처 / 2.8 - 신규 바이옴 업데이트
 
@@ -54,6 +55,15 @@ import TabItem from '@theme/TabItem';
 * Forge 시스템을 더욱 강력하게 만들고 오류 발생 가능성을 줄였습니다.
 * 앉는 자세 개선
 * 기타 변경 사항 및 버그 수정
+
+:::info[업데이트 버전 호환]
+해당 업데이트는 2.7.2 버전에서 업데이트 가능합니다.
+:::
+:::tip[구매 / 다운로드 하기]
+[BuiltByBit](https://builtbybit.com/resources/unlimited-adventures-survival-setup.27917/)
+:::
+
+- 업로드 : 2024년 10월 5일
 ::::
 
 
