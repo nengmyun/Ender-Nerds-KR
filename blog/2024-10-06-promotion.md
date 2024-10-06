@@ -37,7 +37,7 @@ Okay, but where do I advertise my server, you ask. According to data, the cheape
 TikTok allows you to reach hundreds of thousands of Minecraft players with the least effort possible. Follow trends, create relatable, fun and short videos to success. Focus on creating great content, be consistent, over time you will learn what's trending on TikTok.\
 [One of many TikTok guides you can find on the web](https://www.descript.com/blog/article/how-to-get-more-views-on-tiktok)
 
-### What matters on TikTok?
+#### What matters on TikTok?
 - **Make your videos short**. Long videos just won't work on TikTok.
 - **Make your videos easy to watch till the end**! The 'watch through rate' is the most important metric TikTok uses to tell if your video is interesting and worth promoting to other users!
 - **Make your videos interesting and relevant**. TikTok is not the place for mindless videos! Put the effort to make the video actually interesting and fun to watch.
