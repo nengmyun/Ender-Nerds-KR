@@ -8,12 +8,32 @@ import TabItem from '@theme/TabItem';
 
 <Tabs className="unique-tabs">
   <TabItem value="ua" label="언리미티드 어드벤처 공지사항">
-::::tip[[ 최신버전 ] v. 2.8 - 주요 업데이트]
+::::tip[[ 최신버전 ] v. 2.8.1 - 마이너 업데이트]
+:::warning[긴급 공지]
+- 서버팩을 설치 하신 후 `plugins/AuraSkills/config.yml`에 들어가신 후 `try_detect_client_language:` 의 값을 false로 바꿔주세요.
+:::
+# # 언리미티드 어드벤처 / 2.8.1
+
+- 스폰 이름이 Adventurer’s Town 으로 변경되었습니다.
+- 서버 메뉴 책이 이제 Adventurer’s Journal로 이름이 변경되었습니다.
+- 양식화된 서버 참여 및 퇴장 메시지가 추가되었습니다.(플레이어가 모험에 참여했습니다!)
+- ExcellentEnchants의 버그가 수정되었습니다.
+
+:::info[업데이트 버전 호환]
+해당 업데이트는 2.8 버전에서 업데이트 가능합니다.
+:::
+:::tip[구매 / 다운로드 하기]
+[BuiltByBit](https://builtbybit.com/resources/unlimited-adventures-survival-setup.27917/)
+:::
+
+- 업로드 : 2024년 10월 8일
+::::
+::::note[v. 2.8 - 주요 업데이트]
 :::warning[긴급 공지]
 - 서버팩을 설치 하신 후 `plugins/AuraSkills/config.yml`에 들어가신 후 `try_detect_client_language:` 의 값을 false로 바꿔주세요.
 - 월드는 초기화 하지 않아도 되지만, 신규 청크가 생성되는 과정에서 지형에 버그가 날 수 있습니다.(파일이 깨지거나 서버에 이상이 가진 않습니다.)
 :::
-# # 언리미티드 어드벤처 / 2.8 - 신규 바이옴 업데이트
+# # 언리미티드 어드벤처 / 2.8 - 여정 업데이트
 
 ## 🌳 바이옴 및 구조물
 * 주변 환경을 완벽하게 지원하는 수 많은 새로운 바이옴
