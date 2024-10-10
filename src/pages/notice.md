@@ -12,7 +12,7 @@ import TabItem from '@theme/TabItem';
 :::warning[긴급 공지]
 - 서버팩을 설치 하신 후 `plugins/AuraSkills/config.yml`에 들어가신 후 `try_detect_client_language:` 의 값을 false로 바꿔주세요.
 :::
-# # 언리미티드 어드벤처 / 2.8.1
+# # 언리미티드 어드벤처 / 2.8.1 - 여정 업데이트 패치
 
 - 스폰 이름이 Adventurer’s Town 으로 변경되었습니다.
 - 서버 메뉴 책이 이제 Adventurer’s Journal로 이름이 변경되었습니다.
