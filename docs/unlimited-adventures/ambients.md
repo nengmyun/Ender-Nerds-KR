@@ -12,17 +12,17 @@ title: '환경음'
 환경음을 위한 구성 설정이 제공됩니다.
 현재 플레이어에게 재생할 환경음을 결정하는 요소:
 
-- Biome <- 바이옴
-- Levels (지상으로부터의 - Y 좌표) <- 고도
-- Time of the day <- 시간대
-- Weather <- 날씨
+- Biome (바이옴)
+- Levels (지상으로부터의 - Y 좌표) (고도)
+- Time of the day (시간대)
+- Weather (날씨)
 
 다른 조정 가능 요소:
 
-- Volume, <- 볼륨
-- Delay, <- 딜레이
-- Amplitude of delay (랜덤 딜레이),
-- Sound overlapping (다른 소리가 재생중일 때 소리가 재생되지 않도록 설정),
+- Volume, (볼륨)
+- Delay, (딜레이)
+- Amplitude of delay (랜덤 딜레이), (진폭 딜레이)
+- Sound overlapping (다른 소리가 재생중일 때 소리가 재생되지 않도록 설정), (사운드 )
 
 **소리 설정에 대한 예시**
 
