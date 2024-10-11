@@ -22,7 +22,7 @@ title: '환경음'
 - Volume, (볼륨)
 - Delay, (딜레이)
 - Amplitude of delay (랜덤 딜레이), (진폭 딜레이)
-- Sound overlapping (다른 소리가 재생중일 때 소리가 재생되지 않도록 설정), (사운드 )
+- Sound overlapping (다른 소리가 재생중일 때 소리가 재생되지 않도록 설정), (사운드 오버랩)
 
 **소리 설정에 대한 예시**
 
