@@ -8,7 +8,19 @@ import TabItem from '@theme/TabItem';
 
 <Tabs className="unique-tabs">
   <TabItem value="ua" label="언리미티드 어드벤처 공지사항">
-::::tip[[ 최신버전 ] v. 2.8.1 - 마이너 업데이트]
+::::tip[[ 최신버전 ] v. 2.8.2 - 마이너 업데이트]
+:::warning[긴급 공지]
+- 서버팩을 설치 하신 후 `plugins/AuraSkills/config.yml`에 들어가신 후 `try_detect_client_language:` 의 값을 false로 바꿔주세요.
+:::
+# # 언리미티드 어드벤처 / 2.8.2 - 여정 업데이트 패치 #2
+## 변경점:
+- 모두가 듣던 채팅 팝업 사운드 수정 (미쳤다!)
+- 남은 디버그 메시지 수정
+- 허리에 찬 도구가 표시되지 않던 문제 수정
+- 일부 바이옴에 주변 환경이 없는 문제 수정
+::::
+
+::::note[v. 2.8.1 - 마이너 업데이트]
 :::warning[긴급 공지]
 - 서버팩을 설치 하신 후 `plugins/AuraSkills/config.yml`에 들어가신 후 `try_detect_client_language:` 의 값을 false로 바꿔주세요.
 :::
