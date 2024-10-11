@@ -1,11 +1,9 @@
 ---
-sidebar_position: 13
+sidebar_position: 14
 title: '후원상점'
 ---
-
 import tebex1 from './assets/tebex_premium_currency_1.png';
 import tebex2 from './assets/tebex_premium_currency_2.png';
-
 
 # :moneybag: 후원 상점 설정
 
@@ -30,31 +28,28 @@ import tebex2 from './assets/tebex_premium_currency_2.png';
 
 4. 'Create' 를 클릭하세요. 짜잔, 다 끝났습니다!
 
-
-
-
 ### 보너스: 후원 제화 패키지 가격대 추천
 
 저희가 추천하는 후원 제화 패키지 가격입니다.
 :::tip[팁]한국버전 문서에선 한국 통화(KRW)로 표시됩니다. 원화(USD)로 확인하고 싶으시면 원본 문서를 참고하세요.:::
-| 젬 수량 | 가격 |
-| - | - |
+
+
+| 젬 수량 | 가격      |
+| ------- | --------- |
 | 1000 젬 | 10,000 ₩ |
 | 2500 젬 | 25,000 ₩ |
 | 6000 젬 | 60,000 ₩ |
 
 가격은 사용자의 상황에 맞게 조정할 수 있지만 KRW와 USD의 환율이 높으므로 최대한 동일한 비율을 유지 해야합니다.
 
-
-
 ### :money_with_wings: 다른 사람에게 후원 제화를 추가하는 방법은 무엇인가요?
 
-매ㅐㅐㅐ우 쉽습니다! 다음 명령어를 입력하면 됩니다:\
-```/premiumcurrency [플레이어] add [수량]```\
-아니면 이렇게 간결하게 적어도 됩니다:\
+매ㅐㅐㅐ우 쉽습니다! 다음 명령어를 입력하면 됩니다:
+```/premiumcurrency [플레이어] add [수량]```
+아니면 이렇게 간결하게 적어도 됩니다:
 ```/gems [플레이어] add [수량]```
 
 ### :gem: 후원 제화 Placeholder
 
-사용 가능한 젬 Placeholder: `%valiant_premium_currency%`\
+사용 가능한 젬 Placeholder: `%valiant_premium_currency%`
 플레이어가 보유한 젬의 양을 표시합니다.
