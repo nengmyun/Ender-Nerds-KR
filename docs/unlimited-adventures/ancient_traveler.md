@@ -1,5 +1,5 @@
 ---
-sidebar_position: 1
+sidebar_position: 18
 title: '고대 여행자'
 ---
 # :briefcase: 고대 여행자
