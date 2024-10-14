@@ -4,6 +4,13 @@ title: Why are server lists a waste of time?
 authors: [simon]
 ---
 
+:::danger[주의]
+아직 번역이 진행되지 않았습니다.
+금일 내로 번역본이 업로드될 예정입니다.
+불편을 끼쳐드려 죄송합니다.
+- 2024.10.14, White Drop 올림
+:::
+
 Server lists are commonly used by admins in hopes of helping to gather more players. But they hide a dark truth behind them!
 
 <!-- truncate -->
