@@ -8,7 +8,28 @@ import TabItem from '@theme/TabItem';
 
 <Tabs className="unique-tabs">
   <TabItem value="ua" label="언리미티드 어드벤처 공지사항">
-::::tip[[ 최신버전 ] v. 2.8.2 - 마이너 업데이트]
+
+::::tip[[ 최신버전 ] v. 2.8.3 - 마이너 업데이트]
+:::warning[긴급 공지]
+- 서버팩을 설치 하신 후 `plugins/AuraSkills/config.yml`에 들어가신 후 `try_detect_client_language:` 의 값을 false로 바꿔주세요.
+:::
+# # 언리미티드 어드벤처 / 2.8.3 - 여정 업데이트 패치 #3
+## 변경점:
+- Crates 버그 수정
+- Profile 메뉴에서 플러이어 스킨이 작게 표시되던 버그 수정
+- Adventure apparel 디버그 메시지 삭제
+
+:::info[업데이트 버전 호환]
+해당 업데이트는 2.8, 2.8.1, 2.8.2 버전에서 업데이트 가능합니다.
+:::
+:::tip[구매 / 다운로드 하기]
+[BuiltByBit](https://builtbybit.com/resources/unlimited-adventures-survival-setup.27917/)
+:::
+
+- 업로드 : 2024년 10월 13일
+::::
+
+::::note[v. 2.8.2 - 마이너 업데이트]
 :::warning[긴급 공지]
 - 서버팩을 설치 하신 후 `plugins/AuraSkills/config.yml`에 들어가신 후 `try_detect_client_language:` 의 값을 false로 바꿔주세요.
 :::
@@ -18,6 +39,15 @@ import TabItem from '@theme/TabItem';
 - 남은 디버그 메시지 수정
 - 허리에 찬 도구가 표시되지 않던 문제 수정
 - 일부 바이옴에 주변 환경이 없는 문제 수정
+
+:::info[업데이트 버전 호환]
+해당 업데이트는 2.8, 2.8.1 버전에서 업데이트 가능합니다.
+:::
+:::tip[구매 / 다운로드 하기]
+[BuiltByBit](https://builtbybit.com/resources/unlimited-adventures-survival-setup.27917/)
+:::
+
+- 업로드 : 2024년 10월 12일
 ::::
 
 ::::note[v. 2.8.1 - 마이너 업데이트]
