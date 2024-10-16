@@ -1,7 +1,7 @@
 ---
 slug: server-lists
-title: Why are server lists a waste of time?
-authors: [simon]
+title: 왜 서버 리스트는 시간을 버리는 요소일까요?
+authors: [simon, mujin]
 ---
 
 :::danger[주의]
@@ -11,38 +11,38 @@ authors: [simon]
 - 2024.10.14, White Drop 올림
 :::
 
-Server lists are commonly used by admins in hopes of helping to gather more players. But they hide a dark truth behind them!
+서버 목록은 일반적으로 관리자가 더 많은 플레이어를 모으는 데 사용됩니다. 하지만 그 뒤에는 어두운 진실이 숨겨져 있습니다!
 
 <!-- truncate -->
 
 
-## What is a server list
+## 서버 리스트가 무엇인가요?
 
-Server lists are public listings of Minecraft servers, used to promote your own server. Sounds great, right? Well, not exactly!
+서버 목록은 Minecraft 서버의 공개 목록으로, 자신의 서버를 홍보하는 데 사용됩니다. 좋은 것 같다고요? 얘야, 인생이란 원래 자기 생각대로 되지 않는 법이란다.
 
 
-## ⛔ The common misconception
+## ⛔ 일반적인 오해
 
-The whole problem with server lists is that there are thousands of servers on a list, and to get a higher spot, you need a ton of votes.
-To get a ton of votes, you need a lot of players. Do you see the problem here? Yeah. It only helps servers that are already popular!
+서버 목록의 문제점은 목록에 수천 개의 서버가 있고, 더 높은 자리를 차지하려면 엄청난 추천이 필요하다는 것입니다.
+엄청난 추천을 얻으려면 많은 플레이어가 필요합니다. 여기서 느낌이 오시죠? 맞아요. 이런 시스템은 이미 인기가 있는 서버에만 도움이 됩니다!
 
-If that's not bad enough, server list only shows a limited amount of servers on one page, that's pretty obvious. But it also makes a server that has a spot no. 5,000 completely irrelevant!
-No one is going to scroll 100 pages to find a SMP!
+이래도 아직 이 시스템이 좋아 보이시나요? 서버 목록은 한 페이지에 제한된 수의 서버만 보여줍니다. 그리고 이것은 5,000번째 자리를 차지한 서버를 완전히 무의미하게 만듭니다!
+현실적으로, 아무도 당신의 서버를 찾기 위해 100페이지를 스크롤하지 않을 것입니다!
 
-## 🤖 Bots are used to vote
+## 🤖 추천 수는 전부 사람의 추천이 아닙니다.
 
-Unfortunately, server lists are often abused by servers that use bots to vote for them. Such a server will gather massive amount of votes, effectively cheating the system and ensuring a top spot on the list.
-You will never convince your limited amount of players to vote more than a computer program that runs for the whole night and emasses hundreds or thousands of votes.
+불행히도 서버 리스트에서는 종종 봇을 사용하여 추천하는 서버들이 있습니다. 그러한 서버는 엄청난 양의 추천을 모아 시스템을 효과적으로 속이고 목록에서 상위 자리를 차지합니다.
+밤새도록 실행되고 수백 또는 수천 개의 추천을 모으는 컴퓨터 프로그램은 제한된 수의 플레이어를 설득하여 더 많은 추천을 하게 하는 것 보다 훨씬 효율이 좋습니다.
 
-## 💵 Paid list spots
+## 💵 리스트 상위 고정권
 
-You can feature your server on a server list. Usually premium spots are auctioned, to ensure the server list portal gets the most money possible.
-The issue is, again, established servers have more funds than small servers, which strengthens their position even more!
+일반적으로 이러한 고정 자리는 경매를 통해 서버 리스트 사이트가 최대한 많은 돈을 벌도록 합니다.
+다시 말하자면, 이러한 시스템은 소규모 서버보다 자금이 더 많은 서버가 입지를 강화하는 것에 유리하다는 것입니다!
 
-Some server list will also partner with very popular servers and those servers will occupy the first 5-10 spots at all times. You won't even be able to purchase those spots!
+일부 서버 리스트 사이트는 매우 유명한 서버와 제휴를 맺고 이러한 서버는 항상 처음 5~10개 자리를 차지합니다. 이러한 자리는 구매로도 가질 수 없습니다!
 
-## 👿 Sounds horrible! What do I do then?
+## 👿 그것 참 끔찍한데요? 그럼 어떻게 해야할까요?
 
-Fortunately there are infinitely better ways to promote your server! You don't have to rely on sketchy websites who will sell features spots and never actually show your server on the first page!
+다행히도 서버를 홍보하는 훨씬 더 나은 방법이 있습니다! 상위 고정권을 판매하고 실제론 첫 페이지에 서버를 표시하지도 않는 모호한 웹사이트에 의존할 필요가 없습니다!
 
-You can use social media and internet press to your advantage! Read about truly effective ways to monetize your server in our [recent blog post!](promotion)
+소셜 미디어와 인터넷 언론을 서버 홍보에 활용할 수 있습니다! [최신 블로그 게시물](promotion)에서 서버를 수익화하는 진정으로 효과적인 방법에 대해 읽어보세요.
