@@ -9,6 +9,33 @@ import TabItem from '@theme/TabItem';
 <Tabs className="unique-tabs">
   <TabItem value="ua" label="언리미티드 어드벤처 공지사항">
 
+::::tip[[ 최신버전 ] v. 2.8.4 - 마이너 업데이트]
+:::warning[긴급공지]
+:::
+# 언리미티드 어드벤처 / 2.8.4 - 여정 업데이트 패치 #4
+## Changes
+- 상자의 전리품이 크게 개선되었습니다.
+- 스컬크 포탈의 시각 효과가 개선되었습니다.
+- /getitems 메뉴가 개선되었습니다.
+- premium_store, shops (아이템 구매 시 사운드 재생에 대한 채팅 메시지 삭제) 커멘드 패널 메뉴가 개선되었습니다.
+- 등에 매는 가방과 허리에 차는 도구는 이제 관전자 모드에서 나타나지 않습니다. 나무 도끼는 플레이어가 건물을 지을 때 시야를 가리지 않도록 크리에이티브에 나타나지 않습니다.
+
+## 버그 수정
+- 던전에서 버그가 있는 보스를 수정했습니다.
+- 던전이 커스텀 맵으로 둘러싸여 있는 문제를 수정했습니다.
+- 플레이어가 스폰이 아닌 다른 장소에서 리스폰 되는 문제를 수정했습니다.
+- 플레이어가 Pinata를 구매할 수 없는 문제를 수정했습니다.
+
+:::info[업데이트 버전 호환]
+해당 업데이트는 2.8.3 버전에서 업데이트 가능합니다.
+:::
+:::tip[구매 / 다운로드 하기]
+[BuiltByBit](https://builtbybit.com/resources/unlimited-adventures-survival-setup.27917/)
+:::
+
+- 업로드 : 2024년 10월 29일
+::::
+
 ::::tip[[ 최신버전 ] v. 2.8.3 - 마이너 업데이트]
 :::warning[긴급 공지]
 - 서버팩을 설치 하신 후 `plugins/AuraSkills/config.yml`에 들어가신 후 `try_detect_client_language:` 의 값을 false로 바꿔주세요.
