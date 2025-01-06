@@ -9,7 +9,32 @@ import TabItem from '@theme/TabItem';
 <Tabs className="unique-tabs">
   <TabItem value="ua" label="언리미티드 어드벤처 공지사항">
 
-::::tip[[ 최신버전 ] v. 2.8.4 - 마이너 업데이트]
+::::tip[[ 최신버전 ] v. 2.8.5 - 마이너 업데이트]
+:::warning[긴급공지]
+:::
+# 언리미티드 어드벤처 / 2.8.5 - 크로스 플레이 업데이트
+## 완벽한 크로스 플랫폼
+- 한때 분리되어 있던 영역이 마침내 합쳐졌습니다! Java & Bedrock 크로스 플레이를 통해 더 많은 친구들과 모험을 즐기세요!
+
+## 🧩 완벽한 통합
+- Bedrock과 완벽하게 호환됩니다! - 던전, 커스텀 바이옴, 텍스처, 보스 - 모든 것이 완벽하게 작동합니다!
+
+## 📈 이번 기회를 놓치지 마세요
+- Minecraft는 매달 1억 7천만 명의 활성 플레이어가 있으며, 그 대부분은 Bedrock에 있습니다. 지금이 거대한 플레이어 기반을 활용할 수 있는 기회입니다. 놓치지 마세요!
+
+아 참, 이 엄청난 업데이트는 **무료 업데이트**에요. 애드온을 살 필요가 없어요! 🥳
+
+:::info[업데이트 버전 호환]
+해당 업데이트는 2.8.4 버전에서 업데이트 가능합니다.
+:::
+:::tip[구매 / 다운로드 하기]
+[BuiltByBit](https://builtbybit.com/resources/unlimited-adventures-survival-setup.27917/)
+:::
+
+- 업로드 : 2025년 1월 6일
+::::
+
+::::note[v. 2.8.4 - 마이너 업데이트]
 :::warning[긴급공지]
 :::
 # 언리미티드 어드벤처 / 2.8.4 - 여정 업데이트 패치 #4
@@ -36,7 +61,7 @@ import TabItem from '@theme/TabItem';
 - 업로드 : 2024년 10월 29일
 ::::
 
-::::tip[[ 최신버전 ] v. 2.8.3 - 마이너 업데이트]
+::::note[v. 2.8.3 - 마이너 업데이트]
 :::warning[긴급 공지]
 - 서버팩을 설치 하신 후 `plugins/AuraSkills/config.yml`에 들어가신 후 `try_detect_client_language:` 의 값을 false로 바꿔주세요.
 :::
