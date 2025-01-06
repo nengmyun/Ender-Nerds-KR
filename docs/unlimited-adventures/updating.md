@@ -19,6 +19,19 @@ import TabItem from '@theme/TabItem';
 :::
 
 <Tabs>
+    <TabItem value="Other versions" label="다른 버전">
+
+#### Step 1
+
+:red_circle: 서버를 끕니다.
+
+#### Step 2
+
+💾 `Update Files` 폴더의 모든 내용을 주 서버 폴더로 복사합니다.
+("대상 폴더의 파일 덮어쓰기"을 클릭합니다)
+
+</TabItem>
+
   <TabItem value="2.8" label="2.8 업데이트">
 
 #### Step 1
@@ -100,18 +113,6 @@ import TabItem from '@theme/TabItem';
 [Citizens](https://ci.citizensnpcs.co/job/citizens2/3373/artifact/dist/target/Citizens-2.0.33-b3373.jar)를 업데이트하세요.
 
 #### Step 6
-
-`Update Files` 폴더의 모든 내용을 주 서버 폴더로 복사합니다.
-("대상 폴더의 파일 덮어쓰기"을 클릭합니다)
-
-</TabItem>
-    <TabItem value="Other versions" label="다른 버전">
-
-#### Step 1
-
-:red_circle: 서버를 끕니다.
-
-#### Step 2
 
 `Update Files` 폴더의 모든 내용을 주 서버 폴더로 복사합니다.
 ("대상 폴더의 파일 덮어쓰기"을 클릭합니다)
