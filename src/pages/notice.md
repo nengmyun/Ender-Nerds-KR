@@ -10,8 +10,6 @@ import TabItem from '@theme/TabItem';
   <TabItem value="ua" label="언리미티드 어드벤처 공지사항">
 
 ::::tip[[ 최신버전 ] v. 2.8.5 - 마이너 업데이트]
-:::warning[긴급공지]
-:::
 # 언리미티드 어드벤처 / 2.8.5 - 크로스 플레이 업데이트
 ## 완벽한 크로스 플랫폼
 - 한때 분리되어 있던 영역이 마침내 합쳐졌습니다! Java & Bedrock 크로스 플레이를 통해 더 많은 친구들과 모험을 즐기세요!
@@ -35,8 +33,6 @@ import TabItem from '@theme/TabItem';
 ::::
 
 ::::note[v. 2.8.4 - 마이너 업데이트]
-:::warning[긴급공지]
-:::
 # 언리미티드 어드벤처 / 2.8.4 - 여정 업데이트 패치 #4
 ## Changes
 - 상자의 전리품이 크게 개선되었습니다.
