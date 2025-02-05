@@ -5,7 +5,7 @@ title: 'Oraxen'
 
 import video from './assets/Oraxen.mp4';
 
-# Unlimited Adventures 리소스팩을 Oraxen 에 적용 시키는 방법
+# 🖼️ nlimited Adventures 리소스팩을 Oraxen 에 적용 시키는 방법
 
 Oraxen을 설치하려면 리소스 팩을 Oraxen과 병합해야 합니다.\
 방법은 아주 쉬워요. 글로 된 가이드를 참고하거나 영상을 시청하실 수 있어요!
