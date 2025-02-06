@@ -37,7 +37,7 @@ title: '몬스터 전리품'
 | 엘더 가디언                   | Diving Mask                                                     |
 | 파괴수                        | Horseshoe                                                       |
 | 위더                          | Wither Crown                                                    |
-| 엔더 드래곤                   | 5x Dragonscales, Ender Gauntlet                                 |
+| 엔더 드래곤                   | Dragonscales 5개, Ender Gauntlet                                 |
 | 미니 보스: Skeleton Chieftain | Bone Necklace, Cloak of Wrath (tier 3만 드랍됨), Skeleton Key   |
 | 미니 보스: Nosferatu          | Gold Tooth, Blood Vial (tier 3만 드랍됨), Dracula Key           |
 | 미니 보스: Desert Outcast     | Sunstone Ring, Zephyr Veil (tier 3만 드랍됨), Desert Key        |
