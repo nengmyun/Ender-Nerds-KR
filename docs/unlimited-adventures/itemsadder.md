@@ -5,7 +5,7 @@ title: 'Items Adder'
 
 import video from './assets/ItemsAdder.mp4';
 
-# 🖼️ nlimited Adventures 리소스팩을 ItemsAdder 에 적용시키는 법
+# 🖼️ Unlimited Adventures 리소스팩을 ItemsAdder 에 적용시키는 법
 
 ItemsAdder를 사용하여 설정을 작동시키려면 리소스 팩을 ItemsAdder와 병합해야 합니다.\
 어려워 보아셔도 실제론 매우 쉽습니다. 글로 된 가이드를 참고 하시거나 영상을 시청하실 수 있습니다,!
