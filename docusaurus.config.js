@@ -82,7 +82,6 @@ const config = {
             position: 'left',
             label: '문서',
           },
-          {to: 'notice', label: '공지사항', position: 'left'},
           {
             position: 'left',
             label: '디스코드',
