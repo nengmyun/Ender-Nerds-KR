@@ -5,7 +5,12 @@ title: 📄 환영합니다!
 
 import banner from './assets/banner.png';
 
-# 환영합니다!
+:::warning[공지사항]
+현재 대부분의 문서가 최신화 되지 않았습니다. 이것을 해결하기 위해 모든 페이지 번역을 새로 진행할 예정입니다.
+조금 시간이 걸리겠으나, 최대한 빠르게 준비하겠습니다.
+:::
+
+# 🇰🇷 한국어 Docs에 오신것을 환영합니다!
 
 <img src={banner} alt="Image Description"/>
 ## Ender Nerds 한글 문서 사이트에 대해
