@@ -1,61 +1,64 @@
 ---
-sidebar_position: 19
-title: '일일 보상'
+sidebar_position: 15
+title: 'Daily Rewards'
 ---
-# :gift: 일일 보상 수정
 
-Unlimited Adventures는 자체 개발된 강력하고 자체 개발한 일일 보상 시스템을 활용합니다.
-덕분에 최대 4개의 다양한 보상 유형, 4개의 Placeholder 및 2개의 변수를 사용할 수 있습니다!
 
-#### :package: 보상을 어떻게 변경하나요?
 
-일일 보상 시스템에서 보상을 쉽게 추가, 변경 또는 제거할 수 있습니다.
-그렇게 하려면 `unlimited_adventures/DailyRewards/rewards.yml` 해당 경로에서 구성 파일을 찾아야 합니다.
+# :gift: Daily Rewards Config
 
-### 4가지 타입의 보상을 설정 할 수 있습니다:
+Unlimited Adventures utilizes its own, powerful, custom-developed Daily Rewards system.
+Thanks to this, you can use: up to 4 different reward types, 4 placeholders and 2 variables!
 
-#### :moneybag: 골드로 보상:
 
-골드 보상을 추가하고 싶다면 아래 예시 처럼 입력하세요:
-`gold [갯수]`, 예시: `gold 500`
 
-#### :gem: 젬으로 지급:
+#### :package: How to change rewards?
 
-젬 보상을 추가하고 싶다면 아래 예시 처럼 입력하세요:
-`gems [갯수]`, 예시: `gems 500`
+You can easily add, change or remove rewards from our Daily Rewards system.
+In order to do so, you need to find the `unlimited_adventures/DailyRewards/rewards.yml` config file.
 
-#### :hammer: 아이템으로 지급:
 
-아이템 보상을 추가하고 싶다면 아래 예시 처럼 입력하세요:
+
+### 4 Types of rewards available:
+
+#### :moneybag: Gold Rewards:
+In order to add a gold reward, you have to type in:
+`gold [amount]`, for example: `gold 500`
+
+#### :gem: Gems Rewards:
+In order to add a gems reward, you have to type in:
+`gems [amount]`, for example: `gems 500`
+
+
+#### :hammer: Item Rewards:
+In order to add an item reward, you have to type in:
 `[amount] of [item]`, for example: `5 of iron sword`.
 
-:::tip[팁]
-물론 인첸트된 아이템도 아래 예시 처럼 지원합니다:
+:::tip
+Enchantments are also supported:
 `iron sword of sharpness 5 and unbreaking 3`
 
-물론 이름도 지정할 수 있어요!
-`iron sword named "&6&l짱쌔짱쌔 검" of sharpness 5 and fire aspect 2 and unbreaking 3`
+You can even use names!\
+`iron sword named "&6&lPowerful Sword" of sharpness 5 and fire aspect 2 and unbreaking 3`
 
-내구도를 무한으로 할 수도 있죠!
-`unbreakable iron sword named "&6&l무한으로 짱쌔짱쌔 검" of sharpness 5 and fire aspect 2 and unbreaking 3`
+You can make the item unbreakable:\
+`unbreakable iron sword named "&6&lPowerful Sword" of sharpness 5 and fire aspect 2 and unbreaking 3`
 :::
 
-#### :computer: 명령어로 지급:
-
-명령어로 보상을 지급하고 싶다면 아래 예시 처럼 입력하세요:
+#### :computer: Command Rewards: You can use commands as rewards, by doing as following:
 `command premiumcurrency PLAYER_NAME add 100`
 
-### 2가지 타입의 변수를 사용할 수 있습니다:
 
-`PLAYER_NAME` - 플레이어의 닉네임
-`DAY_NUMBER` - 플레이어의 일일 보상 번호
+### 2 Variables available:
 
-## 4가지 Placeholder를 사용할 수 있습니다.:
+`PLAYER_NAME` - the player's nickname.\
+`DAY_NUMBER` - the player's daily reward number.
 
+## 4 Placeholders available:
 
-| Placeholder                                  | 설명                                                                                   |
-| -------------------------------------------- | -------------------------------------------------------------------------------------- |
-| `%valiant_dailyrewards_canclaim%`            | 플레이어가 수령하지 않은 일일 보상이 있는 경우 "true"를 표시합니다.                    |
-| `%valiant_dailyrewards_timeuntilclaim%`      | 플레이어가 일일 보상을 받을 수 있을 때까지 남은 시간을 표시합니다.                     |
-| `%valaint_dailyrewards_timeuntilexpiration%` | 수령하지 않은 일일 보상이 만료되고 수령 상태가 초기화될 때까지 남은 시간을 표시합니다. |
-| `%valiant_dailyrewards_daynumber%`           | 플레이어가 접속한 날의 일일 보상 날짜를 표시합니다.                                    |
+| Placeholder | Description |
+| - | - |
+| `%valiant_dailyrewards_canclaim%` | This placeholder returns "true", when player has an unclaimed Daily Reward. |
+| `%valiant_dailyrewards_timeuntilclaim%` | This placeholder returns the time left until a player can claim his Daily Reward. |
+| `%valaint_dailyrewards_timeuntilexpiration%` | This placeholder returns the time left until the unclaimed Daily Reward expires and the strike resets. |
+| `%valiant_dailyrewards_daynumber%` | This placeholder returns the Daily Rewards day, the player is at. |

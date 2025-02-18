@@ -1,22 +1,22 @@
 ---
-sidebar_position: 12
-title: '모험 악세서리 3D'
+sidebar_position: 13
+title: '3D 모험 악세서리'
 ---
 
 
 
-# :hammer:  **모험 악세서리**
+# 👑 **모험 악세서리**
 
-모험 악세서리는 플레이어의 가방 혹은 도구를 풀 3D로 표현해주는 **자체 제작된** **독특한** 시스템 입니다.
+모험 악세서리는 플레이어가 눈에 띄는 3D 가방과 도구를 몸에 착용할 수 있게 해주는 **독점적** 이고 **자체 제작된** 시스템입니다!
 
-#### 모험 악세서리를 어떻게 수정하나요?
-> 모험 악세서리 시스템은 아래 경로에서 수정 가능합니다:
+#### 모험 악세서리의 구성을 어떻게 변경하나요?
+> 모험 악세서리 시스템의 매개변수는 다음 위치에서 편집할 수 있습니다.
 ```unlimited_adventures/AdventureApparel/config.yml```
 
-#### 플레이어가 순간이동하거나 명령을 사용할 수 없습니다.
-Spigot 제한으로 인해 모험 악세서리는 때때로 순간 이동을 차단할 수 있습니다.
-이것은 고칠 수 없습니다. 그러나 우리는 평소처럼 순간이동 명령을 사용할 수 있는 해결 방법을 만들었습니다.
+#### 플레이어가 순간이동을 하거나 명령을 사용할 수 없습니다.
+Spigot 제한으로 인해 모험 악세서리가 가끔 순간이동을 차단할 수 있습니다.
+우리는 평소처럼 순간이동 명령을 사용할 수 있도록 하는 해결책을 만들었습니다.
 
-AdventureApparel/config.yml로 이동하여 'teleport-commands:'를 찾으세요. 파일 맨 아래에 있습니다.\
-이제 서버에서 작동하지 않는 모든 명령을 이 목록에 추가하세요.\
-이렇게 하면 문제가 해결될 것입니다. 문제가 해결되지 않으면 [디스코드](https://discord.gg/wdBFC7Hc6X)에 문의 해주시면 도와드리겠습니다.
+Please go to the Adventure Apparel's config.yml and locate 'teleport-commands:'. It's at the bottom of the file.\
+Now add all commands that don't work on your server to this list.\
+This should fix your issue, if it doesn't, please make a report on our [Discord](https://discord.gg/wdBFC7Hc6X).

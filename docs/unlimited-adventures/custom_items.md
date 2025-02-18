@@ -1,42 +1,180 @@
 ---
 sidebar_position: 10
-title: '커스텀 아이템'
+title: 'Custom Items'
 ---
 
 
 
-# :hammer:  제작 & 커스텀 아이템
+# 🪃 Custom Items
 
-제작은 플레이어가 강력한 신규 무기를 만들 수 있는 강력한 기능입니다.
+Unlimited Adventures is equipped with a powerful, built-in custom items system.\
+This page will explain how to create new custom items, modify them and how to summon them.
 
-:::tip[팁]
-모든 신규 아이템을 보려면 `/getitems` 명령어를 입력하세요.\
-누군가한테 주고 싶다면 `/givecustomitem [아이템 이름] [플레이어 이름] 을 입력하세요!`
+:::tip[How to get custom items]
+You can access custom items menu by executing: `/getitems`\
+To get a specific item, execute: `/giveitem [item name] [player name] [amount]`
 :::
 
-#### :bulb: 새로운 아이템을 어떻게 추가하나요?
-> 모든 사용자 정의 항목은 다음에서 찾을 수 있습니다: `unlimited_adventures/CustomItems/items.yml`\
-> 기존 항목을 config에서 복제하고 이름과 속성을 원하는 대로 변경하면 새 항목을 추가할 수 있습니다.\
-> `/giveitem [아이템 이름]` 명령어로 새로 만든 아이템을 받아보세요!
 
-#### :pencil2: 아이템을 어떻게 수정하나요?
-> 커스텀 아이템의 정보는 아래 경로에 있는 파일에서 수정 가능합니다:
-```unlimited_adventures/CustomItems/items.yml```
+## ➕ How to add new items?
+It's really easy to add new items, read more below:
 
-#### :pencil2: 어떻게 제작법을 바꾸나요?
-> 커스텀 아이템의 조합법은 아래 경로에 있는 파일에서 수정 가능합니다:
-```unlimited_adventures/CustomItems/recipes.yml```
+#### 🗒️ All custom items are found in: `unlimited_adventures/CustomItems/items.yml`:
+```
+items:
+    traveler_backpack:
+        name: "&aTraveler's Backpack"
+        item: stick
+        custom_model_data: 501
+        model_custom_model_data: 101
+        lore:
+        - ''
+        - "&7Basic backpack. Can fit 18 items."
+        rows: 2
+        item_id: traveler_backpack
+    adventure_backpack:
+        name: "&aAdventurer's Backpack"
+        item: stick
+        custom_model_data: 502
+        model_custom_model_data: 102
+        lore:
+        - ''
+        - "&7Sizeable backpack. Can fit 36 items."
+        rows: 4
+        item_id: adventure_backpack
+```
+
+➕ You can add new items simply by duplicating an existing item from the config and changing it's name and properties to your liking:
+```
+dino_sword:
+    name: "&6Dinosaur Sword"
+    item: diamond sword
+    lore:
+    - "&7This sword belongs to"
+    - "a very cool dinosaur."
+```
+
+💎 On Unlimited Adventures, there are accessories you can wear in the gear menu. Let's create one:
+```
+belt_of_vitality:
+    name: "&aBelt of Vitality"
+    item: stick
+    custom_model_data: 720
+    lore:
+    - ''
+    - "&7Increases health."
+    - ''
+    - "§x&d&f&5&2&5&2+4 Health ❤"
+    - ''
+    - "§x&8&f&6&4&d&eᴀᴄᴄᴇssᴏʀʏ ɪᴛᴇᴍ"
+    health: 8
+    regeneration: 8
+    accessory: true
+```
+
+As you can see, I have specified the name, item type, custom model data (so the item can have it's own custom texture) and wrote a short lore description.
+But the most important things are down below, the `health` and `regeneration` statistics are applied on the player when he's wearing the accessory.
+
+#### ⚙️ Available attributes:
+- Strength
+- Health
+- Regeneration
+- Luck
+- Wisdom
+- Toughness
+- Speed
+- Fuel
+- Night_vision
+- Haste
+- Oxygen
+
+## 🎨 Give your item a custom texture
+
+#### Upload your new texture to the server resource pack
+1. First, you have to add the texture to your resource pack. You need to [download](resource-pack) it on your computer so you can update it.
+2. Put your texture in the `assets/minecraft/textures/custom/items/` folder.
+3. Now you need to create a model for your texture, no matter whether it's 3D or not, this model allows us to create a brand new texture, instead of having to sacrifice existing Minecraft items:
+
+Go to `assets/minecraft/models/custom/items/`. Create a new `.json` file or just copy the `amethyst_axe.json ` and rename it to your items name.
+Edit its content:
+```
+{
+  "parent": "item/handheld",    <---  Change this to "item/generated" if the item you're creating is not held like a tool.
+  "textures": {
+    "layer0": "custom/items/dino_sword"
+  }
+}
+```
+
+4. Now we need to link this model to a custom model data of an existing vanilla item - I'll use diamond sword.
+
+Go to `assets/minecraft/models/item/diamond_sword.json`
+```
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "minecraft:item/diamond_sword"
+  },
+  "overrides": [
+  { "predicate": {"custom_model_data": 730}, "model": "custom/items/bone_sword"},
+  { "predicate": {"custom_model_data": 731}, "model": "custom/items/emerald_sword"},
+  { "predicate": {"custom_model_data": 732}, "model": "custom/items/copper_sword"},
+  { "predicate": {"custom_model_data": 733}, "model": "custom/items/amethyst_sword"},
+  { "predicate": {"custom_model_data": 734}, "model": "custom/items/crocodile_sword"},
+  { "predicate": {"custom_model_data": 735}, "model": "custom/items/venomous_fang_dagger"},
+  { "predicate": {"custom_model_data": 736}, "model": "custom/items/dino_sword"}
+  ]
+}
+```
+We are linking it to the path of the model we have created in the previous step. Full path is `assets/minecraft/models/custom/items/dino_sword.json`
 
 
-#### :unlock: 조합법을 어떻게 잠금 해제하나요?
-> 콘피그에서 조합법 잠금을 활성화한 경우 플레이어는 아이템을 제작하기 전에 먼저 레시피를 잠금 해제해야 합니다.\
-> 이 경우 플레이어에게 조합법을 지급하는 명령어는 다음과 같습니다. `/forgeunlock [플레이어 이름] [아이템 이름]`, 예시: `/forgeunlock Steve1337 adventure_backpack`
+#### Update the item config
+Now we'll add the just assigned custom model data to our custom item's config.
 
-## 2가지 Placeholders 를 제공합니다:
+`unlimited_adventures/CustomItems/items.yml`:
+```
+dino_sword:
+    name: "&6Dinosaur Sword"
+    item: diamond sword
+    custom_model_data: 736   <-----   Add this line! ⚙️
+    lore:
+    - "&7This sword belongs to"
+    - "a very cool dinosaur."
+```
 
-| Placeholder | 설명 |
+
+
+
+
+
+
+## :pencil2: How to change crafting recipes?
+Edit the Forge Block recipes for custom items by going to: `unlimited_adventures/CustomItems/recipes.yml`
+
+```
+recipes:
+    dynamite:
+    - 1 of tnt
+    - 3 of string
+    - 3 of iron ingot
+    catching_net:
+    - 5 of string
+    - 3 of slimeball
+```
+
+## :unlock: How to unlock a recipe?
+⚙️ **If you have enabled it in the config**, players will be required to unlock a recipe first, before they can forge an item.\
+In that case, you can unlock items for the players by executing:\
+`/forgeunlock [player name] [item name]`, for example: `/forgeunlock Simon adventure_backpack`
+
+
+
+## 2 Placeholders available:
+
+| Placeholder | Description |
 | - | - |
-| `%valiant_craftingunlocked_ITEM%` | 플레이어가 조합법 잠금을 해제하면 True 를 표시합니다. |
-| `%valiant_cancraft_ITEM%` | 플레이어가 조합에 필요한 아이템을 가지고 있으면 True를 표시합니다. |
+| `%valiant_craftingunlocked_ITEM%` | returns 'true', if crafting of the specified item is unlocked. |
+| `%valiant_cancraft_ITEM%` | returns 'true', if the player has required items to craft the item. |
 
 

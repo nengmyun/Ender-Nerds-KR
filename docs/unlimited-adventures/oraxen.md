@@ -3,35 +3,36 @@ sidebar_position: 6
 title: 'Oraxen'
 ---
 
-import video from './assets/Oraxen.mp4';
+import ReactPlayer from 'react-player'
+import video from './assets/oraxen_installation.mp4';
 
-# 🖼️ Unlimited Adventures 리소스팩을 Oraxen 에 적용 시키는 방법
 
-Oraxen을 설치하려면 리소스 팩을 Oraxen과 병합해야 합니다.\
-방법은 아주 쉬워요. 글로 된 가이드를 참고하거나 영상을 시청하실 수 있어요!
+# 🖼️ How to make Unlimited Adventures work with Oraxen
+
+In order for the setup to work with Oraxen, you need to merge the resource pack with Oraxen.\
+It's actually a very simple process. Please refer to the text guide and use the video as a supplement.
 
 **Step 1**
-> :red_circle: 서버를 끕니다.
+> :red_circle: Stop your server.
 
 #### Step 2
-> ❌ `server.properties` 파일 속 `resource-pack=` 부분의 링크를 지웁니다.
+> ❌ Remove `resource-pack=` link from `server.properties`
 
 #### Step 3
-> :wrench: `unlimited_adventures/AdventureCore/resource_pack` 경로에서 `use_oraxen_or_itemsadder` 설정을 찾은 후 `true` 로 값을 변경합니다.
+> :wrench: Find the `use_oraxen_or_itemsadder` setting in `unlimited_adventures/AdventureCore/resource_pack` and set it to `true`
 
 #### Step 4
-> ❌ 리소스팩 폴더 `assets/modelengine`에서 `modelengine` 폴더를 제거하세요 (Oraxen에서 자동 생성됩니다)
-
-
-#### Step 5
-> Unlimited Adventures 리소스 팩의 내용을 복사합니다. (전부 `Unlimited Adventures/assets/`에 있습니다.)
-:::tip[리소스팩 찾기]
-리소스팩을 얻는 방법을 모르시나요? [여기](resource-pack)에서 확인하세요!
+> Copy contents of Unlimited Adventures' resource pack (everything in `Unlimited Adventures/assets/`)
+:::tip[Find your resource pack]
+Don't know how to find your resource pack? Refer to [Resource Pack](resource-pack)
 :::
-#### Step 6
-> 💾 복사한 폴더를 `plugins/Oraxen/pack/assets`에 붙여넣습니다.
+#### Step 5
+> 💾 Paste the copied folder into `plugins/Oraxen/pack/assets`
 
-끝났습니다! 이제 Oraxen 으로 Unlimited Adventures 의 리소스팩을 관리할 수 있습니다 :heart:
+Done! Now start your server and enjoy Unlimited Adventures and Oraxen working together :heart:
 
-<video src={video} controls width="384" height="216">
-</video>
+
+<ReactPlayer playing controls url={video} />
+
+
+

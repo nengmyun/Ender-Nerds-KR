@@ -1,53 +1,105 @@
 ---
-sidebar_position: 17
-title: '배지'
+sidebar_position: 13
+title: 'Badges'
 ---
-# 플레이어 배지
 
-배지는 Unlimited Adventures의 완전 독특한 기능입니다. 플레이어의 성과에 맞는 만족스러운 배지 보상을 보상하도록 설계되었습니다.
 
-#### 배지 달성 조건을 어떻게 변경하나요?
 
-배지 달성 조건을 변경하려면
-```unlimited_adventures/Badges/badges.yml``` 경로에 있는 파일로 이동하세요.
-여기에서 다양한 배지 카테고리와 레벨을 수정할 수 있습니다.
-배지는 플레이어의 진행 상황을 안정적으로 추적하기 위해 Placeholder를 사용합니다.
+# 🎖️ Player Badges
 
-#### :package: 배지 보상을 변경하는 방법은 무엇입니까?
+We have designed Badges to reward the most ambitious players with a satisfying award.\
+Progress and unlocked badges can be viewed in the Badges menu.\
+The total amount of badge levels is displayed below player's name, along with a star icon, for example: `17 ⭐`
 
-배지 보상을 쉽게 변경할 수 있습니다. 번경하시려면
-```unlimited_adventures/Badges/rewards.yml``` 경로에 있는 파일로 이동하세요.
-여기에서 다양한 배지 카테고리 및 등급에 대한 보상을 수정할 수 있습니다.
+## ➕ How to add new badges?
 
-### 4가지 타입의 보상을 설정 할 수 있습니다:
+You can easily add new badges by editing the Badges config file:
 
-#### :moneybag: 골드로 지급:
+`unlimited_adventures/Badges/badges.yml`:
+```
+your_badge:
+    '1':
+        requirement: statistic_mine_block:STONE
+        value: 100
+    '2':
+        requirement: statistic_mine_block:STONE
+        value: 500
+    '3':
+        requirement: statistic_mine_block:GRAVEL
+        value: 100
+    '4':
+        requirement: statistic_mine_block:SAND
+        value: 150
+```
 
-골드 보상을 추가하려면 다음 명령어를 입력해야 합니다:
-`gold [수량]`, 예시: `gold 500`
+Add rewards in the rewards config - `unlimited_adventures/Badges/rewards.yml`:
+```
+your_badge:
+    '1':
+        '1': command eco give PLAYER_NAME 100
+    '2':
+        '1': command eco give PLAYER_NAME 150
+    '3':
+        '1': command eco give PLAYER_NAME 200
+    '4':
+        '1': command eco give PLAYER_NAME 250
+```
 
-#### :gem: 젬으로 지급:
+Set the badge messages in `unlimited_adventures/Badges/messages.yml`:
 
-젬 보상을 추가하려면 다음 명령어를 입력해야 합니다:
-`gems [수량]`, 예시: `gems 500`
+```
+your_badge_level_up: "§x&f&f&e&8&1&7&lBadges ▶ §x&3&1&e&d&9&6Your Badge is now: LEVEL Badge!"
+your_badge_badge_level: "§x&f&f&e&8&1&7&lBadges ▶ LEVEL Your Badge"
+```
 
-#### :hammer: 아이템으로 지급:
+## ✏️ Editing badges
 
-아이템 보상을 추가하려면 다음 명령어를 입력해야 합니다:
-`[수량] of [아이템]`, 예시: `5 of iron sword`.
+#### ⚙️ How to change Badge requirements?
 
-:::tip[팁]
-인챈트도 지원됩니다:
+To change the badge requirements, go to:
+```unlimited_adventures/Badges/badges.yml```
+In there, you can modify various badge categories and their levels.
+Please notice that badges use placeholders to reliably track player's progress.\
+You can find a rich list with a lot of placeholders [here](https://github.com/PlaceholderAPI/PlaceholderAPI/wiki/Placeholders).\
+(Please note that some of them require you to install them with `/papi ecloud download name`)
+
+
+
+#### :package: How to change Badge rewards?
+
+You can easily change the badge rewards. To do it, head to:
+```unlimited_adventures/Badges/rewards.yml```
+In there, you can modify the rewards for different badge categories and tiers.
+
+
+
+
+
+### 4 Types of rewards available:
+
+#### :moneybag: Gold Rewards:
+In order to add a gold reward, you have to type in:
+`gold [amount]`, for example: `gold 500`
+
+#### :gem: Gems Rewards:
+In order to add a gems reward, you have to type in:
+`gems [amount]`, for example: `gems 500`
+
+
+#### :hammer: Item Rewards: In order to add a gold reward, you have to type in:
+`[amount] of [item]`, for example: `5 of iron sword`.
+
+:::tip
+Enchantments are also supported:\
 `iron sword of sharpness 5 and unbreaking 3`
 
-이름을 변경할 수도 있습니다!
-`iron sword named "&6&l짱쌔짱쌔 검" of sharpness 5 and fire aspect 2 and unbreaking 3`
+You can even use names!\
+`iron sword named "&6&lPowerful Sword" of sharpness 5 and fire aspect 2 and unbreaking 3`
 
-내구도를 무한으로 할 수도 있습니다:
-`unbreakable iron sword named "&6&l무한으로 짱쌔짱쌔 검" of sharpness 5 and fire aspect 2 and unbreaking 3`
+You can make the item unbreakable:\
+`unbreakable iron sword named "&6&lPowerful Sword" of sharpness 5 and fire aspect 2 and unbreaking 3`
 :::
 
-#### :computer: 명령어로 지급:
-
-다음과 같이 명령어로 보상으로 사용할 수 있습니다:
-`command premiumcurrency 플레이어_이름 add 100`
+#### :computer: Command Rewards:
+You can use commands as rewards, by doing as following:\
+`command premiumcurrency PLAYER_NAME add 100`

@@ -1,48 +1,53 @@
 ---
 sidebar_position: 9
-title: '브랜딩'
+title: 'Branding'
 ---
 
 import img1 from './assets/title_bar.png';
 
-# **💎 브랜딩**
+# :gem: Branding
 
-Unlimited Adventures에는 저희의 브랜드 패키지가 함께 제공됩니다.\
-기본 텍스처와 로고를 계속 사용하셔도 상관 없지만, 자신만의 브랜드로 수정하는 것을 추천합니다.\
-이 페이지에서는 설정의 가장 중요한 브랜딩 기능을 변경하는 방법을 설명합니다.
+Unlimited Adventures comes with it's own branding package.\
+While you can keep using the default textures and logos, it's a good idea to make your server look a bit more unique.\
+This page will explain how to change the most important branding features of the setup.
 
 
-### 'ESC' 메뉴 로고
+### 'ESC' menu logo
 
 
 <img src={img1} alt="Image Description" width="732" height="250"/>
 
-#### 로고를 수정하는 방법
-'ESC' 메뉴 로고는 리소스팩을 이용하여 수정할 수 있습니다.\
-`Assets/minecraft/textures/custom/icons/title.png`에서 로고 텍스쳐를 찾을 수 있습니다.\
-로고 텍스쳐를 변경하려면 해당 텍스처를 편집해야합니다.
+#### Modify logo
 
-:::tip[로고를 제작할 수 없습니다.]
-로고를 직접 만드는 방법을 모른다면, 로고를 만드는 데 도움이 되는 도구가 있습니다. [클릭하여 확인하기](https://www.google.com/search?q=minecraft+logo+generator&oq=minecraft+logo+generator&gs_lcrp=EgZjaHJvbWUqBwgAEAAYgAQyBwgAEAAYgAQyCAgBEAAYFhgeMggIAhAAGBYYHjIICAMQABgWGB4yCAgEEAAYFhgeMggIBRAAGBYYHjIICAYQABgWGB4yCAgHEAAYFhgeMggICBAAGBYYHjIICAkQABgWGB7SAQgzNTA1ajBqMagCALACAA&sourceid=chrome&ie=UTF-8)
+'ESC' menu logo can be modified using a resource pack.\
+You can find the texture of the logo in: `assets/minecraft/textures/custom/icons/title.png`\
+Edit this texture to change how the logo looks.
+
+:::tip[I can't draw]
+If you don't know how to draw your own logo, there are tools that can help you generate your own logo. [Click here](https://www.google.com/search?q=minecraft+logo+generator&oq=minecraft+logo+generator&gs_lcrp=EgZjaHJvbWUqBwgAEAAYgAQyBwgAEAAYgAQyCAgBEAAYFhgeMggIAhAAGBYYHjIICAMQABgWGB4yCAgEEAAYFhgeMggIBRAAGBYYHjIICAYQABgWGB4yCAgHEAAYFhgeMggICBAAGBYYHjIICAkQABgWGB7SAQgzNTA1ajBqMagCALACAA&sourceid=chrome&ie=UTF-8)
 :::
 
-:::tip[로고 크기]
-로고 사이즈는 최대 256x256px 크기여야 합니다. 이는 Minecraft에서 제한해 놓은 사항이기에 어쩔 수 없습니다.
+:::warning[Logo Size]
+The logo can be max. 256x256px big. This is a Minecraft limitation.
 :::
 
-#### 로고 삭제
-어떤 이유에서든 로고를 완전히 삭제하려면, `assets/minecraft/lang/en_us.json`으로 이동하여 해당 줄을 다른 텍스트로 수정하거나 파일 자체를 지워 원래 상태로 되돌릴 수 있습니다.
+#### Delete logo
+
+If you for some reason want to delete the logo altogether, please go to: `assets/minecraft/lang/en_us.json` and edit the line to your own custom text, or delete the file altogether to revert default behaviour.
 
 ### MOTD
-서버 MOTD는 자체 제작된 Adventure Core에서 처리됩니다. `unlimited_adventures/AdventureCore/motd`에서 수정할 수 있습니다(`plugins/` 폴더에 **존제하지 않습니다**!).
+
+Server description is handled by our custom-made Adventure Core. It can be modified in the `unlimited_adventures/AdventureCore/motd` (**NOT** in the `plugins/` folder!)
+
 ```
 motd_line:
     '1': "            §x&6&d&d&4&4&4&lUNLIMITED ADVENTURES &f[§x&a&c&e&6&7&31.20.4&f]"
     '2': "   §x&f&f&c&8&0&0⭐ Ambient Sounds §x&9&0&e&3&4&e🪣 3D Backpacks §x&f&7&4&1&5&4☠ §x&f&7&4&1&5&4Dungeons"
 ```
 
-### 탭 리스트
-Tablist는 `plugins/TAB/config.yml`에서 편집할 수 있습니다.
+### Tablist
+
+Tablist can be edited in the `plugins/TAB/config.yml`
 ```
 header-footer:
   enabled: true
@@ -56,8 +61,11 @@ header-footer:
   - '%valiant_active_boosters%'
   - '%valiant_active_boosters_2%'
 ```
-### 스코어보드
-스코어보드(사이드바)는 `plugins/TAB/config.yml`에서 편집할 수 있습니다.
+
+### Scoreboard
+
+Scoreboard(sidebar) can be edited in the `plugins/TAB/config.yml`
+
 ```
 scoreboard:
   enabled: true
@@ -80,3 +88,6 @@ scoreboard:
       - ''
       - '  {%color_server_name_accent%}play.unlimitedadventures.com'
 ```
+
+
+

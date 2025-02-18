@@ -4,61 +4,81 @@ title: 'FAQ'
 ---
 
 
-# :thinking: 자주 듣는 질문
+# :thinking: Frequently Asked Questions
 
-안녕하세요! Unlimited Adventures에 관심을 가져주셔서 감사합니다! 여러분들이 자주 해주시는 질문들에 대한 답들이 해당 페이지에 있습니다.\
-**저희에게 직접** 물어보고 싶으신 것들은, 저희의 [디스코드 커뮤니티](https://discord.gg/wdBFC7Hc6X) 에 접속하신 후 질문해주세요! 성실하게 답변해드리겠습니다!
+Hi there! Thanks for your interest in Unlimited Adventures!
+If you’d prefer to talk to me directly, then join our [Discord](https://discord.gg/wdBFC7Hc6X), and I'll be happy to answer all of your questions!
 
-### 잔말 말고 제가 왜 Unlimited Adventures를 사야하죠?
-Unlimited Adventures는 차세대 모험을 느낄 수 있는 경험을 제공합니다.\
-저희는 새로운 콘텐츠, 탐험과 발전된 게임성을 추가하여 기존 야생 플레이를 더욱 재밌게 향상시키도록 설계했습니다.\
-수백 시간동안 서버팩을 설계하고 개발하여 모든 기능이 차세대에 걸 맞도록 세련되었습니다.
+### What makes Unlimited Adventures special?
 
-#### 요점:
-- 수많은 새로운 탐험과 발전된 게임성을 갖춘 모험 중심 경험
-- 사전 제작된 퀘스트, 던전, 보스, 새로운 몬스터 및 커스텀 아이템이 포함된 콘텐츠 중심 게임플레이
-- 3D 백팩 및 무기, 자연 효과음, 던전, 어드벤처 패스 등의 독점 기능!
-- 훌륭한 디자인과 경험, 컴팩트한 메뉴, Minecraft 스타일과 완벽하게 어울리는 아이템 텍스처, 전문 사운드 디자이너가 만든 맞춤형 사운드 까지!
+- :earth_americas: A thrilling world with new biomes and structures to explore.
+- :wolf: Custom mobs bring the map to life, including buffaloos, crocodiles, grizzly bears, and goblins.
+- :dart: Adventure-focused gameplay with fresh challenges and progression options.
+- :crossed_swords: Dungeons, bosses, quests, new monsters, and custom items to discover.
+- :star: Exclusive features like 3D Backpacks & Weapons, Ambient Sounds, Dungeons, Adventure Pass, and more!
+- :bulb: Beautifully designed menus, item textures that blend seamlessly with Minecraft, and professionally crafted custom sounds.
 
-## :arrow_forward: 서버팩 관련 질문
 
-:::tip[팁]
-## 구매 전 테스트 해보실 수 있습니다. - 주소: EnderNerds.com
+
+
+
+
+
+
+
+
+
+
+
+:::tip
+## You can test our server! - IP: endernerds.com
+When joining on Bedrock, use port `25567`
 :::
 
-#### 어떤 Minecraft 버전을 지원하나요?
-> 이 서버팩은 **Paper 1.20.4** 기반 입니다.
+## :arrow_forward: Setup
 
-#### 나무가 이상하게 생겼어요!
-> 해당 서버팩의 나뭇잎은 잎사귀를 아름답게 만들기 위해 자체적으로 제작한 덥수룩한 텍스쳐를 가지고 있습니다.\
-> Minecraft 의 자체적인 문제로 인해 "빠른 그래픽"에서 오류가 발생합니다. 이 설정을 "화려하게" 또는 "굉장하게"로 변경하면 됩니다.\
-*(이러한 나뭇잎을 원치 않는다면 리소스 팩에서 쉽게 제거할 수 있습니다.)*
+#### What Minecraft version is the setup using?
+> The setup is running natively on **Paper 1.21**
 
-#### 이 서버팩에는 추가적으로 조정하는 과정이 필요한가요?
-> Unlimited Adventures는 **즉시 실행되도록 만들어졌습니다**. 즉, 사용하기 위해 귀찮게 설정할 필요가 없습니다!\
-> 그냥 서버를 키면 서버에서 놀 수 있어요!(물론 원한다면 무엇이든 자유롭게 변경할 수 있습니다.)
+#### Is the setup Bedrock compatible?
+> Yes! Unlimited Adventures can be joined on all devices! Crossplay Feature is included in the base package - you don't have to buy an addon! ❤️
+> Use port `25567` to join our Bedrock test server!
 
-#### 추가로 구매해야되는 것들이 있나요?
-> 하하 그럴리가요! 추가로 무언가를 구입할 필요가 없습니다. Unlimited Adventures는 **프리미엄 플러그인** 없이 즉시 작동합니다.
+#### I have a visual problem with Bedrock
+> Please try resetting your cached resource packs.
+> Main Menu -> Storage -> Cached Data -> Delete all Unlimited Adventures, Model Engine and Geyser packs
 
-#### Unlimited Adventures는 Oraxen 또는 Items Adder가 필요한가?
-> Oraxen 및 Items Adder는 서버팩이 작동하는 데 **필수가 아닙니다**.\
-> 하지만, 원하신다면 Oraxen이나 Items Adder에 [리소스팩을 적용](/docs/unlimited-adventures/oraxen)할 수 있습니다.
 
-## :wrench: 기술적인 질문
+#### 🌲 Trees look weird!
+> Our tree leaves have a custom, bushy texture, that makes the foliage beautiful.\
+> Due to a Minecraft limitation, it glitches on "Fast Graphics". Just change this setting to "Fancy" or "Fabulous".\
+⚙️ *If you prefer, this feature can be easily removed from the resource pack.*
 
-#### 서버팩의 요소를 수정 / 번역할 수 있나요?
-> 모든 기능을 최대한 수정할 수 있도록 특별한 주의를 기울였습니다!\
-> 또한 서버팩과 저희가 자체 제작한 기능을 자유롭게 번역할 수 있습니다.
+#### 🔧 Does this setup require additional configuration?
+> Unlimited Adventures is **made to run out-of-the-box**, which means, you don't have to configure it, to use it!\
+> Just start the server and it's ready for the play!
 
-#### 서버 요구 사항은 어떻게 되나요?
-> 저희는 최적화에 대한 우려를 심각하게 받아들이고 있으며 이를 면밀히 모니터링하고 있습니다.\
-> 현재로서는 6GB RAM만 할당된 경우에도 서버팩을 실행할 수 있습니다.
+#### 💵 Are there any premium dependencies required?
+> Not at all! You don't have to purchase any plugin. Unlimited Adventures works out of the box, with **no premium dependencies**.
 
-#### 설정이 마음에 들지 않으면 어떻게 하나요?
-> 전액 환불은 어떤가요? 거짓말 같다고요? 진심입니다! 저희는 Unlimited Adventures의 퀄리티를 100% 자신합니다.!\
-> 그래서 여러분들이 원한다면, 저희에게 디스코드로 메시지 보내주시면 환불 하시는 것을 도와드릴게요!\
-> 자세한 사항은 저희의 [특.별.한 환불 정책](/money-back-guarantee)을 확인해주세요!
+#### 🎨 Does Unlimited Adventures work with Oraxen or Items Adder?
+> Oraxen and Items Adder are **not required** for the setup to work.\
+> However, if you want, you can still easily [merge our resource pack](/docs/unlimited-adventures/oraxen) with Oraxen or Items Adder.
 
-#### 제가 궁금한 것이 있는데 여기엔 그 부분이 없어요!
-> 그런가요? 아직 해결되지 않은 궁금증은 저희 [디스코드](https://discord.gg/wdBFC7Hc6X)에서 질문해주세요!
+## :wrench: Technical
+
+#### 🔧 Can I configure / translate the setup?
+> Unlimited Adventures is designed in a way that allows almost every feature to be configured!\
+> Setup and all of it's custom features can be translated to your own language.
+
+#### 🛠️ What are the hardware requirements?
+> I'm taking the concern of performance seriously and I closely monitor it.\
+> At the moment, the setup will run even with just 6 GB of RAM allocated.
+
+#### 🛡️ What if I don't like the setup?
+> We will refund you. Yeah, seriously! We are 100% confident with the quality of Unlimited Adventures!\
+> So if you don't like the setup, just message us and you'll get your money back!\
+> Read more about our [unique refund policy](/money-back-guarantee)!
+
+#### ❓ My question is not on the list!
+> If that's the case, please ask your question on our [Discord](https://discord.gg/wdBFC7Hc6X)!
