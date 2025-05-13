@@ -85,7 +85,7 @@ const config = {
             label: '디스코드',
             href: 'https://discord.gg/wdBFC7Hc6X'
           },
-          {href: 'https://endernerdskr.netlify.app/docs/category/unlimited-adventures', label: 'Korean', position: 'right'}
+          {href: 'https://docs.endernerds.com/', label: 'English', position: 'right'}
         ],
       },
       footer: {
@@ -95,7 +95,7 @@ const config = {
           { label: '서비스 약관', to: 'terms-of-service/' },
           { label: '환불 약관', to: 'money-back-guarantee/' }
         ],
-        copyright: `Made for Ender Nerds. Not affiliated with Mojang Studios.`,
+        copyright: `Ender Nerds를 위해 제작됨. Mojang Studios과 관련이 없습니다.`,
       },
       prism: {
         theme: prismThemes.github,
