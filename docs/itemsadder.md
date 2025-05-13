@@ -3,7 +3,8 @@ sidebar_position: 5
 title: '🖼️ Items Adder'
 ---
 
-import ReactPlayer from 'react-player'
+import React from 'react';
+import ReactPlayer from 'react-player';
 
 
 # 🖼️ How to make Unlimited Adventures work with ItemsAdder
