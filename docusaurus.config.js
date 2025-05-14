@@ -52,7 +52,7 @@ const config = {
         },
         items: [
           // Centered links
-          { to: 'blog', label: 'Blog', position: 'left' },
+          { to: 'blog', label: '블로그', position: 'left' },
           {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
