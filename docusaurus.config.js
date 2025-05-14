@@ -62,7 +62,7 @@ const config = {
           { href: 'https://discord.gg/wdBFC7Hc6X', label: '디스코드', position: 'left' },
 
           // Right-aligned item
-          { href: 'https://docs.endernerds.com/', label: 'English', position: 'right' },
+          { href: 'https://docs.endernerds.com/', label: 'English Docs', position: 'right' },
         ],
       },
       footer: {
