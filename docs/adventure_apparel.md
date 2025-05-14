@@ -1,22 +1,22 @@
 ---
 sidebar_position: 13
-title: 'Adventure Apparel 3D'
+title: '모험 의류 3D'
 ---
 
 
 
-# 👑 **Adventure Apparel**
+# 👑 **모험 의류**
 
-Adventure Apparel is an **exclusive**, **custom-coded** system that allows your players to wear visible, fully 3D backpacks and tools on their body!
+모험 의류는 플레이어가 몸에 눈에 띄는 완전한 3D 배낭과 도구를 착용할 수 있게 해주는 **독점적**, **맞춤형 코딩** 시스템입니다!
 
-#### How to edit Adventure Apparel config?
-> You can edit the parameters of Adventure Apparel system by going to:
+#### 어드벤처 의류 구성을 편집하는 방법
+> 모험 의류 시스템의 매개변수를 편집하려면 해당 경로의 파일을 클릭하세요:
 ```unlimited_adventures/AdventureApparel/config.yml```
 
-#### Players cannot teleport or use a command
-Due to Spigot limitations, Adventure Apparel might sometimes block teleportation.
-We have created a workaround, that should allow you to use teleportation commands as usual.
+#### 플레이어는 순간이동이나 명령을 사용할 수 없습니다.
+스피곳 제한으로 인해 모험 의류가 순간이동을 차단하는 경우가 있습니다.
+이 문제를 해결하여 평소처럼 순간이동 명령을 사용할 수 있도록 했습니다.
 
-Please go to the Adventure Apparel's config.yml and locate 'teleport-commands:'. It's at the bottom of the file.\
-Now add all commands that don't work on your server to this list.\
-This should fix your issue, if it doesn't, please make a report on our [Discord](https://discord.gg/wdBFC7Hc6X).
+모험 의류의 config.yml 파일로 이동하여 'teleport-commands:'를 찾으세요. 파일 하단에 있습니다.
+이제 서버에서 작동하지 않는 모든 명령어를 이 목록에 추가하세요.
+이렇게 하면 문제가 해결될 것입니다. 문제가 해결되지 않으면 [디스코드](https://discord.gg/wdBFC7Hc6X)에 신고해 주세요.
