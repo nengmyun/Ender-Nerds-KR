@@ -4,7 +4,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Ender Nerds',
-  tagline: 'Official Documentation',
+  tagline: '공식 한글 문서 페이지',
   favicon: 'img/favicon.ico',
 
   url: 'https://your-docusaurus-site.example.com',
@@ -17,8 +17,8 @@ const config = {
   onBrokenMarkdownLinks: 'warn',
 
   i18n: {
-    defaultLocale: 'en',
-    locales: ['en'],
+    defaultLocale: 'ko',
+    locales: ['ko'],
   },
 
   presets: [
@@ -57,29 +57,29 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'Documentation',
+            label: '문시',
           },
-          { href: 'https://discord.gg/wdBFC7Hc6X', label: 'Discord', position: 'left' },
+          { href: 'https://discord.gg/wdBFC7Hc6X', label: '디스코드', position: 'left' },
 
           // Right-aligned item
-          { href: 'https://docs.endernerds.kr/', label: 'Korean', position: 'right' },
+          { href: 'https://docs.endernerds.com/', label: 'English', position: 'right' },
         ],
       },
       footer: {
         style: 'dark',
         links: [
-          { label: 'Discord', to: 'https://discord.gg/wdBFC7Hc6X' },
-          { label: 'Terms of Service', to: 'terms-of-service/' },
-          { label: 'Money Back Guarantee', to: 'money-back-guarantee/' },
+          { label: '디스코드', to: 'https://discord.gg/wdBFC7Hc6X' },
+          { label: '이용약관', to: 'terms-of-service/' },
+          { label: '환불약관', to: 'money-back-guarantee/' },
         ],
-        copyright: `Made for Ender Nerds. Not affiliated with Mojang Studios.`,
+        copyright: `Ender Nerds에 의해 제작됨. Mojang Studios와 공식적인 관계가 없습니다.`,
       },
       prism: {
         theme: prismThemes.github,
         darkTheme: prismThemes.dracula,
       },
       metadata: [
-        { name: 'description', content: 'Official Unlimited Adventures Documentation' },
+        { name: 'description', content: '공식 Unlimited Adventures 문서 페이지' },
       ],
     }),
 
