@@ -70,7 +70,7 @@ const config = {
         links: [
           { label: '디스코드', to: 'https://discord.gg/wdBFC7Hc6X' },
           { label: '이용약관', to: 'terms-of-service/' },
-          { label: '환불약관', to: 'money-back-guarantee/' },
+          { label: '환불 정책', to: 'money-back-guarantee/' },
         ],
         copyright: `Ender Nerds에 의해 제작됨. Mojang Studios와 공식적인 관계가 없습니다.`,
       },
