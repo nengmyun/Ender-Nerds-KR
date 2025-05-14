@@ -64,7 +64,7 @@ title: '🤔 FAQ'
 
 #### 🎨 Unlimited Adventures는 Oraxen이나 Items Adder와 함께 사용할 수 있나요?
 > Oraxen과 Items Adder는 **필수** 플러그인이 아닙니다.\
-> 하지만, 원하신다면 여전히 쉽게 [Oraxen]((/oraxen))이나 [Items Adder](/itemsadder)에 리소스 팩을 병합할 수 있습니다.
+> 하지만, 원하신다면 여전히 쉽게 [Oraxen](/oraxen)이나 [Items Adder](/itemsadder)에 리소스 팩을 병합할 수 있습니다.
 
 ## :wrench: 기술적인 질문
 
