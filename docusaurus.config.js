@@ -57,7 +57,7 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: '문시',
+            label: '문서',
           },
           { href: 'https://discord.gg/wdBFC7Hc6X', label: '디스코드', position: 'left' },
 
