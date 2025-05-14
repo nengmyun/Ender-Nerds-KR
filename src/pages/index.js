@@ -15,7 +15,7 @@ function HomepageHeader() {
         <Heading as="h1" className="hero__title">
           Ender Nerds
         </Heading>
-        <p className="hero__subtitle">Official documentation</p>
+        <p className="hero__subtitle">공식 한글 문서 페이지</p>
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
