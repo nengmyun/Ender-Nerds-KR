@@ -1,13 +1,13 @@
 ---
 sidebar_position: 13
-title: '🎯 Adventure Pass'
+title: '🎯 어드벤처 패스'
 ---
 
 
 
 
 
-# :dart: **Adventure Pass**
+# :dart: **어드벤처 패스**
 
 We take pride in having the best Battle Pass implementation out there.
 This guide aims to make the usage of this solution as easy as possible.
