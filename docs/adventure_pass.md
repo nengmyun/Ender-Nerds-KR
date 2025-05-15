@@ -9,8 +9,8 @@ title: '🎯 어드벤처 패스'
 
 # :dart: **어드벤처 패스**
 
-We take pride in having the best Battle Pass implementation out there.
-This guide aims to make the usage of this solution as easy as possible.
+우리는 최고의 배틀 패스 구현을 자랑스럽게 생각합니다.
+이 가이드는 이 솔루션을 가능한 한 쉽게 사용할 수 있도록 돕기 위해 작성되었습니다.
 
 
 ### Where is the config?
