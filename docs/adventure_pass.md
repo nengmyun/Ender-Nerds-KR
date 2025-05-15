@@ -13,65 +13,65 @@ title: '🎯 어드벤처 패스'
 이 가이드는 이 솔루션을 가능한 한 쉽게 사용할 수 있도록 돕기 위해 작성되었습니다.
 
 
-### Where is the config?
-You can find the Adventure Pass config file in:
+### 콘피그 파일은 어디에 있나요?
+어드벤처 패스 콘피그 파일은 여기에 있습니다:
 📁`unlimited_adventures/AdventurePass`
 
-### How to start/reset the season?
+### 시즌을 시작/초기화 하는 방법
 
-If you'd like to reset the current season (all players' progress, levels, XP and rewards), you have to execute this command:\
+현재 시즌(모든 플레이어의 진행 상황, 레벨, 경험치 및 보상)을 재설정하려면 다음 명령을 실행해야 합니다.\
 `/adventurepass newseason`
 
 
-### How to add Adventure Pass XP to a player?
+### 플레이어에게 어드벤처 패스 XP를 추가하는 방법
 
-You can easily add Adventure Pass Experience to a player by using the `/adventurepass givexp` command, example:\
-`/adventurepass givexp [player] [amount]`
-
-
-
-### :package: How to change Adventure Pass rewards?
-
-You can easily add, change or remove rewards from our Adventure Pass system.\
-In order to do so, you need to find the `unlimited_adventures/AdventurePass/rewards.yml` config file.
+`/adventurepass givexp` 명령을 사용하면 플레이어에게 어드벤처 패스 경험치를 쉽게 추가할 수 있습니다. 예:\
+`/adventurepass givexp [플레이어] [수량]`
 
 
 
-### 4 Types of rewards available:
+### :package: 어드벤처 패스 보상을 변경하는 방법
 
-#### :moneybag: Gold Rewards
-In order to add a gold reward, you have to type in:\
-`gold [amount]`, for example: `gold 500`
-
-#### :gem: Gems Rewards:
-In order to add a gems reward, you have to type in:\
-`gems [amount]`, for example: `gems 500`
+어드벤처 패스 시스템에서 보상을 쉽게 추가, 변경 또는 제거할 수 있습니다.\
+그렇게 하려면 `unlimited_adventures/AdventurePass/rewards.yml` 구성 파일을 찾아야 합니다.
 
 
-#### :hammer: Item Rewards:
-In order to add a gold reward, you have to type in:\
-`[amount] of [item]`, for example: `5 of iron sword`.
 
-> Enchantments are also supported:\
+### 4가지 유형의 보상이 제공됩니다.
+
+#### :moneybag: 골드 보상:
+골드 보상을 추가하려면 다음을 입력해야 합니다:\
+`gold [수량]`, 예시: `gold 500`
+
+#### :gem: 젬 보상:
+젬 보상을 추가하려면 다음을 입력해야 합니다:\
+`gems [수량]`, 예시: `gems 500`
+
+
+#### :hammer: 아이템 보상:
+아이템 보상을 추가하려면 다음을 입력해야 합니다:\
+`[수량] of [아이템]`, 예시: `5 of iron sword`.
+
+> 인첸트도 물론 지원합니다:\
 `iron sword of sharpness 5 and unbreaking 3`
 
-> You can even use names!\
-`iron sword named "&6&lPowerful Sword" of sharpness 5 and fire aspect 2 and unbreaking 3`
+> 물론 이름도 설정할 수 있죠!\
+`iron sword named "&6&l기가채드의 검" of sharpness 5 and fire aspect 2 and unbreaking 3`
 
-> You can make the item unbreakable:\
-`unbreakable iron sword named "&6&lPowerful Sword" of sharpness 5 and fire aspect 2 and unbreaking 3`
+> 내구도를 무한으로 지정할 수도 있습니다:\
+`unbreakable iron sword named "&6&l기가채드의 검" of sharpness 5 and fire aspect 2 and unbreaking 3`
 
 
-#### :computer: Command Rewards:
-You can use commands as rewards, by doing as following:\
+#### :computer: 커멘드 보상:
+커멘드로 보상을 지급하려는 경우 아래 방식을 사용할 수 있습니다:\
 `command premiumcurrency PLAYER_NAME add 100`
 
 
 
 
-## 15 Placeholders available:
+## 15개의 Placeholder 사용 가능:
 
-| Placeholder | Description |
+| Placeholder | 설명(추 후 번역 예정) |
 | - | - |
 | `%adventurepass_rewardavailable%` | This placeholder returns "true", if the player has available, unclaimed rewards. |
 | `%adventurepass_premium%` | This placeholder returns "true", if the player has the Premium Pass. |
