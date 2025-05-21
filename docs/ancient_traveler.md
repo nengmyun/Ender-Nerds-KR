@@ -1,28 +1,28 @@
 ---
 sidebar_position: 14
-title: 'Ancient Traveler'
+title: '고대 여행자'
 ---
 
 
 
-# :briefcase: Ancient Traveler
+# :briefcase: 고대 여행자
 
-Ancient Traveler is our custom-made, limited-time offer shop system.
-Every day, the Ancient Traveler offers a set of 3 different, unique items that he sells for a hefty price.
-His items stock is unique, you cannot purchase them through the regular Buy Shop.
+고대 여행자는 저희가 맞춤 제작한 기간 한정 특별 상점 시스템입니다.
+고대 여행자는 매일 3가지의 특별 아이템 세트를 제공하며, 이를 높은 가격에 판매합니다.
+고대 여행자의 아이템은 특별 상품으로, 일반 구매 상점에서는 구매할 수 없습니다.
 
 
 
-#### How to change Ancient Traveler's items?
+#### 고대 여행자의 아이템을 어떻게 바꾸나요?
 
-In order to change the Ancient Traveler's item stock, you need to go to:\
+고대 여행자의 아이템 목록을 변경하려면 다음으로 이동해야 합니다.\
 `unlimited_adventures/AncientTraveler/config.yml`\
-This file contains the item tags to the items configured in Command Panels' Ancient Traveler's menu.
-That list can be used to add, remove or rename tags.
+이 파일에는 Command Panels의 고대 여행자 메뉴에서 구성된 아이템에 대한 아이템 태그가 포함되어 있습니다.
+이 목록을 사용하여 태그를 추가, 제거 또는 이름을 변경할 수 있습니다.
 
 
 
-#### In order to modify the actual items, you need to go to:
+#### 실제 항목을 수정하려면 다음으로 이동해야 합니다.:
 `plugins/CommandPanels/panels/shops/ancient_traveler.yml`\
-In that file, you will find the 'custom-item' node, that contains all of the items sold by the Ancient Traveler.\
-That's the spot in which you can modify them.
+해당 파일에서 'custom-item' 노드를 찾을 수 있는데, 여기에는 고대 여행자가 판매하는 모든 아이템이 포함되어 있습니다.\
+그곳에서 아이템을 수정할 수 있습니다.
