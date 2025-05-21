@@ -30,12 +30,12 @@ title: '기본 설정'
 ### :earth_americas:  스폰을 옮기는 방법
 
 스폰을 이동하려면 다음이 필요합니다:
-- Move the spawn location with `/setspawn`
-- Move the NPC's with `/npc select` and then `/npc movehere`
-- Move the holograms with `/dh movehere name`
-- Move the Wilderness Portal with `/rg redefine wild_tp`
-- Optionally: Move the bounce pad with `/rg redefine jump_pad`
-- Optionally: Move the Sculk Portal by simply placing it in the new place using Portal Stone item.
+- 스폰 위치를 `/setspawn` 명령어로 이동시킵니다.
+- NPC를 `/npc select` 명령어로 선택한 후 `/npc movehere` 명령어로 이동시킵니다.
+- 홀로그램을 `/dh movehere name` 명령어로 이동시킵니다.
+- Wilderness Portal을 `/rg redefine wild_tp` 명령어로 이동시킵니다.
+- 선택사항: `/rg redefine jump_pad` 명령어로 점프패드를 이동시킵니다.
+- 선택사항: Portal Stone 아이템을 사용하여 스컬크 포털을 새로운 위치에 배치하면 간단히 이동할 수 있습니다.
 
 
 
