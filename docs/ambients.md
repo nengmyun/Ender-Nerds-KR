@@ -7,9 +7,7 @@ title: '🔊 환경음'
 
 # 🔊 **환경음**
 
-Our ambients system is a powerful mechanic designed specifically for Unlimited Adventures. It's a fully original and custom software.\
-It's a system which creates a realistic sound atmosphere based on your surroundings, biome, time of the day and even weather!
-저희의 환경음 시스템은 Unlimited Adventures를 위해 특별히 고안된 기술입니다. 완전히 독창적이고 맞춤 제작된 시스템이죠.
+저희의 환경음 시스템은 Unlimited Adventures를 위해 특별히 고안된 기술입니다. 완전히 독창적이고 맞춤 제작된 시스템이죠.\
 이는 당신의 주변 상황과 바이옴, 시간대, 날씨를 반영한 현실적인 분위기를 만들어줍니다.
 
 
