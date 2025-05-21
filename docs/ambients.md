@@ -13,23 +13,19 @@ title: '🔊 환경음'
 
 ## ⚙ 환경음 설정은 어떻게 하나요?
 
-We are providing incredibly powerful configuration settings for the ambients.\
-우리는 제공하고있다 믿을수없게 강력한 환경설정들 환경음을 위한
-저희는 여러 세부적인 세팅을 제공하고있습니다.
-Things ambient system can take into account when deciding what sounds should the player hear at the moment:
-상황 환경음 시스템은 고려, 계산할 수 있다 결정할때 어떤 소리를 플레이어가 들어야 할지 그 순간
+저희는 여러 세부적인 세팅을 제공하고있습니다.\
 세팅에서는 각 조건에 따라 플레이어에게 들려줄 소리를 설정할 수 있습니다.
-- 바이옴,
-- 고도 (Height - Y position),
-- 시간대
-- 날씨
+- Biomes - 생물군계,
+- Levels - 고도 (Height - Y position),
+- Time of the day - 시간대
+- Weather - 날씨
 
-You can also adjust:
+You can also adjust:\
 또한 다른 세부사항도 조절할 수 있습니다.
-- 볼륨,
-- 딜레이,
-- 딜레이 진폭 (랜덤 딜레이),
-- 사운드 오버랩 (다른 소리가 재생중일 때 소리가 겹치지 않도록 설정할 수 있습니다)
+- Volume - 음량,
+- Delay - 딜레이,
+- Amplitude of delay - 딜레이 진폭 (랜덤 딜레이),
+- Sound overlaping - 사운드 오버랩 (다른 소리가 재생중일 때 소리가 겹치지 않도록 설정할 수 있습니다)
 
 **소리 설정 예시**
 ```
@@ -57,15 +53,14 @@ yellowstone_elk:
 
 ## ➕ 소리 추가는 어떻게 하나요?
 
-Adding new sounds is very straightforward. Simply add the sound to the resource pack and update the configuration files!
 환경음을 추가하는 것은 매우 간단합니다. 리소스팩에 파일을 넣고 해당 설정 파일을 업데이트 하기만 해주시면 됩니다.
 
 ### 🎨 [Step 1/2] 리소스팩에 음성 파일 추가하기
 
 #### ✅ 파일이 올바르게 저장되었는지 확인
 - 파일이 .ogg 형식인지 확인하세요. (마인크래프트는 다른 파일 형식은 지원하지 않습니다)
-- 지향성 음향 (TNT폭파, 플레이어 발소리 등) => 모노
-- 무지향성 음향 (경험치 획득, 배경음악 등) => 스테레오
+- 지향성 음향 (TNT폭파, 플레이어 발소리 등) => MONO
+- 무지향성 음향 (경험치 획득, 배경음악 등) => STEREO
 
 #### ⬆️ [resource pack](resource-pack)에 음성 파일을 업로드
 - 📁`assets/minecraft/sounds/custom/`로 들어가세요.
@@ -103,10 +98,10 @@ Adding new sounds is very straightforward. Simply add the sound to the resource 
 
 ### ⚙ [Step 2/2] 소리를 환경음 리스트에 추가하기
 
-#### ➕ Just add your sound configuration to the file
-You can find the file in `unlimited_adventures/Ambients/sounds.yml`
+#### ➕ 파일에 소리 설정 추가
+You can find the file in 파일은 `unlimited_adventures/Ambients/sounds.yml`에서 찾으실 수 있습니다.
 
-An example config:
+설정 예시:
 ```
 hello:
     sound: hello
@@ -115,7 +110,7 @@ hello:
     delay: 20
 ```
 
-A more advanced example:
+심화 예시:
 ```
 hello:
     sound: hello
