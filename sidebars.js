@@ -2,6 +2,13 @@ module.exports = {
   tutorialSidebar: [
     {
       type: 'html',
+      value: '<div style="margin-top:1em; font-size: 14px; text-transform: uppercase; color: #888;">📢 중요</div>',
+      defaultStyle: true,
+    },
+    { type: 'doc', id: 'notice', label: ' 공지사항' },
+
+    {
+      type: 'html',
       value: '<div style="margin-top:1em; font-size: 14px; text-transform: uppercase; color: #888;">🐣 Getting Started</div>',
       defaultStyle: true,
     },
