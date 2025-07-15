@@ -4,7 +4,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Ender Nerds',
-  tagline: 'Official Documentation',
+  tagline: '공식 문서 페이지',
   favicon: 'img/favicon.ico',
 
   url: 'https://your-docusaurus-site.example.com',
@@ -57,12 +57,12 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'Documentation',
+            label: '문서',
           },
           { href: 'https://discord.gg/wdBFC7Hc6X', label: 'Discord', position: 'left' },
 
           // Right-aligned item
-          { href: 'https://docs.endernerds.kr/', label: '한국어 문서', position: 'right' },
+          { href: 'https://docs.endernerds.com/', label: 'English Docs', position: 'right' },
         ],
       },
       footer: {
@@ -71,16 +71,16 @@ const config = {
           { label: 'Discord', to: 'https://discord.gg/wdBFC7Hc6X' },
           { label: 'Terms of Service', to: 'terms-of-service/' },
           { label: 'Money Back Guarantee', to: 'money-back-guarantee/' },
-          { label: 'License System', to: 'license-system/' },
+          { label: '라이선스 시스템', to: 'license-system/' },
         ],
-        copyright: `Made for Ender Nerds. Not affiliated with Mojang Studios.`,
+        copyright: `Ender Nerds에 의해 제작됨. Mojang Studios와 관계가 없습니다.`,
       },
       prism: {
         theme: prismThemes.github,
         darkTheme: prismThemes.dracula,
       },
       metadata: [
-        { name: 'description', content: 'Official Unlimited Adventures Documentation' },
+        { name: 'description', content: '공식 Unlimited Adventures 문서 페이지' },
       ],
     }),
 
