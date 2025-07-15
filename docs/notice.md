@@ -1,6 +1,6 @@
 ---
 sidebar_position: 23
-title: '중요 공지
+title: '중요 공지'
 ---
 
 
